@@ -42,8 +42,10 @@ tenminste twee keer samen voorkomen.
 
 Om de Maximal Frequent Itemsets te berekenen, gebruiken we een standaard
 A-Priori implementatie. We hebben ook geprobeerd om hashing toe te voegen, maar
-het vullen van de hash tabel bleek meer tijd te kosten dan het nadien uitspaarde. Om geheugen te winnen hadden we ook geen hashing nodig, want we kwamen geen geheugen te kort bij het verwerken van de volledige itemset. We hebben dus de hashing stap
-uiteindelijk weer weggenomen.
+het vullen van de hash tabel bleek meer tijd te kosten dan het nadien
+uitspaarde. Om geheugen te winnen hadden we ook geen hashing nodig, want we
+kwamen geen geheugen te kort bij het verwerken van de volledige itemset. We
+hebben dus de hashing stap uiteindelijk weer weggenomen.
 
 De tijdscomplexiteit van dit algoritme, A-Priori buiten beschouwing gelaten, is
 O(n+m) in termen van het aantal keer dat we door de dataset moeten lopen,

@@ -36,7 +36,7 @@ def process_record(record):
     baskets.append(basket)
 
 
-dblpparser.Parser().parse(on_record=process_record, use_snap=False, silent=False)
+dblpparser.Parser().parse(on_record=process_record, use_snap=True, silent=False)
 
 
 itemset_size = 2
@@ -68,17 +68,23 @@ while support_threshold >= 2:
         support_threshold -= 1
         continue
 
-    print('------------------------------------------------------------')
-    print(' Group size: %i    Support: %i    Number of groups: %i' %
+    print('----------------------------------------------------------------')
+    print(' Group size: %i    Highest support: %i    Number of groups: %i' %
           (itemset_size, support_threshold, len(maximal_frequent_itemsets)))
-    print('------------------------------------------------------------')
+    print('----------------------------------------------------------------', end='')
 
-    for itemset in maximal_frequent_itemsets:
+    author_groups = sorted([sorted([items[item] for item in itemset])
+                           for itemset in maximal_frequent_itemsets])
+    max_name_length = [max([len(name) for name in (itemset[i] for itemset in author_groups)])
+                       for i in range(itemset_size)]
+
+    for author_group in author_groups:
         print()
 
-        for item in itemset:
-            print(' - %s' % items[item], end='')
+        for i in range(len(author_group)):
+            name = author_group[i]
+            print(' - %s' % name.ljust(max_name_length[i]), end='')
 
-    print('\n\n\n')
+    print('\n\n')
 
     itemset_size += 1

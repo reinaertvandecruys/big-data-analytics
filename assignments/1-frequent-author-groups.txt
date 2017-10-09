@@ -1,0 +1,123 @@
+[BDA] Taak 1 - Frequent Itemset Mining - 2017-10-11
+---------------------------------------------------
+
+Jens Vannitsen - 1334039
+Reinaert Van de Cruys - 1334947
+
+
+
+
+
+
+
+
+----------------------------------------------------------------
+ Group size: 2    Highest support: 20    Number of groups: 1
+----------------------------------------------------------------
+ - Irith Pomeranz - Sudhakar M. Reddy
+
+
+----------------------------------------------------------------
+ Group size: 3    Highest support: 8    Number of groups: 1
+----------------------------------------------------------------
+ - Alok N. Choudhary - J. Ramanujam - Mahmut T. Kandemir
+
+
+----------------------------------------------------------------
+ Group size: 4    Highest support: 5    Number of groups: 1
+----------------------------------------------------------------
+ - Alok N. Choudhary - J. Ramanujam - Mahmut T. Kandemir - Prithviraj Banerjee
+
+
+----------------------------------------------------------------
+ Group size: 5    Highest support: 4    Number of groups: 1
+----------------------------------------------------------------
+ - David Botstein - J. Michael Cherry - Mark Schroeder - Selina S. Dwight - Shuai Weng
+
+
+----------------------------------------------------------------
+ Group size: 6    Highest support: 3    Number of groups: 29
+----------------------------------------------------------------
+ - Catherine A. Ball - David Botstein    - J. Michael Cherry   - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Kara Dolinski       - Laurie Issel-Tarver - Selina S. Dwight
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Kara Dolinski       - Laurie Issel-Tarver - Shuai Weng
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Kara Dolinski       - Mark Schroeder      - Selina S. Dwight
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Kara Dolinski       - Mark Schroeder      - Shuai Weng
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Kara Dolinski       - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Laurie Issel-Tarver - Mark Schroeder      - Shuai Weng
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Laurie Issel-Tarver - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - Gail Binkley      - J. Michael Cherry   - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - Gail Binkley      - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight
+ - David Botstein    - Gail Binkley      - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder      - Shuai Weng
+ - David Botstein    - Gail Binkley      - Kara Dolinski       - Laurie Issel-Tarver - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - Gail Binkley      - Kara Dolinski       - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - Gail Binkley      - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight
+ - David Botstein    - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder      - Shuai Weng
+ - David Botstein    - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - J. Michael Cherry - Kara Dolinski       - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - J. Michael Cherry - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - David Botstein    - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - Gail Binkley      - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight
+ - Gail Binkley      - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder      - Shuai Weng
+ - Gail Binkley      - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Selina S. Dwight    - Shuai Weng
+ - Gail Binkley      - J. Michael Cherry - Kara Dolinski       - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - Gail Binkley      - J. Michael Cherry - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - Gail Binkley      - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+ - J. Michael Cherry - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight    - Shuai Weng
+
+
+----------------------------------------------------------------
+ Group size: 7    Highest support: 3    Number of groups: 8
+----------------------------------------------------------------
+ - David Botstein - Gail Binkley      - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder   - Selina S. Dwight
+ - David Botstein - Gail Binkley      - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder   - Shuai Weng
+ - David Botstein - Gail Binkley      - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Selina S. Dwight - Shuai Weng
+ - David Botstein - Gail Binkley      - J. Michael Cherry - Kara Dolinski       - Mark Schroeder      - Selina S. Dwight - Shuai Weng
+ - David Botstein - Gail Binkley      - J. Michael Cherry - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight - Shuai Weng
+ - David Botstein - Gail Binkley      - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight - Shuai Weng
+ - David Botstein - J. Michael Cherry - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight - Shuai Weng
+ - Gail Binkley   - J. Michael Cherry - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Selina S. Dwight - Shuai Weng
+
+
+----------------------------------------------------------------
+ Group size: 8    Highest support: 3    Number of groups: 1
+----------------------------------------------------------------
+ - David Botstein - Gail Binkley - J. Michael Cherry - Kara Dolinski - Laurie Issel-Tarver - Mark Schroeder - Selina S. Dwight - Shuai Weng
+
+
+----------------------------------------------------------------
+ Group size: 9    Highest support: 2    Number of groups: 23
+----------------------------------------------------------------
+ - Akira Amano          - Kaduo Hiraki          - Kaori Maeda           - Kouji Nishimura   - Masatoshi Arikawa   - Mutsuhiro Terauchi  - Reiji Aibara       - Shinji Shimojo     - Yasuaki Nakamura
+ - Bradford W. Wade     - Donald D. Chamberlin  - Gianfranco R. Putzolu - Irving L. Traiger - James W. Mehl       - Jim Gray            - Mike W. Blasgen    - Morton M. Astrahan - Raymond A. Lorie
+ - Bradford W. Wade     - Donald D. Chamberlin  - Gianfranco R. Putzolu - Irving L. Traiger - James W. Mehl       - Jim Gray            - Mike W. Blasgen    - Morton M. Astrahan - W. Frank King III
+ - Bradford W. Wade     - Donald D. Chamberlin  - Gianfranco R. Putzolu - Irving L. Traiger - James W. Mehl       - Jim Gray            - Mike W. Blasgen    - Raymond A. Lorie   - W. Frank King III
+ - Bradford W. Wade     - Donald D. Chamberlin  - Gianfranco R. Putzolu - Irving L. Traiger - James W. Mehl       - Jim Gray            - Morton M. Astrahan - Raymond A. Lorie   - W. Frank King III
+ - Bradford W. Wade     - Donald D. Chamberlin  - Gianfranco R. Putzolu - Irving L. Traiger - James W. Mehl       - Mike W. Blasgen     - Morton M. Astrahan - Raymond A. Lorie   - W. Frank King III
+ - Bradford W. Wade     - Donald D. Chamberlin  - Gianfranco R. Putzolu - Irving L. Traiger - Jim Gray            - Mike W. Blasgen     - Morton M. Astrahan - Raymond A. Lorie   - W. Frank King III
+ - Bradford W. Wade     - Donald D. Chamberlin  - Gianfranco R. Putzolu - James W. Mehl     - Jim Gray            - Mike W. Blasgen     - Morton M. Astrahan - Raymond A. Lorie   - W. Frank King III
+ - Bradford W. Wade     - Donald D. Chamberlin  - Irving L. Traiger     - James W. Mehl     - Jim Gray            - Mike W. Blasgen     - Morton M. Astrahan - Raymond A. Lorie   - W. Frank King III
+ - Bradford W. Wade     - Gianfranco R. Putzolu - Irving L. Traiger     - James W. Mehl     - Jim Gray            - Mike W. Blasgen     - Morton M. Astrahan - Raymond A. Lorie   - W. Frank King III
+ - Catherine A. Ball    - David Botstein        - Gavin Sherlock        - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder     - Midori A. Harris   - Selina S. Dwight
+ - Catherine A. Ball    - David Botstein        - Gavin Sherlock        - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder     - Midori A. Harris   - Shuai Weng
+ - Catherine A. Ball    - David Botstein        - Gavin Sherlock        - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder     - Selina S. Dwight   - Shuai Weng
+ - Catherine A. Ball    - David Botstein        - Gavin Sherlock        - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Midori A. Harris   - Selina S. Dwight   - Shuai Weng
+ - Catherine A. Ball    - David Botstein        - Gavin Sherlock        - J. Michael Cherry - Kara Dolinski       - Mark Schroeder      - Midori A. Harris   - Selina S. Dwight   - Shuai Weng
+ - Catherine A. Ball    - David Botstein        - Gavin Sherlock        - J. Michael Cherry - Laurie Issel-Tarver - Mark Schroeder      - Midori A. Harris   - Selina S. Dwight   - Shuai Weng
+ - Catherine A. Ball    - David Botstein        - Gavin Sherlock        - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Midori A. Harris   - Selina S. Dwight   - Shuai Weng
+ - Catherine A. Ball    - David Botstein        - J. Michael Cherry     - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Midori A. Harris   - Selina S. Dwight   - Shuai Weng
+ - Catherine A. Ball    - Gavin Sherlock        - J. Michael Cherry     - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Midori A. Harris   - Selina S. Dwight   - Shuai Weng
+ - David Botstein       - Gail Binkley          - Gavin Sherlock        - J. Michael Cherry - Kara Dolinski       - Laurie Issel-Tarver - Mark Schroeder     - Midori A. Harris   - Selina S. Dwight
+ - David Botstein       - Gavin Sherlock        - J. Michael Cherry     - Kara Dolinski     - Laurie Issel-Tarver - Mark Schroeder      - Midori A. Harris   - Selina S. Dwight   - Shuai Weng
+ - Donald D. Chamberlin - Gianfranco R. Putzolu - Irving L. Traiger     - James W. Mehl     - Jim Gray            - Mike W. Blasgen     - Morton M. Astrahan - Raymond A. Lorie   - W. Frank King III
+ - Hironobu Ohmatsu     - Kenji Eguchi          - Kensaku Mori          - M. Kusumoto       - Masahiro Kaneko     - Noboru Niki         - Noriyuki Moriyama  - Ryutaro Kakinuma   - Yoshiki Kawata
+
+
+----------------------------------------------------------------
+ Group size: 10    Highest support: 2    Number of groups: 2
+----------------------------------------------------------------
+ - Bradford W. Wade  - Donald D. Chamberlin - Gianfranco R. Putzolu - Irving L. Traiger - James W. Mehl - Jim Gray            - Mike W. Blasgen - Morton M. Astrahan - Raymond A. Lorie - W. Frank King III
+ - Catherine A. Ball - David Botstein       - Gavin Sherlock        - J. Michael Cherry - Kara Dolinski - Laurie Issel-Tarver - Mark Schroeder  - Midori A. Harris   - Selina S. Dwight - Shuai Weng

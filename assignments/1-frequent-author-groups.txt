@@ -54,7 +54,16 @@ grootste voorkomende groep. In de praktijk zien we dat het algoritme 44 keer
 door de snap dataset moet lopen om de itemsets voor alle groottes te vinden,
 waarbij alle berekeningen in totaal op een laptop minder dan drie seconden in
 beslag nemen. De volledige dataset kost uiteraard aanzienlijk meer tijd.
-Hieronder het volledige resultaat voor de snap dataset.
+Onderaan dit verslag staat het volledige resultaat voor de snap dataset.
+
+Om het programma uit te voeren:
+    1. In '1-frequent-author-groups.py', op lijnen 7 en 8, zorg dat de paden
+       correct zijn, en op lijn 39, zet 'use_snap' op True om de snap
+       dataset te gebruiken of False om de volledige dataset te gebruiken. In
+       het laatste geval, zorg dat 'dblp.dtd' in dezelfde folder staat als
+       'dblp.xml'.
+    2. cd /pad/naar/dit/bestand
+    3. python3 1-frequent-author-groups.py
 
 
 

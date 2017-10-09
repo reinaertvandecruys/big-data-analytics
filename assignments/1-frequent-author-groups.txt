@@ -1,13 +1,60 @@
-[BDA] Taak 1 - Frequent Itemset Mining - 2017-10-11
----------------------------------------------------
+                 [BDA] Verslag taak 1 - Frequent Itemset Mining
+                 ----------------------------------------------
 
 Jens Vannitsen - 1334039
 Reinaert Van de Cruys - 1334947
 
 
 
+De algoritmen die we gezien hebben in de les, vinden alle itemsets die minstens
+een bepaald aantal keer samen voorkomen. Vervolgens hebben we gezien hoe we deze
+algoritmen kunnen gebruiken om de Maximal Frequent Itemsets te vinden. Deze
+opgave is echter nog eens anders, omdat we voor iedere itemsetgrootte de
+itemsets moeten vinden die het vaakst samen voorkomen. We zullen de geziene
+technieken dus nogmaals moeten aanpassen.
 
+Ons algoritme werkt als volgt: we lopen een eeste maal door de dataset en slaan
+de support van ieder individueel item op in het werkgeheugen. Vervolgens nemen
+we de kleinst mogelijke itemsetgrootte (2 dus) en de hoogste nog zinnige support
+threshold (dus de frequency van het item dat het vaakste voorkomt, wat we kunnen
+afleiden uit de net opgebouwde lijst van item supports).
 
+    itemset_size = 2
+    support_threshold = max(item_supports)
+
+We bepalen nu de itemsets voor iedere grootte als volgt: We berekenen de Maximal
+Frequent Itemsets voor de huidige itemsetgrootte en support threshold. Als
+blijkt dat deze lijst leeg is, decrementeren we de support threshold. Als er wel
+itemsets in deze lijst zitten, moeten dit wel alle itemsets zijn die het vaakst
+samen voorkomen voor de huidige itemsetgrootte. We printen deze itemsets dan uit
+en incrementeren de itemsetgrootte. Deze stappen blijven we herhalen tot de
+support threshold één is, dus tot we alle relevante itemsets hebben gevonden die
+tenminste twee keer samen voorkomen.
+
+    while support_threshold >= 2:
+        maximal_frequent_itemsets = get_mfis(itemset_size, support_threshold)
+
+        if len(maximal_frequent_itemsets) == 0:
+            support_threshold -= 1
+        else:
+            print(maximal_frequent_itemsets)
+            itemset_size += 1
+
+Om de Maximal Frequent Itemsets te berekenen, gebruiken we een standaard
+A-Priori implementatie. We hebben ook geprobeerd om hashing toe te voegen, maar
+het vullen van de hash tabel bleek meer tijd te kosten dan het nadien uitspaarde,
+en om geheugen te winnen hadden we ook geen hashing nodig, want ook op de
+volledige dataset komen we nooit geheugen te kort, dus hebben we de hashing stap
+uiteindelijk weer weggenomen.
+
+De tijdscomplexiteit van dit algoritme, A-Priori buiten beschouwing gelaten, is
+O(n+m) in termen van het aantal keer dat we door de dataset moeten lopen,
+waarbij n de hoogst voorkomende support van een individueel item is en m de
+grootste voorkomende groep. In de praktijk zien we dat het algoritme 44 keer
+door de snap dataset moet lopen om de itemsets voor alle groottes te vinden,
+waarbij alle berekeningen in totaal op een laptop minder dan drie seconden in
+beslag nemen. De volledige dataset kost uiteraard aanzienlijk meer tijd.
+Hieronder het volledige resultaat voor de snap dataset.
 
 
 

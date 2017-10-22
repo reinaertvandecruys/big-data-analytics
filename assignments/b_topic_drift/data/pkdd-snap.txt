@@ -1,0 +1,46 @@
+2003 Knowledge Discovery in Databases: PKDD 2003, 7th European Conference on Principles and Practice of Knowledge Discovery in Databases, Cavtat-Dubrovnik, Croatia, September 22-26, 2003, Proceedings
+2003 ExAnte: Anticipated Data Reduction in Constrained Pattern Mining.
+2002 Spatial Subgroup Mining Integrated in an Object-Relational Spatial Database.
+1999 Unsupervised Profiling for Identifying Superimposed Fraud.
+2000 Efficient Score-Based Learning of Equivalence Classes of Bayesian Networks.
+2000 Inductive Logic Programming in Clementine.
+2001 Using Grammatical Inference to Automate Information Extraction from the Web.
+2002 Finding Hidden Factors UsingIndependent Component Analysis.
+1997 On Meta Levels of an Organized Society of KDD Agents.
+2001 Automatic Construction and Refinement of a Class Hierarchy over Multi-valued Data.
+2000 Discovery of Generalized Association Rules with Multiple Minimum Supports.
+1997 The Pronciple of Transformation between Efficiency and Effectiveness: Towards a Fair Evaluation of the Cost-Effectiveness of KDD Techniques.
+1999 Classification Algorithms Based on Linear Combinations of Features.
+1997 Attribute Discovery and Rough Sets.
+2001 Pattern Extraction for Time Series Classification.
+2001 The Musical Expression Project: A Challenge for Machine Learning and Knowledge Discovery.
+2000 Trees and Induction Graphs for Multivariate Response.
+2001 Identification of ECG Arrhythmias Using Phase Space Reconstruction.
+1997 Finding Similar Time Series.
+1999 A Comparison of Model Selection Procedures for Predicting Turning Points in Financial Time Series.
+2003 Preference Mining: A Novel Approach on Mining User Preferences for Personalized Applications.
+2000 Applying Objective Interestingness Measures in Data Mining Systems.
+2000 Confirmation Rule Sets.
+2000 Algorithms for Mining Share Frequent Itemsets Containing Infrequent Subsets.
+2002 Privacy-Oriented Data Mining by Proof Checking.
+1997 Rough Sets for Data Mining and Knowledge Discovery (Abstract).
+1998 Model Switching for Bayesian Classification Trees with Soft Splits.
+1999 Regression by Feature Projections.
+1999 Experiments on a Representation-Independent "Top-Down and Prune" Induction Scheme.
+1999 The ESPRIT Project CreditMine and Its Relevance for the Internet Market.
+2002 Multiscale Comparison of Temporal Patternsin Time-Series Medical Databases.
+1998 Conceptual Knowledge Discovery in Databases Using Formal Concept Analysis Methods.
+2003 Automated Detection of Epidemics from the Usage Logs of a Physicians' Reference Database.
+1998 Discovery of Surprising Exception Rules Based on Intensity of Implication.
+2001 Lightweight Collaborative Filtering Method for Binary-Encoded Data.
+2001 Comparison of Three Objective Functions for Conceptual Clustering.
+2000 Relative Unsupervised Discretization for Association Rule Mining.
+2001 Support Vectors for Reinforcement Learning.
+1997 Bivariate Decision Trees.
+1999 Handling Missing Data in Trees: Surrogate Splits or Statistical Imputation.
+1999 Selection and Statistical Validation of Features and Prototypes.
+2001 Sentence Filtering for Information Extraction in Genomics, a Classification Problem.
+2003 Majority Classification by Means of Association Rules.
+2001 Specifying Mining Algorithms with Iterative User-Defined Aggregates: A Case Study.
+1999 Generating Linguistic Fuzzy Rules for Pattern Classification with Genetic Algorithms.
+2002 Using Condensed Representations for Interactive Association Rule Mining.

@@ -1,0 +1,181 @@
+1988 Proceedings of the Fourth International Conference on Data Engineering, February 1-5, 1988, Los Angeles, California, USA
+1990 Proceedings of the Sixth International Conference on Data Engineering, February 5-9, 1990, Los Angeles, California, USA
+1990 Title, General Chairman's Message, Program Chairman's Message, Reviewers, Table of Contents, Author Index.
+1994 Title, Message from the General Chairs, Message from the Program Chair, Committees, Reviewers, Author Index.
+1997 Databases and the Web: What's in it for Databases? (Panel).
+1984 Locking Policies in Distributed Databases.
+1992 A Spanning Tree Transitive Closure Algorithm.
+2002 Approximating a Data Stream for Querying and Estimation: Algorithms and Performance Evaluation.
+1986 An Evaluation Scheme for Database Management Systems that are claimed to be Relational.
+2002 FAST: A New Sampling-Based Algorithm for Discovering Association Rules.
+1991 An Association Algebra For Processing Object-Oriented Databases.
+1987 Design and Implementation of GORDION, an Object Base Management System.
+1984 From Natural Language Requirements to good Data Base Definitions - A Data Base Design Methodology.
+2002 d-Clusters: Capturing Subspace Correlation in a Large Data Set.
+2003 User Interaction in the BANKS System.
+1992 Data Hiding and Security in Object-Oriented Databases.
+1989 Pragmatic Estimation of Join Sizes and Attribute Correlations.
+1996 PICSDesk: A Case Study on Business Process Re-engineering.
+1991 Constraint-Based Reasoning in Deductive Databases.
+1992 Chain-Split Evaluation in Deductive Databases.
+1986 Decides: An Expert System Tool for Physical Database Design.
+1986 A Word-Parallel, Bit-Serial Signature Processor for Superimposed Coding.
+1997 Clustering Association Rules.
+1989 Automatic Logical Navigation Among Relations Using Steiner Trees.
+1992 Exploring Semantics in Aggregation Hierarchies for Object-Oriented Databases.
+1999 Query Routing in Large-Scale Digital Library Systems.
+1993 The Volcano Optimizer Generator: Extensibility and Efficient Search.
+1987 Concurrency Control Based on Distributed Cycle Detection.
+1986 Mermaid - Experiences with Network Operation.
+1987 Automatic Data Transformation and Restructuring.
+1997 Buffer and I/O Resource Pre-allocation for Implementing Batching and Buffering Techniques for Video-on-Demand Systems.
+1999 Similarity Searching in Text Databases with Multiple Field Types.
+1987 Design Methodologies of Computers for Aritificial Intelligence Processing.
+1987 Relationship Between Data Engineering and Software Engineering (Abstract).
+1994 Query Optimization Strategies for Browsing Sessions.
+1996 A Groupware Benchmark Based on Lotus Notes.
+1999 Index Merging.
+1993 Data Quality Requirements Analysis and Modeling.
+2003 Indexing Weighted-Sequences in Large Databases.
+1992 Prepare and Commit Certification for Decentralized Transaction Management in Rigorous Heterogeneous Multidatabases.
+1994 On the Interaction Between ISA and Cardinality Constraints.
+1991 Perfect Hashing Functions for Hardware Applications.
+1988 Linearizing the Directory Growth in Order Preserving Extendible Hashing.
+1995 A Trace-Based Simulation of Pointer Swizzling Techniques.
+1991 Performance Characteristics of Protocols With Ordered Shared Locks.
+2003 Spatial Processing using Oracle Table Functions.
+1996 Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique.
+1997 Modeling and Querying Moving Objects.
+1999 Concentric Hyperspaces and Disk Allocation for Fast Parallel Range Searching.
+1991 Lk: A Language for Capturing Real World Meanings of the Stored Data.
+1996 Parallel Processing of Spatial Joins Using R-trees.
+1988 Scheduling of Page Fetches in Join Operations Using Bc-Trees.
+2002 XGRIND: A Query-Friendly XML Compressor.
+1996 A Proposed Method for Creating VCR Functions using MPEG Streams.
+1984 Utilizing an Executable Specification Language for an Information System.
+1997 Indexing OODB Instances based on Access Proximity.
+1996 A Transactional Nested Process Management System.
+1999 Raster-Spatial Data Declustering Revisited: An Interactive Navigation Perspective.
+1999 Universal Temporal Extensions for Database Languages.
+1989 Maintaining Materialized Views in Distributed Databases.
+1994 Efficient Support for Partial Write Operations in Replicated Databases.
+1993 Parallel Database Systems: the case for shared-something.
+1999 Managing Distributed Memory to Meet Multiclass Workload Response Time Goals.
+2003 Similarity Search in Sets and Categorical Data Using the Signature Tree.
+1984 Micro and Macro Statistical/Scientific Database Management.
+2003 Structural Join Order Selection for XML Query Optimization.
+1993 Dynamic Finite Versioning: An Effective Versioning Approach to Concurrent Transaction and Query Processing.
+2003 Automating Layout of Relational Databases.
+1990 A Brief Overview of LILOG-DB.
+2003 Fast Data Access on Multiple Broadcast Channels.
+1993 A Simple Analysis of the LRU Buffer Policy and Its Relationship to Buffer Warm-Up Transient.
+1998 WWW and the Internet - Did We Miss the Boat? (Panel).
+1987 Engineering Information Systems: Implementation Approaches and Issues.
+1994 Managing Change in the Rufus System.
+1999 Using Codewords to Protect Database Data from a Class of Software Errors.
+2002 StreamCorder: Fast Trial-and-Error Analysis in Scientific Databases.
+1984 Data Flow Structures for System Specification and Implementation.
+1992 Probabilistic Dignosis of Hot Spots.
+2001 Bundles in Captivity: An Application of Superimposed Information.
+2002 Techniques for Storing XM.
+2003 Text Joins for Data Cleansing and Integration in an RDBMS.
+1984 A Low-Cost Geometry-Preserving Image Database System.
+2002 Processing Reporting Function Views in a Data Warehouse Environment.
+2002 Multiple Query Optimization by Cache-Aware Middleware Using Query Teamwork.
+1995 Design of Multimedia Storage Systems for On-Demand Playback.
+1994 Supporting Data Mining of Large Databases by Visual Feedback Queries.
+1991 Query Pairs as Hypertext Links.
+2003 The QUIQ Engine: A Hybrid IR DB System.
+1984 Representing Roles in Universal Scheme Interfaces.
+1989 Complex and Composite Objects in CAD/CAM Databases.
+2000 SQLServer for Windows CE - A Database Engine for Mobile and Embedded Platforms.
+1993 Can OODB Technology Solve CAD Design Data Management Problems? (Panel Abstract).
+1988 Parallel Query Processing for Complex Objects.
+1990 A ``Greedy'' Approach to the Write Problem in Shadowed Disk Systems.
+1996 Tioga-2: A Direct Manipulation Database Visualization Environment.
+1986 The Bounded Disorder Access Method.
+2000 Finding Interesting Associations without Support Pruning.
+1999 Fat-Btree: An Update-Conscious Parallel Directory Structure.
+2002 Efficiently Ordering Query Plans for Data Integration.
+2000 Generalized Isolation Level Definitions.
+1989 A Robust Multi-Attribute Search Structure.
+1989 Indexing Techniques for Historical Databases.
+1990 Alternatives in Complex Object Representation: A Performance Perspective.
+2000 Landmarks: a New Model for Similarity-based Pattern Querying in Time Series Databases.
+2003 SG-WRAM Schema Guided Wrapper Maintenance.
+1998 Flattening an Object Algebra to Provide Performance.
+1995 Building an Integrated Active OODBMS: Requirements, Architecture, and Design Decisions.
+2001 The Importance of Extensible Database Systems for E-Commerce.
+1999 Database Extensions for Complex Forms of Data (Abstract).
+2002 Structural Joins: A Primitive for Efficient XML Query Pattern Matching.
+1993 Database Technology and Standards: Are we Getting Anywhere? (Panel Abstract).
+2000 A Semi-Structured Data Cartridge for Relational Databases.
+1999 Efficient Theme and Non-Trivial Repeating Pattern Discovering in Music Databases.
+1989 Generalized Events In Temporal Databases.
+1990 Extended Relations.
+1996 Synthesizing Distributed Constrained Events from Transactional Workflow.
+1997 Improving the Quality of Technical Data for Developing Case Based Reasoning Diagnostic Software for Aircraft Maintenance.
+1984 Practical Application of IDEF1 as a Database Development Tool.
+1993 SLEVE: Semantic Locking for EVEnt synchronisation.
+2001 Efficient Bulk Deletes in Relational Databases.
+1997 Representative Objects: Concise Representations of Semistructured, Hierarchial Data.
+2000 Dynamic Miss-Counting Algorithms: Finding Implication and Similarity Rules with Confidence Pruning.
+1992 Database Structure and Discovery Tools for Integrated Circuit Reliability Evaluation.
+1990 A Paradigm for Concurrency Control in Heterogeneous Distributed Database Systems.
+2003 Selectivity Estimation for Predictive Spatio-Temporal Queries.
+1984 A Comparison of Parallel Approaches to data Representation and Data Transferral.
+1984 Guardian: Decentralized Control of an Embedded Multimicroprocessor.
+2000 Efficient Mining of Constrained Correlated Sets.
+1994 A Multi-Set Extended Relational Algebra - A Formal Approach to a Practical Issue.
+1989 Set-Oriented Disk Access to Large Complex Objects.
+1993 Computation, Information, Communication, Imagination (Abstract).
+1991 The Architecture of BrAID: A System for Bridging AI/DB Systems.
+1995 CCAM: A Connectivity-Clustered Access Method for Aggregate Queries on Transportation Networks: A Summary of Results.
+1990 Supporting Universal Quantification in a Two-Dimensional Database Query Language.
+2002 Fast Mining of Massive Tabular Data via Approximate Distance Computations.
+1994 On a More Realistic Lock Contention Model and Its Analysis.
+2003 Combining Hierarchy Encoding and Pre-Grouping: Intelligent Grouping in Star Join Processing.
+1987 Non First Normal Form Relations and Recursive Queries: An SQL-Based Approach.
+2001 Querying XML Documents Made Easy: Nearest Concept Queries.
+2002 Peer-to-Peer Data Management.
+1991 Read Optimized File System Designs: A Performance Evaluation.
+1995 Flexible Relation: An Approach for Integrating Data from Multiple, Possibly Inconsistent Databases.
+2000 Efficient Query Refinement in Multimedia Databases.
+1987 On the Evaluation of Recursion in (Deductive) Database Systems by Efficient Differential Fixpoint Iteration.
+2003 MEMS-based Disk Buffer for Streaming Media Servers.
+2003 A Framework for the Selective Dissemination of XML Documents based on Inferred User Profiles.
+2001 Model-Based Mediation with Domain Maps.
+2003 Querying Text Databases for Efficient Information Extraction.
+1997 Supporting Fine-grained Data Lineage in a Database Visualization Environment.
+1992 Mapping a Version Model to a Complex-Object Data Model.
+1995 A Universal Relation Approach to Federated Database Management.
+1992 Quorum-oriented Multicast Protocols for Data Replication.
+1986 A Locking Scheme for Associative Retrieval.
+1995 Disk Read-Write Optimizations and Data Integrity in Transaction Systems Using Write-Ahead Logging.
+1993 Performance Characteristics of Epsilon Serializability with Hierarchical Inconsistency Bounds.
+1984 A Programming Environment Framework Based on Reusability.
+1997 An Argument in Favour of Presumed Commit Protocol.
+1993 Batch Scheduling in Parallel Database Systems.
+1984 A Natural Language Interface for Performing Database Updates.
+1997 Adaptive Broadcast Protocols to Support Power Conservant Retrieval by Mobile Users.
+1999 TP-Monitor-based Workflow Management System Architecture.
+2001 Exactly-once Semantics in a Replicated Messaging System.
+1988 A Quorum-Based Commit and Termination Protocol for Distributed Database Systems.
+2002 Similarity Search Over Time-Series Data Using Wavelets.
+1987 Automatic Probabilistic Knowledge Acquisition from Data.
+1987 A Queueing Network Model for a Distributed Database Testbed System.
+1984 Distributed Query Optimization: An Engineering Approach.
+1993 A Descriptive Semantic Formalism for Medicine.
+1998 ZEBRA Image Access System.
+1993 Normalization of Linear Recursions in Deductive Databases.
+1990 A Temporal Model and Query Language for ER Databases.
+1998 Compressing Relations and Indexes.
+2002 NeT & CoT: Inferring XML Schemas from Relational World.
+1987 Multidimensional Dynamic Quantile Hashing is Very Efficient for Non-Uniform Record Distributions.
+1986 An Approximation Algorithm for the Physical Access Path Selection in the CODASYL Environment.
+2001 The Skyline Operator.
+1993 A Language Multidatabase System Communication Protocol.
+1996 Data Replication in Mariposa.
+2000 ReQueSS: Relational Querying of Semi-Structured Data.
+1996 Knowledge Discovery from Telecommunication Network Alarm Databases.
+1986 Security of Statistical Databases - Compromise through Attribute Correlational Modeling.

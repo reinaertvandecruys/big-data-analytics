@@ -1,0 +1,1371 @@
+2008 Preemptive Measures against Malicious Party in Privacy-Preserving Data Mining.
+2017 HBGG: a Hierarchical Bayesian Geographical Model for Group Recommendation.
+2017 Indexing and classifying gigabytes of time series under time warping.
+2015 Functional Node Detection on Linked Data.
+2003 ApproxMAP: Approximate Mining of Consensus Sequential Patterns.
+2007 Adaptive Concept Learning through Clustering and Aggregation of Relational Data.
+2015 Ensemble Learning Methods for Binary Classification with Multi-modality within the Classes.
+2001 Detecting Novel Network Intrusions Using Bayes Estimators.
+2009 PICC Counting: Who Needs Joins When You Can Propagate Efficiently?.
+2002 A Framework for Scalable Cost-sensitive Learning Based on Combing Probabilities and Benefits.
+2002 A Data Parallel Approach for Large-Scale Gaussian Process Modeling.
+2014 Auto-play: A Data Mining Approach to ODI Cricket Simulation and Prediction.
+2008 An Efficient Local Algorithm for Distributed Multivariate Regression in Peer-to-Peer Networks.
+2010 MACH: Fast Randomized Tensor Decompositions.
+2014 A Marginalized Denoising Method for Link Prediction in Relational Data.
+2006 Mining Frequent Agreement Subtrees in Phylogenetic Databases.
+2015 Rare Class Detection in Networks.
+2005 On Abnormality Detection in Spuriously Populated Data Streams.
+2009 Spatially Cost-Sensitive Active Learning.
+2002 Efficient Filtering of Large DatasetA User-Centric Paradigm.
+2016 Online Clustering of Multivariate Time-series.
+2006 Robust Estimation for Mixture of Probability Tables based on beta-likelihood.
+2014 Efficient Matching of Substrings in Uncertain Sequences.
+2008 Outlier Detection with Uncertain Data.
+2010 Fast Stochastic Frank-Wolfe Algorithms for Nonlinear SVMs.
+2003 Using Low-Memory Representations to Cluster Very Large Data Sets.
+2006 A Framework for Clustering Massive Text and Categorical Data Streams.
+2013 Multi-Transfer: Transfer Learning with Multiple Views and Multiple Sources.
+2014 Iterative Framework Radiation Hybrid Mapping.
+2009 Multiple Kernel Clustering.
+2009 MUSK: Uniform Sampling of k Maximal Patterns.
+2001 Adaptive Grids for Clustering Massive Data Sets.
+2003 Active Sampling: An Effective Approach to Feature Selection.
+2013 CMI: An Information-Theoretic Contrast Measure for Enhancing Subspace Cluster and Outlier Detection.
+2016 Sparse Hybrid Variational-Gibbs Algorithm for Latent Dirichlet Allocation.
+2008 Roughly Balanced Bagging for Imbalanced Data.
+2009 A Semi-Supervised Framework for Feature Mapping and Multiclass Classification.
+2011 The Infinite Push: A New Support Vector Ranking Algorithm that Directly Optimizes Accuracy at the Absolute Top of the List.
+2012 Fast Random Walk Graph Kernel.
+2017 Robust Map Matching for Heterogeneous Data via Dominance Decompositions.
+2014 VOG: Summarizing and Understanding Large Graphs.
+2004 Class-Specific Ensembles for Active Learning.
+2013 Discriminative Feature Selection for Uncertain Graph Classification.
+2008 Dynamic Non-Parametric Mixture Models and the Recurrent Chinese Restaurant Process: with Applications to Evolutionary Clustering.
+2014 Robust Subspace Discovery through Supervised Low-Rank Constraints.
+2007 Fast Counting with AV-Space for Efficient Rule Induction.
+2010 ContexTour: Contextual Contour Analysis on Dynamic Multi-relational Clustering.
+2010 A Compression Based Distance Measure for Texture.
+2016 Kernelized Sparse Self-Representation for Clustering and Recommendation.
+2017 A Graduated Non-Convexity Relaxation for Large Scale Seriation.
+2003 On the Techniques for Data Clustering with Numerical Constraints.
+2009 The Metric Dilemma: Competence-Conscious Associative Classification.
+2015 What shall I share and with Whom? - A Multi-Task Learning Formulation using Multi-Faceted Task Relationships.
+2001 Boosting Localized Classifiers in Heterogeneous Databases.
+2003 Learning Bayesian Network Structure from Distributed Data.
+2017 Uplift Modeling with Multiple Treatments and General Response Types.
+2002 Evaluating the Performance of Association Mining Methods in 3-D Medical Image Databases.
+2012 Large-Scale Nonparametric Estimation of Vehicle Travel Time Distributions.
+2011 Integrating Distance Metrics Learned from Multiple Experts and its Application in Inter-Patient Similarity Assessment.
+2009 Structure and Dynamics of Research Collaboration in Computer Science.
+2008 Massive-Scale Kernel Discriminant Analysis: Mining for Quasars.
+2012 Global Linear Neighborhoods for Efficient Label Propagation.
+2017 Generalized Inverse Classification.
+2011 Nonparametric Bayesian Co-clustering Ensembles.
+2010 Temporal Collaborative Filtering with Bayesian Probabilistic Tensor Factorization.
+2015 Getting to Know the Unknown Unknowns: Destructive-Noise Resistant Boolean Matrix Factorization.
+2004 Equivalence of Several Two-Stage Methods for Linear Discriminant Analysis.
+2001 Hierarchical Classification of Real Life Documents.
+2014 Community Discovery in Social Networks via Heterogeneous Link Association and Fusion.
+2017 Cumulative Knowledge-based Regression Models for Next-term Grade Prediction.
+2004 Finding Frequent Patterns in a Large Sparse Graph.
+2013 Modeling the Diffusion of Preferences on Social Networks.
+2006 K-Means Clustering Over a Large, Dynamic Network.
+2010 Bridging Domains with Words: Opinion Analysis with Matrix Tri-factorizations.
+2015 Approximation Algorithms for Reducing the Spectral Radius to Control Epidemic Spread.
+2017 Discovering bursts revisited: guaranteed optimization of the model parameters.
+2012 On Finding Joint Subspace Boolean Matrix Factorizations.
+2014 Towards Accurate Histogram Publication under Differential Privacy.
+2005 On Error Correlation and Accuracy of Nearest Neighbor Ensemble Classifiers.
+2012 A Novel Approximation to Dynamic Time Warping allows Anytime Clustering of Massive Time Series Datasets.
+2015 Labeling Educational Content with Academic Learning Standards.
+2017 Front Matter.
+2017 Multi-Region Neural Representation: A novel model for decoding visual stimuli in human brains.
+2006 Finding Sequential Patterns from a Massive Number of Spatio-Temporal Events.
+2011 Distributed Monitoring of the R2 Statistic for Linear Regression.
+2008 Finding a Haystack in Haystacks - Simultaneous Identification of Concepts in Large Bio-Medical Corpora.
+2010 Making k-means Even Faster.
+2002 A Clustering Technique for Mining Data from Text Tables.
+2013 Bregman Divergences and Triangle Inequality.
+2005 Hybrid Attribute Reduction for Classification Based on A Fuzzy Rough Set Technique.
+2017 Computational Drug Discovery with Dyadic Positive-Unlabeled Learning.
+2008 A Range Query Approach for High Dimensional Euclidean Space Based on EDM Estimation.
+2007 Active Learning of Constraints for Semi-supervised Text Clustering.
+2013 Triadic Measures on Graphs: The Power of Wedge Sampling.
+2012 IntruMine: Mining Intruders in Untrustworthy Data of Cyber-physical Systems.
+2007 A General Framework for Mining Concept-Drifting Data Streams with Skewed Distributions.
+2015 Predicting Neighbor Distribution in Heterogeneous Information Networks.
+2016 Process Trace Clustering: A Heterogeneous Information Network Approach.
+2005 Building Decision Trees on Records Linked through Key References.
+2008 A RELIEF Based Feature Extraction Algorithm.
+2011 Human Dynamics in Large Communication Networks.
+2013 Active Learning to Rank using Pairwise Supervision.
+2011 Centralities in Large Networks: Algorithms and Observations.
+2011 Significance of Patterns in Time Series Collections.
+2015 POLYGLOT-NER: Massive Multilingual Named Entity Recognition.
+2008 Generic Methods for Multi-criteria Evaluation.
+2004 DOMISA: DOM-Based Information Space Adsorption of Web Information Hierarchy Mining.
+2013 DELTACON: A Principled Massive-Graph Similarity Function.
+2011 Interpreting and Unifying Outlier Scores.
+2010 Learning Compressible Models.
+2009 Agglomerative Mean-Shift Clustering via Query Set Compression.
+2006 Scan Detection: A Data Mining Approach.
+2014 Frugal Traffic Monitoring with Autonomous Participatory Sensing.
+2016 FairPlay: Fraud and Malware Detection in Google Play.
+2006 A Semantic Approach for Mining Hidden Links from Complementary and Non-interactive Biomedical Literature.
+2017 MultiC<sup>2</sup>: an Optimization Framework for Learning from Task and Worker Dual Heterogeneity.
+2016 Clustering in the Face of Fast Changing Streams.
+2006 A Systematic Cross-Comparison of Sequence Classifiers.
+2006 Collaborative Information Extraction and Mining from Multiple Web Documents.
+2013 Efficient Anytime Density-based Clustering.
+2008 On Indexing High Demensional Data with Uncertainty.
+2015 Towards Classification of Social Streams.
+2013 An Empirical Study of the Suitability of Class Decomposition for Linear Models: When Does It Work Well?
+2008 The Relevant-set Correlation Model for Data Clustering.
+2004 An Abstract Weighting Framework for Clustering Algorithms.
+2016 Finding Surprisingly Frequent Patterns of Variable Lengths in Sequence Data.
+2010 Single-Pass Distributed Learning of Multi-class SVMs Using Core-Sets.
+2006 Advanced Prototype Machines: Exploring Prototypes for Classification.
+2004 Enhancing Communities of Interest Using Bayesian Stochastic Blockmodels.
+2012 Balancing Prediction and Recommendation Accuracy: Hierarchical Latent Factors for Preference Data.
+2004 Tesselation and Clustering by Mixture Models and Their Parallel Implementations.
+2014 A Dynamic Nonparametric Model for Characterizing the Topical Communities in Social Streams.
+2017 BreachRadar: Automatic Detection of Points-of-Compromise.
+2016 Robust Unsupervised Feature Selection on Networked Data.
+2010 Alleviating the Sparsity Problem in Collaborative Filtering by Using an Adapted Distance and a Graph-Based Method.
+2008 Mining and Ranking Generators of Sequential Patterns.
+2013 Shattering and Compressing Networks for Betweenness Centrality.
+2012 On Influential Node Discovery in Dynamic Social Networks.
+2012 Feature Selection with Linked Data in Social Media.
+2017 BrainZoom: High Resolution Reconstruction from Multi-modal Brain Signals.
+2005 Exploiting Geometry for Support Vector Machine Indexing.
+2015 Temporally Coherent CRP: A Bayesian Non-Parametric Approach for Clustering Tracklets with applications to Person Discovery in Videos.
+2009 Top-k Correlative Graph Mining.
+2002 Extracting Precursor Rules from Time SeriesA Classical Statistical Viewpoint.
+2016 A Spatial-Temporal Probabilistic Matrix Factorization Model for Point-of-Interest Recommendation.
+2012 Mining Multi-Label Data Streams Using Ensemble-Based Active Learning.
+2001 Methods for Large-Scale Mining of Networks of Human Genes.
+2005 Correlation Clustering for Learning Mixtures of Canonical Correlation Models.
+2011 A Gaussian Process Based Online Change Detection Algorithm for Monitoring Periodic Time Series.
+2013 ActNeT: Active Learning for Networked Texts in Microblogging.
+2013 On the Detectability of Node Grouping in Networks.
+2004 Basic Association Rules.
+2016 Nonlinear Joint Unsupervised Feature Selection.
+2006 Personalized Knowledge Discovery: Mining Novel Association Rules from Text.
+2013 Evolutionary Soft Co-Clustering.
+2009 Feature Weighted SVMs Using Receiver Operating Characteristics.
+2002 Mining Frequent Itemsets in Evolving Databases.
+2009 Topic Cube: Topic Modeling for OLAP on Multidimensional Text Databases.
+2008 Active Learning with Model Selection in Linear Regression.
+2012 Toward Data-driven, Semi-automatic Inference of Phenomenological Physical Models: Application to Eastern Sahel Rainfall.
+2005 Topic-driven Clustering for Document Datasets.
+2007 Maximum Margin Classifiers with Specified False Positive and False Negative Error Rates.
+2009 Optimal Distance Bounds on Time-Series Data.
+2014 On Modeling Community Behaviors and Sentiments in Microblogging.
+2006 Name Reference Resolution in Organizational Email Archives.
+2017 A Deflation Method for Structured Probabilistic PCA.
+2006 Segmentation and dimensionality reduction.
+2012 Generalized Optimization Framework for Graph-based Semi-supervised Learning.
+2016 Distributed Representations of Expertise.
+2003 Hierarchical Document Clustering using Frequent Itemsets.
+2010 Convex Principal Feature Selection.
+2015 Causal Inference by Direction of Information.
+2016 Cost-Sensitive Batch Mode Active Learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice.
+2002 One Step Evolutionary Mining of Context Sensitive Associations and Web Navigation Patterns.
+2016 On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach.
+2004 Visualizing RFM Segmentation.
+2016 Online Sparse Passive Aggressive Learning with Kernels.
+2016 Constrained Group Testing to Predict Binding Response of Candidate Compounds.
+2009 Travel-Time Prediction Using Gaussian Process Regression: A Trajectory-Based Approach.
+2009 Finding Links and Initiators: A Graph-Reconstruction Problem.
+2010 Multiresolution Motif Discovery in Time Series.
+2001 Dimension reduction based on centroids and least squares for efficient processing of text data.
+2014 Batch Mode Active Learning with Hierarchical-Structured Embedded Variance.
+2007 Are approximation algorithms for consensus clustering worthwhile?.
+2010 On Multidimensional Sharpening of Uncertain Data.
+2017 Biclustering: An application of Dual Topic Models.
+2012 Density-based Projected Clustering over High Dimensional Data Streams.
+2014 Local Learning for Mining Outlier Subgraphs from Network Datasets.
+2008 A Feature Selection Algorithm Capable of Handling Extremely Large Data Dimensionality.
+2001 Mining Preferences from Spatial-Temporal Data.
+2016 Automatic Unsupervised Tensor Mining with Quality Assessment.
+2007 Dynamic Algorithm for Graph Clustering Using Minimum Cut Tree.
+2005 Statictical Models for Unequally Spaced Time Series.
+2009 Adaptive Concept Drift Detection.
+2014 When and Where: Predicting Human Movements Based on Social Spatial-Temporal Events.
+2004 A General Framework for Adaptive Anomaly Detection with Evolving Connectionist Systems.
+2007 Flexible Anonymization For Privacy Preserving Data Publishing: A Systematic Search Based Approach.
+2012 Stratification Based Hierarchical Clustering Over a Deep Web Data Source.
+2016 Rank Selection for Non-negative Matrix Factorization with Normalized Maximum Likelihood Coding.
+2015 Correlating Surgical Vital Sign Quality with 30-Day Outcomes using Regression on Time Series Segment Features.
+2016 Deterministic Column Sampling for Low-Rank Matrix Approximation: Nyström vs. Incomplete Cholesky Decomposition.
+2009 Proceedings of the SIAM International Conference on Data Mining, SDM 2009, April 30 - May 2, 2009, Sparks, Nevada, USA
+2017 Gleaning Wisdom from the Past: Early Detection of Emerging Rumors in Social Media.
+2014 Exploiting Monotonicity Constraints in Active Learning for Ordinal Classification.
+2002 Visualizing Clustering Results.
+2013 Active Class Discovery and Learning for Networked Data.
+2016 K-Nearest Neighbor Search and Outlier Detection via Minimax Distances.
+2013 Finding Affordable and Collaborative Teams from a Network of Experts.
+2009 An Entity Based Model for Coreference Resolution.
+2010 Radius Plots for Mining Tera-byte Scale Graphs: Algorithms, Patterns, and Observations.
+2011 FAMER: Making Multi-Instance Learning Better and Faster.
+2017 Predict Land Covers with Transition Modeling and Incremental Learning.
+2006 Efficient Markov Network Structure Discovery using Independence Tests.
+2009 On Segment-Based Stream Modeling and Its Applications.
+2009 Multi-field Correlated Topic Modeling.
+2015 Efficient Algorithms for a Robust Modularity-Driven Clustering of Attributed Graphs.
+2008 Efficient Maximum Margin Clustering via Cutting Plane Algorithm.
+2003 Mining Temporal Databases for Subsequence Patterns.
+2008 Spatial Scan Statistics for Graph Clustering.
+2005 Clustering with Model-level Constraints.
+2016 Universal Dependency Analysis.
+2004 A Mixture Model for Clustering Ensembles.
+2017 CSTG: An Effective Framework for Cost-sensitive Sparse Online Learning.
+2015 On the Non-Trivial Generalization of Dynamic Time Warping to the Multi-Dimensional Case.
+2006 Mining and Validating Localized Frequent Itemsets with Dynamic Tolerance.
+2014 AUC dominant unsupervised ensemble of binary classifiers.
+2015 A Bayesian Framework for Modeling Human Evaluations.
+2007 Distributed Top-K Outlier Detection from Astronomy Catalogs using the DEMAC System.
+2007 Sketching Landscapes of Page Farms.
+2008 Randomizing Social Networks: a Spectrum Preserving Approach.
+2003 Cube Lattices: A Framework for Multidimensional Data Mining.
+2017 Concept Drift Detection with Hierarchical Hypothesis Testing.
+2013 An Examination of Practical Granger Causality Inference.
+2009 On the Comparison of Relative Clustering Validity Criteria.
+2016 Flexibly Mining Better Subgroups.
+2014 An Optimization-based Framework to Learn Conditional Random Fields for Multi-label Classification.
+2017 Deep Learning: A Generic Approach for Extreme Condition Traffic Forecasting.
+2013 Missing or Inapplicable: Treatment of Incomplete Continuous-valued Features in Supervised Learning.
+2016 LODES: Local Density Meets Spectral Outlier Detection.
+2008 A Spamicity Approach to Web Spam Detection.
+2015 Binary Classifier Calibration Using a Bayesian Non-Parametric Approach.
+2009 A Bayesian Approach to Graphy Regression with Relevant Subgraph Selection.
+2007 An Analysis of Logistic Models: Exponential Family Connections and Online Performance.
+2008 Statistical Density Prediction in Traffic Networks.
+2010 Unsupervised Discovery of Abnormal Activity Occurrences in Multi-dimensional Time Series, with Applications in Wearable Systems.
+2008 Exploiting Structured Reference Data for Unsupervised Text Segmentation with Conditional Random Fields.
+2009 Local Relevance Weighted Maximum Margin Criterion for Text Classification.
+2014 A Probabilistic Approach to Uncovering Attributed Graph Anomalies.
+2002 Autoregressive Tree Models for Time-Series Analysis.
+2005 Three Myths about Dynamic Time Warping Data Mining.
+2014 Characterising Seismic Data.
+2008 Randomization of real-valued matrices for assessing the significance of data mining results.
+2007 A Better Alternative to Piecewise Linear Time Series Segmentation.
+2005 An Algorithm for Well Structured Subspace Clusters.
+2009 Near-optimal Supervised Feature Selection among Frequent Subgraphs.
+2014 Predictive Learning in the Presence of Heterogeneity and Limited Training Data.
+2013 Robust Textual Data Streams Mining Based on Continuous Transfer Learning.
+2016 Exploiting Emotional Information for Trust/Distrust Prediction.
+2003 Proceedings of the Third SIAM International Conference on Data Mining, San Francisco, CA, USA, May 1-3, 2003
+2013 Pinch Ratio Clustering from a Topologically Intrinsic Lexicographic Ordering.
+2011 Multi-Label Collective Classification.
+2012 Supervised Clustering of Label Ranking Data.
+2003 Efficient Unsupervised Mining from Noisy Data Sets: Application to Clustering Co-occurrence Data.
+2002 VizCluster: An Interactive Visualization Approach to Cluster Analysis and Its Application on Microarray Data.
+2001 Looking for Nonlinearities in the Large Scale Dynamics of the Atmosphere.
+2001 Proceedings of the First SIAM International Conference on Data Mining, SDM 2001, Chicago, IL, USA, April 5-7, 2001
+2012 Mining Compressing Sequential Patterns.
+2004 Privacy-Preserving Multivariate Statistical Analysis: Linear Regression and Classification.
+2010 Fast Single-Pair SimRank Computation.
+2011 Fast Algorithms for Finding Extremal Sets.
+2017 Outlier Detection with Autoencoder Ensembles.
+2011 Gaussian Process for Dimensionality Reduction in Transfer Learning.
+2003 Mixture Models and Frequent Sets: Combining Global and Local Methods for 0-1 Data.
+2017 Redundancies in Data and their Effect on the Evaluation of Recommendation Systems: A Case Study on the Amazon Reviews Datasets.
+2010 Adaptive Informative Sampling for Active Learning.
+2014 Density-Based Clustering Validation.
+2004 Principal Component Analysis and Effective K-Means Clustering.
+2006 Detecting the Change of Clustering Structure in Categorical Data Streams.
+2005 Depth-First Non-Derivable Itemset Mining.
+2007 Discriminating Subsequence Discovery for Sequence Clustering.
+2015 Online Resource Allocation with Structured Diversification.
+2013 Point-of-Interest Recommendation in Location Based Social Networks with Topic and Location Awareness.
+2012 Mining Patterns in Networks using Homomorphism.
+2015 Feature Selection for Nonlinear Regression and its Application to Cancer Research.
+2017 An RNN Architecture with Dynamic Temporal Matching for Personalized Predictions of Parkinson's Disease.
+2015 Back Matter.
+2003 The Analysis of Asthma and Exposure Data using Geographic Information Systems and Data Mining Information.
+2017 Discovery of Causal Time Intervals.
+2013 SemInf: A Burst-based Semantic Influence Model for Biomedical Topic Influence.
+2004 Hierarchical Clustering for Thematic Browsing and Summarization of Large Sets of Association Rules.
+2016 A Confidence-Based Approach for Balancing Fairness and Accuracy.
+2017 Hash-Based Feature Learning for Incomplete Continuous-Valued Data.
+2009 Exploiting Semantic Constraints for Estimating Supersenses with CRFs.
+2017 Selection of Negative Samples for One-class Matrix Factorization.
+2016 Routine Mining Based Anomaly Detection in Mobile Phone Data.
+2010 Consecutive Ones Property and Spectral Ordering.
+2007 Lattice based Clustering of Temporal Gene-Expression Matrices.
+2012 Heterogeneous Datasets Representation and Learning using Diffusion Maps and Laplacian Pyramids.
+2015 PatentCom: A Comparative View of Patent Document Retrieval.
+2012 RP-growth: Top-k Mining of Relevant Patterns with Minimum Support Raising.
+2009 Divide and Conquer Strategies for Effective Information Retrieval.
+2013 Reduced Set KPCA for Improving the Training and Execution Speed of Kernel Machines.
+2011 Online Max-Margin Weight Learning for Markov Logic Networks.
+2004 The Discovery of Generalized Causal Models with Mixed Variables Using MML Criterion.
+2007 Incremental Spectral Clustering With Application to Monitoring of Evolving Blog Communities.
+2006 Mining frequent closed itemsets out-of-core.
+2008 Mining Complex, Maximal and Complete Sub-graph and Sets of Correlated Variables with Applications to Feature Subset Selection.
+2016 Binary Classifier Calibration Using an Ensemble of Linear Trend Estimation.
+2015 Predicting Preference Tags to Improve Item Recommendation.
+2007 Change-Point Detection using Krylov Subspace Learning.
+2010 Improving Accessibility of Transaction-centric Web Objects.
+2009 Scalable Distributed Change Detection from Astronomy Data Streams Using Local, Asynchronous Eigen Monitoring Algorithms.
+2016 CAMLP: Confidence-Aware Modulated Label Propagation.
+2017 Multimodal Network Alignment.
+2005 Clustering with Constraints: Feasibility Issues and the k-Means Algorithm.
+2014 Multi-Task Feature Selection on Multiple Networks via Maximum Flows.
+2015 Convex Matrix Completion: A Trace-Ball Optimization Perspective.
+2012 Drought Detection of the Last Century: An MRF-based Approach.
+2016 A general framework to increase the robustness of model-based change point detection algorithms to outliers and noise.
+2009 Prior-Free Rare Category Detection.
+2012 Structural Analysis in Multi-Relational Social Networks.
+2016 Vocal Competence Based Karaoke Recommendation: A Maximum-Margin Joint Model.
+2007 Nonlinear Dimensionality Reduction using Approximate Nearest Neighbors.
+2015 Vertex Clustering of Augmented Graph Streams.
+2012 Microscopic Social Influence.
+2011 A Probabilistic Hierarchical Approach for Pattern Discovery in Collaborative Filtering Data.
+2009 Positive Unlabeled Learning for Data Stream Classification.
+2004 Mining Relationships Between Interacting Episodes.
+2004 A Top-Down Method for Mining Most-Specific Frequent Patterns in Biological Sequences.
+2014 A Deep Learning Approach to Link Prediction in Dynamic Networks.
+2015 Non-exhaustive, Overlapping <i>k</i>-means.
+2009 Highlighting Diverse Concepts in Documents.
+2015 Modeling Users' Adoption Behaviors with Social Selection and Influence.
+2015 Mining Block I/O Traces for Cache Preloading with Sparse Temporal Non-parametric Mixture of Multivariate Poisson.
+2014 Towards Breaking the Curse of Dimensionality for High-Dimensional Privacy.
+2007 AC-Framework for Privacy-Preserving Collaboration.
+2004 Resource-Aware Mining with Variable Granularities in Data Streams.
+2010 Mining Maximally Banded Matrices in Binary Data.
+2015 PLUMS: Predicting Links Using Multiple Sources.
+2013 Patient Risk Prediction Model via Top-k Stability Selection.
+2013 Climate Multi-model Regression Using Spatial Smoothing.
+2012 Image Mining of Historical Manuscripts to Establish Provenance.
+2005 Markov Models for Identification of Significant Episodes.
+2006 Mining for Outliers in Sequential Databases.
+2005 Cross Table Cubing: Mining Iceberg Cubes from Data Warehouses.
+2013 Sparse Subspace Clustering via Group Sparse Coding.
+2010 Spectral and Semidefinite Relaxation of the CLUHSIC Algorithm.
+2007 Harmonium Models for Semantic Video Representation and Classification.
+2008 A General Model for Multiple View Unsupervised Learning.
+2006 Discovering Frequent Tree Patterns over Data Streams.
+2014 Mining Interpretable and Predictive Diagnosis Codes from Multi-source Electronic Health Records.
+2013 Retweeting: An Act of Viral Users, Susceptible Users, or Viral Topics?
+2017 Collaborative User Network Embedding for Social Recommender Systems.
+2015 Frameworks to Encode User Preferences for Inferring Topic-sensitive Information Networks.
+2016 Kernelized Matrix Factorization for Collaborative Filtering.
+2011 Feature-based Inductive Transfer Learning through Minimum Encoding.
+2016 Power Simultaneous Spectral Data Embedding and Clustering.
+2012 Combining Active Learning and Dynamic Dimensionality Reduction.
+2007 HP2PC: Scalable Hierarchically-Distributed Peer-to-Peer Clustering.
+2009 Parallel Pairwise Clustering.
+2010 Fast Implementation of ℓ<sub>1</sub>Regularized Learning Algorithms Using Gradient Descent Methods.
+2009 FEDRA: A Fast and Efficient Dimensionality Reduction Algorithm.
+2008 Clustering from Constraint Graphs.
+2011 Exploiting Coherence for the Simultaneous Discovery of Latent Facets and associated Sentiments.
+2009 Bayesian Cluster Ensembles.
+2004 IREP++, A Faster Rule Learning Algorithm.
+2009 Efficient Discovery of Interesting Patterns Based on Strong Closedness.
+2005 Summarizing and Mining Skewed Data Streams.
+2002 A Pattern Search Method for Model Selection of Support Vector Regression.
+2006 Mining Approximate Frequent Itemsets In the Presence of Noise: Algorithm and Analysis.
+2001 Using Simulated Pseudo Data To Speed Up Statistical Predictive Modeling From Massive Data Sets.
+2002 Segmented Regression Estimators for Massive Data Sets.
+2001 Generalized <i>K</i>-Harmonic Means - Dynamic Weighting of Data in Unsupervised Learning.
+2016 Fast Multiplier Methods to Optimize Non-exhaustive, Overlapping Clustering.
+2014 Consumer Segmentation and Knowledge Extraction from Smart Meter and Survey Data.
+2010 Active Ordering of Interactive Prediction Tasks.
+2012 Context-aware Search for Personal Information Management Systems.
+2007 On Sample Selection Bias and Its Efficient Correction via Model Averaging and Unlabeled Examples.
+2006 Cluster Description Formats, Problems and Algorithms.
+2004 GRM: A New Model for Clustering Linear Sequences.
+2015 Learning Complex Rare Categories with Dual Heterogeneity.
+2001 Selective Markov Models for Predicting Web-Page Accesses.
+2006 Cone Cluster Labeling for Support Vector Clustering.
+2007 Conical Dimension as an Intrinsic Dimension Estimator and its Applications.
+2017 Active Learning of Classification Models with Likert-Scale Feedback.
+2006 A Latent Dirichlet Model for Unsupervised Entity Resolution.
+2007 Topic Models over Text Streams: A Study of Batch and Online Unsupervised Learning.
+2016 Online Prediction of User Actions through an Ensemble Vote from Vector Representation and Frequency Analysis Models.
+2013 Sparse Representation for HIV-1 Protease Drug Resistance Prediction.
+2007 Semi-Supervised Dimensionality Reduction.
+2014 A Constrained Hidden Markov Model Approach for Non-Explicit Citation Context Extraction.
+2005 Parallel Computation of RBF Kernels for Support Vector Classifiers.
+2009 Tracking User Mobility to Detect Suspicious Behavior.
+2004 GenIc: A Single-Pass Generalized Incremental Algorithm for Clustering.
+2003 Scalable, Balanced Model-based Clustering.
+2017 Private and Right-Protected Big Data Publication: An Analysis.
+2016 Scaling Lifted Probabilistic Inference and Learning Via Graph Databases.
+2011 Probabilistic Models over Ordered Partitions with Applications in Document Ranking and Collaborative Filtering.
+2004 BAMBOO: Accelerating Closed Itemset Mining by Deeply Pushing the Length-Decreasing Support Constraint.
+2001 Shared State for Client-Server Mining.
+2014 Kaleido: Network Traffic Attribution using Multifaceted Footprinting.
+2017 Model-based von Mises-Fisher Co-clustering with a Conscience.
+2017 Exploiting Hierarchical Structures for Unsupervised Feature Selection.
+2002 Efficient Local Flexible Nearest Neighbor Classification.
+2013 NetSpot: Spotting Significant Anomalous Regions on Dynamic Networks.
+2005 SPID4.7: Discretization Using Successive Pseudo Deletion at Maximum Information Gain Boundary Points.
+2016 Euclidean Co-Embedding of Ordinal Data for Multi-Type Visualization.
+2005 Mining Top-K Itemsets over a Sliding Window Based on Zipfian Distribution.
+2001 Modeling Spatial Dependencies for Mining Geospatial Data.
+2008 Discovering Relational Items Sets Efficiently.
+2012 Proceedings of the Twelfth SIAM International Conference on Data Mining, Anaheim, California, USA, April 26-28, 2012.
+2003 Communication and Memory Efficient Parallel Decision Tree Construction.
+2014 Result Integrity Verification of Outsourced Bayesian Network Structure Learning.
+2014 Turbo-SMT: Accelerating Coupled Sparse Matrix-Tensor Factorizations by 200x.
+2004 Training Support Vector Machines Using Adaptive Clustering.
+2009 Diversity-Based Weighting Schemes for Clustering Ensembles.
+2010 Predicting Customer Churn in Mobile Networks through Analysis of Social Groups.
+2011 Time Series Motifs Statistical Significance.
+2004 RBA: An Integrated Framework for Regression based on Association Rules.
+2012 Contextual Collaborative Filtering via Hierarchical Matrix Factorization.
+2017 Outlier Detection for Text Data.
+2005 Symmetric Statistical Translation Models for Automatic Image Annotation.
+2006 Health monitoring of a shaft transmission system via hybrid models of PCR and PLS.
+2011 Extracting Interpretable Features for Early Classification on Time Series.
+2009 A New Constraint for Mining Sets in Sequences.
+2009 Text Categorization with All Substring Features.
+2007 Performance of Recommendation Systems in Dynamic Streaming Environments.
+2010 A Heterogeneous Label Propagation Algorithm for Disease Gene Discovery.
+2005 Iterative Mining for Rules with Constrained Antecedents.
+2004 A Framework for Discovering Co-Location Patterns in Data Sets with Extended Spatial Objects.
+2006 Robust Clustering for Tracking Noisy Evolving Data Streams.
+2006 Learning from Incomplete Ratings Using Non-negative Matrix Factorization.
+2009 The Set Classification Problem and Solution Methods.
+2007 Understanding and Utilizing the Hierarchy of Abnormal BGP Events.
+2006 A Random Walks Method for Text Classification.
+2017 Specious rules: an efficient and effective unifying method for removing misleading and uninformative patterns in association rule mining.
+2017 A Method to Accelerate Human in the Loop Clustering.
+2009 Exact Discovery of Time Series Motifs.
+2014 On Finding the Point Where There Is No Return: Turning Point Mining on Game Data.
+2009 Efficient Multiplicative Updates for Support Vector Machines.
+2017 From Theory to Practice: Efficient Active Cost-sensitive Classification with Expected Error Reduction.
+2009 On Randomness Measures for Social Networks.
+2006 Joint Cluster Analysis of Attribute Data and Relationship Data: the Connected k-Center Problem.
+2003 ATLaS: A Native Extension of SQL for Data Mining.
+2004 Clustering Categorical Data Using the Correlated-Force Ensemble.
+2001 Detecting Seasonal Trends and Cluster Motion Visualization for Very High Dimensional Transactional Data.
+2006 Bayesian K-Means as a "Maximization-Expectation" Algorithm.
+2005 Influence in Ratings-Based Recommender Systems: An Algorithm-Independent Approach.
+2015 Scalable Clustering of Time Series with U-Shapelets.
+2009 Event Discovery in Time Series.
+2005 Sparse Fisher Discriminant Analysis for Computer Aided Detection.
+2004 Clustering with Bregman Divergences.
+2015 Optimizing Hashing Functions for Similarity Indexing in Arbitrary Metric and Nonmetric Spaces.
+2017 Automatic Frankensteining: Creating Complex Ensembles Autonomously.
+2014 Adversarial Learning with Bayesian Hierarchical Mixtures of Experts.
+2011 Large Scale Graph Mining and Inference for Malware Detection.
+2017 Signed Network Embedding in Social Media.
+2014 Make It or Break It: Manipulating Robustness in Large Networks.
+2007 Computing Statistical Profiles of Active Sites in Proteins.
+2012 Feature Selection over Distributed Data Streams through Convex Optimization.
+2004 Mining Text for Word Senses Using Independent Component Analysis.
+2016 Stochastic Co-clustering for Document-Term Data.
+2007 A PAC Bound for Approximate Support Vector Machines.
+2002 Why the Information Explosion Can Be Bad for Data Mining, and How Data Fusion Provides a Way Out.
+2010 Frequentness-Transition Queries for Distinctive Pattern Mining from Time-Segmented Databases.
+2010 Evaluating Query Result Significance in Databases via Randomizations.
+2005 Efficient Mining of Maximal Sequential Patterns Using Multiple Samples.
+2014 Relational Regularization and Feature Ranking.
+2007 Semi-supervised Feature Selection via Spectral Analysis.
+2003 Anytime Query-Tuned Kernel Machines via Cholesky Factorization.
+2005 Privacy-Preserving Classification of Customer Data without Loss of Accuracy.
+2002 Shared Memory Paraellization of Data Mining Algorithms: Techniques, Programming Interface, and Performance.
+2011 Proceedings of the Eleventh SIAM International Conference on Data Mining, SDM 2011, April 28-30, 2011, Mesa, Arizona, USA
+2001 RSVM: Reduced Support Vector Machines.
+2014 Finding the True Frequent Itemsets.
+2014 Improving Credit Card Fraud Detection with Calibrated Probabilities.
+2011 Segmented nestedness in binary data.
+2015 Exploring the Impact of Dynamic Mutual Influence on Social Event Participation.
+2009 Discovering Substantial Distinctions among Incremental Bi-Clusters.
+2014 Convex Optimization for Binary Classifier Aggregation in Multiclass Problems.
+2015 Active Multi-task Learning via Bandits.
+2015 Hidden Hazards: Finding Missing Nodes in Large Graph Epidemics.
+2011 Predicting Item Adoption Using Social Correlation.
+2006 ODAC: Hierarchical Clustering of Time Series Data Streams.
+2002 MedMeSH Summarizer: Text Mining for Gene Clusters.
+2003 Dynamic Classification of Online Customers.
+2003 Nonparametric Density Estimation: Toward Computational Tractability.
+2010 Spectral Analysis of Signed Graphs for Clustering, Prediction and Visualization.
+2013 Fast Exact Max-Kernel Search.
+2007 Towards Attack-Resilient Geometric Data Perturbation.
+2008 Constrained Co-clustering of Gene Expression Data.
+2006 Transform Regression and the Kolmogorov Superposition Theorem.
+2015 Believe It Today or Tomorrow? Detecting Untrustworthy Information from Dynamic Multi-Source Data.
+2009 Speeding Up Secure Computations via Embedded Caching.
+2001 Decomposition of Event Sequences into Independent Components.
+2011 Fast Rule Mining Over Multi-Dimensional Windows.
+2014 DuSK: A Dual Structure-preserving Kernel for Supervised Tensor Learning with Applications to Neuroimages.
+2009 Detecting Communities in Social Networks Using Max-Min Modularity.
+2001 Derivative Dynamic Time Warping.
+2011 Unsupervised Disaggregation of Low Frequency Power Measurements.
+2011 Multidimensional Association Rules in Boolean Tensors.
+2014 Graphical Models for Identifying Fraud and Waste in Healthcare Claims.
+2013 Sparse Max-Margin Multiclass and Multi-label Classifier Design for Fast Inference.
+2004 Learning to Read Between the Lines: The Aspect Bernoulli Model.
+2014 Class Augmented Active Learning.
+2005 Privacy Aware Market Basket Data Set Generation: A Feasible Approach for Inverse Frequent Set Mining.
+2015 Domain-Knowledge Driven Cognitive Degradation Modeling for Alzheimer's Disease.
+2014 DAVA: Distributing Vaccines over Networks under Prior Information.
+2011 Efficient Document Clustering via Online Nonnegative Matrix Factorizations.
+2008 Proceedings of the SIAM International Conference on Data Mining, SDM 2008, April 24-26, 2008, Atlanta, Georgia, USA
+2008 A Stagewise Least Square Loss Function for Classification.
+2011 Influence Maximization in Social Networks When Negative Opinions May Emerge and Propagate.
+2013 Automatic Detection and Correction of Multi-class Classification Errors Using System Whole-part Relationships.
+2012 On Dynamic Link Inference in Heterogeneous Networks.
+2005 Knowledge Discovery from Heterogeneous Dynamic Systems using Change-Point Correlations.
+2017 Accelerated Attributed Network Embedding.
+2011 Data Integration via Constrained Clustering: An Application to Enzyme Clustering.
+2006 Collaborative Document Clustering.
+2014 Online Anomaly Detection by Improved Grammar Compression of Log Sequences.
+2014 The Benefits of Personalized Smartphone-Based Activity Recognition Models.
+2012 Transfer Topic Modeling with Ease and Scalability.
+2013 Time-sensitive Classification of Behavioral Data.
+2007 Learning from Time-Changing Data with Adaptive Windowing.
+2004 Lazy Learning by Scanning Memory Image Lattice.
+2015 Efficient Partial Order Preserving Unsupervised Feature Selection on Networks.
+2011 Characterizing Uncertain Data using Compression.
+2005 Lazy Learning for Classification Based on Query Projections.
+2015 Taming the Empirical Hubness Risk in Many Dimensions.
+2017 VolTime: Unsupervised Anomaly Detection on Users' Online Activity Volume.
+2005 Hierarchical Document Classification Using Automatically Generated Hierarchy.
+2017 Graph-based semi-supervised learning for relational networks.
+2014 Unsupervised Selection of Robust Audio Feature Subsets.
+2004 Nonlinear Manifold Learning for Data Stream.
+2011 Discovering Dynamic Dipoles in Climate Data.
+2010 A Probabilistic Framework to Learn from Multiple Annotators with Time-Varying Accuracy.
+2012 Kernelized Probabilistic Matrix Factorization: Exploiting Graphs and Side Information.
+2013 CoFiSet: Collaborative Filtering via Learning Pairwise Preferences over Item-sets.
+2013 Butterfly Mixing: Accelerating Incremental-Update Algorithms on Clusters.
+2009 A Hybrid Data Mining Metaheuristic for the p-Median Problem.
+2015 Dropout Training of Matrix Factorization and Autoencoder for Link Prediction in Sparse Graphs.
+2010 Towards Finding Valuable Topics.
+2015 Where Graph Topology Matters: The Robust Subgraph Problem.
+2016 A Framework to Adjust Dependency Measure Estimates for Chance.
+2012 Detecting Irregularly Shaped Significant Spatial and Spatio-Temporal Clusters.
+2011 A Complexity-Invariant Distance Measure for Time Series.
+2006 Mining Control Flow Abnormality for Logic Error Isolation.
+2013 Multi-View Clustering via Joint Nonnegative Matrix Factorization.
+2008 SpaRClus: Spatial Relationship Pattern-Based Hierarchial Clustering.
+2013 Mining Connection Pathways for Marked Nodes in Large Graphs.
+2010 On Low-Rank Updates to the Singular Value and Tucker Decompositions.
+2017 Error Metrics for Learning Reliable Manifolds from Streaming Data.
+2017 t-BNE: Tensor-based Brain Network Embedding.
+2006 Automated Knowledge Discovery from Simulators.
+2009 Semi-supervised Learning by Sparse Representation.
+2011 Chernoff Dimensionality Reduction-Where Fisher Meets FKT.
+2005 Decision Tree Induction in High Dimensional, Hierarchically Distributed Databases.
+2017 Community-aware network sparsification.
+2007 Load Shedding in Classifying Multi-Source Streaming Data: A Bayes Risk Approach.
+2009 Efficient Computation of Partial-Support for Mining Interesting Itemsets.
+2013 Mining Probabilistic Representative Frequent Patterns From Uncertain Data.
+2006 Item Sets that Compress.
+2015 Legislative Prediction with Dual Uncertainty Minimization from Heterogeneous Information.
+2014 Learning from Multi-User Multi-Attribute Annotations.
+2015 Spatiotemporal Event Forecasting in Social Media.
+2009 Link Propagation: A Fast Semi-supervised Learning Algorithm for Link Prediction.
+2002 Discovering Frequent Substructures from Hierarchical Semi-structured Data.
+2008 The Asymmetric Approximate Anytime Join: A New Primitive with Applications to Data Mining.
+2007 Maximizing the Area under the ROC Curve with Decision Lists and Rule Sets.
+2015 A Distributed Frank-Wolfe Algorithm for Communication-Efficient Sparse Learning.
+2006 Fast optimal bandwidth selection for kernel density estimation.
+2012 A Flexible Open-Source Toolbox for Scalable Complex Graph Analysis.
+2017 Risk Clearance with Guaranteed Precision.
+2013 Cost-Sensitive Double Updating Online Learning and Its Application to Online Anomaly Detection.
+2002 Incremental Support Vector Machine Classification.
+2008 Large-Scale Many-Class Learning.
+2012 Multi-Objective Multi-Label Classification.
+2001 Generating Classification Rules According to User's Existing Knowledge.
+2009 AMORI: A Metric-Based One Rule Inducer.
+2013 Regularization of Latent Variable Models to Obtain Sparsity.
+2008 Semi-supervised Learning of a Markovian Metric.
+2009 Identifying Unsafe Routes for Network-Based Trajectory Privacy.
+2007 HACS: Heuristic Algorithm for Clustering Subsets.
+2012 Generalized Similarity Kernels for Efficient Sequence Classification.
+2014 Recurrent Chinese Restaurant Process with a Duration-based Discount for Event Identification from Twitter.
+2017 Active Learning of Functional Networks from Spike Trains.
+2015 FORMULA: FactORized MUlti-task LeArning for task discovery in personalized medical models.
+2010 Reconstructing Randomized Social Networks.
+2012 A Distributed Kernel Summation Framework for General-Dimension Machine Learning.
+2016 <i>iPath: </i> Forecasting the Pathway to Impact.
+2005 Slope One Predictors for Online Rating-Based Collaborative Filtering.
+2012 Clustering Based on Yukawa Potential.
+2009 A Family of Large Margin Linear Classifiers and Its Application in Dynamic Environments.
+2002 Cluster Selection in Divisive Clustering Algorithms.
+2006 Data-Enhanced Predictive Modeling for Sales Targeting.
+2014 Multi-Graph Learning with Positive and Unlabeled Bags.
+2003 Mining Frequent Sequential Patterns under Regular Expressions: A Highly Adaptive Strategy for Pushing Contraints.
+2007 Summarizing Review Scores of "Unequal" Reviewers.
+2010 Confidence-Based Feature Acquisition to Minimize Training and Test Costs.
+2015 GIN: A Clustering Model for Capturing Dual Heterogeneity in Networked Data.
+2016 R1STM: One-class Support Tensor Machine with Randomised Kernel.
+2015 Optimal event sequence sanitization.
+2015 Combating Product Review Spam Campaigns via Multiple Heterogeneous Pairwise Features.
+2008 Theorectical Analysis of Subsequence Time-Series Clustering from a Frequency-Analysis Viewpoint.
+2005 Proceedings of the 2005 SIAM International Conference on Data Mining, SDM 2005, Newport Beach, CA, USA, April 21-23, 2005
+2016 Risk Prediction with Electronic Health Records: A Deep Learning Approach.
+2008 Direct Density Ratio Estimation for Large-scale Covariate Shift Adaptation.
+2014 Keeping up with Innovation: A Predictive Framework for Modeling Healthcare Data with Evolving Clinical Interventions.
+2011 ACE: Anomaly Clustering Ensemble for Multi-perspective Anomaly Detection in Robot Behaviors.
+2013 Learning Topics in Short Texts by Non-negative Matrix Factorization on Term Correlation Matrix.
+2001 Improved Spatial-Temporal Forecasting through Modelling of Spatial Residuals in Recent History.
+2016 Unstable Communities in Network Ensembles.
+2010 An Integrated Framework for Simultaneous Classification and Regression of Time-Series Data.
+2010 Multi-label Classification without the Multi-label Cost.
+2005 Matrix Condition Number Prediction with SVM Regression and Feature Selection.
+2017 Back Matter.
+2014 Adaptive Quantization for Hashing: An Information-Based Approach to Learning Binary Codes.
+2005 WFIM: Weighted Frequent Itemset Mining with a weight range and a minimum weight.
+2013 What's Your Next Move: User Activity Prediction in Location-based Social Networks.
+2008 Robust Clustering in Arbitrarily Oriented Subspaces.
+2016 Back Matter.
+2007 Approximating Representations for Large Numerical Databases.
+2010 Mining Frequent Graph Sequence Patterns Induced by Vertices.
+2017 Statistical Learning Theory Approach for Data Classification with <i>ℓ</i>-diversity.
+2006 A Framework for Local Supervised Dimensionality Reduction of High Dimensional Data.
+2008 Deterministic Latent Variable Models and Their Pitfalls.
+2010 Generalized and Heuristic-Free Feature Construction for Improved Accuracy.
+2012 Granger Causality Analysis in Irregular Time Series.
+2016 Multi-Domain Manifold Learning for Drug-Target Interaction Prediction.
+2005 The Best Nurturers in Computer Science Research.
+2016 TerseSVM : A Scalable Approach for Learning Compact Models in Large-scale Classification.
+2010 Do You Trust to Get Trust? A Study of Trust Reciprocity Behaviors and Reciprocal Trust Prediction.
+2014 Multi-Task Clustering using Constrained Symmetric Non-Negative Matrix Factorization.
+2009 Finding Representative Association Rules from Large Rule Collections.
+2013 Opinion Maximization in Social Networks.
+2011 Structural Diversity for Privacy in Publishing Social Networks.
+2012 Transformation Based Ensembles for Time Series Classification.
+2016 Pattern Aided Classification.
+2008 Semi-Supervised Classification with Universum.
+2002 Proceedings of the Second SIAM International Conference on Data Mining, Arlington, VA, USA, April 11-13, 2002
+2017 Polyadic Regression and its Application to Chemogenomics.
+2013 k-means-: A Unified Approach to Clustering and Outlier Detection.
+2011 Learning Feature Dependencies for Noise Correction in Biomedical Prediction.
+2010 Cross-Selling Optimization for Customized Promotion.
+2009 MultiVis: Content-Based Social Network Exploration through Multi-way Visual Analysis.
+2012 Bayesian Supervised Multilabel Learning with Coupled Embedding and Classification.
+2013 Time Series Classification under More Realistic Assumptions.
+2016 Joint Learning of Representation and Structure for Sparse Regression on Graphs.
+2004 A General Probabilistic Framework for Mining Labeled Ordered Trees.
+2015 Estimating Ad Impact on Clicker Conversions for Causal Attribution: A Potential Outcomes Approach.
+2017 Targeted matrix completion.
+2007 Multi-way Clustering on Relation Graphs.
+2014 Unveiling Variables in Systems of Linear Equations.
+2006 Mining Minimal Contrast Subgraph Patterns.
+2007 Fast Best-Match Shape Searching in Rotation Invariant Metric Spaces.
+2016 A Unified View of Localized Kernel Learning.
+2006 Inference of Node Replacement Recursive Graph Grammars.
+2011 Towards Community Detection in Locally Heterogeneous Networks.
+2012 Learning from Heterogeneous Sources via Gradient Boosting Consensus.
+2012 A Bayesian Nonparametric Joint Factor Model for Learning Shared and Individual Subspaces from Multiple Data Sources.
+2004 Active Mining of Data Streams.
+2010 Reconstruction from Randomized Graph via Low Rank Approximation.
+2014 Discovering Groups of Time Series with Similar Behavior in Multiple Small Intervals of Time.
+2005 Mining Behavior Graphs for "Backtrace" of Noncrashing Bugs.
+2013 Collective Kernel Construction in Noisy Environment.
+2016 RelSim: Relation Similarity Search in Schema-Rich Heterogeneous Information Networks.
+2005 Striking Two Birds With One Stone: Simultaneous Mining of Positive and Negative Spatial Patterns.
+2012 SOR: Scalable Orthogonal Regression for Low-Redundancy Feature Selection and its Healthcare Applications.
+2009 Randomization Techniques for Graphs.
+2011 MKBoost: A Framework of Multiple Kernel Boosting.
+2014 Joint Author Sentiment Topic Model.
+2004 Data Reduction in Support Vector Machines by a Kernelized Ionic Interaction Model.
+2008 Semantic Smoothing for Bayesian Text Classification with Small Training Data.
+2002 CHARM: An Efficient Algorithm for Closed Itemset Mining.
+2012 Beam Methods for the Profile Hidden Markov Model.
+2006 Using Compression to Identify Classes of Inauthentic Texts.
+2004 Adaptive Filtering for Efficient Record Linkage.
+2010 Inferring Probability Distributions of Graph Size and Node Degree from Stochastic Graph Grammars.
+2005 PCA without eigenvalue calculations: a case study on face recognition.
+2012 Constructing Training Sets for Outlier Detection.
+2014 Beating Human Analysts in Nowcasting Corporate Earnings by using Publicly Available Stock Price and Correlation Features.
+2014 A Constructive Setting for the Problem of Density Ratio Estimation.
+2012 Dual Transfer Learning.
+2009 DensEst: Density Estimation for Data Mining in High Dimensional Spaces.
+2017 Subnetwork Mining with Spatial and Temporal Smoothness.
+2017 Limited-memory Common-directions Method for Distributed Optimization and its Application on Empirical Risk Minimization.
+2009 On Maximum Coverage in the Streaming Model & Application to Multi-topic Blog-Watch.
+2014 Embed and Conquer: Scalable Embeddings for Kernel <i>k</i>-Means on MapReduce.
+2004 Mixture Density Mercer Kernels: A Method to Learn Kernels Directly from Data.
+2007 Mining Visual and Textual Data for Constructing a Multi-Modal Thesaurus.
+2015 Result Integrity Verification of Outsourced Privacy-preserving Frequent Itemset Mining.
+2014 Quantifying trust dynamics in signed graphs, the S-Cores approach.
+2012 Symmetric Nonnegative Matrix Factorization for Graph Clustering.
+2005 Mining Non-Derivable Association Rules.
+2007 RCMap: Efficiently Creating High-Quality Euclidean Embeddings.
+2011 Spatially-Aware Comparison and Consensus for Clusterings.
+2016 Capricorn: An Algorithm for Subtropical Matrix Factorization.
+2011 A Generalized Framework for Mining Arbitrarily Positioned Overlapping Co-clusters.
+2008 Semi-Supervised Clustering via Matrix Factorization.
+2014 How Can I Index My Thousands of Photos Effectively and Automatically? An Unsupervised Feature Selection Approach.
+2007 Rank Aggregation for Similar Items.
+2015 Data mining for real mining: A robust algorithm for prospectivity mapping with uncertainties.
+2010 On Clustering Graph Streams.
+2007 On Privacy-Preservation of Text and Sparse Binary Data with Sketches.
+2011 The Network Completion Problem: Inferring Missing Nodes and Edges in Networks.
+2015 A Divide-and-Conquer Algorithm for Betweenness Centrality.
+2012 Cluster-Aware Compression with Provable K-means Preservation.
+2005 Near-Neighbor Search in Pattern Distance Spaces.
+2014 Addressing Human Subjectivity via Transfer Learning: An Application to Predicting Disease Outcome in Multiple Sclerosis Patients.
+2005 Dynamic Classification of Defect Structures in Molecular Dynamics Simulation Data.
+2007 ROAM: Rule- and Motif-Based Anomaly Detection in Massive Moving Object Data Sets.
+2017 Finding low-tension communities.
+2011 iMet: Interactive Metric Learning in Healthcare Applications.
+2003 Extracting Cyber Communities through Patterns.
+2009 A Bayesian Approach Toward Finding Communities and Their Evolutions in Dynamic Social Networks.
+2013 It Is Not Just What We Say, But How We Say Them: LDA-based Behavior-Topic Model.
+2009 Mining Complex Spatio-Temporal Sequence Patterns.
+2013 Probabilistic Combination of Classifier and Cluster Ensembles for Non-transductive Learning.
+2016 <i>Halite<sub>ds</sub></i>: Fast and Scalable Subspace Clustering for Multidimensional Data Streams.
+2001 PNrule: A New Framework for Learning Classifier Models in Data Mining (A Case-Study in Network Intrusion Detection).
+2008 Semi-Supervised Learning Based on Semiparametric Regularization.
+2014 Large-Scale Multi-Label Learning with Incomplete Label Assignments.
+2014 Transductive HSIC Lasso.
+2007 Efficient Multiclass Boosting Classification with Active Learning.
+2014 A Guide to Selecting a Network Similarity Method.
+2008 ROC-tree: A Novel Decision Tree Induction Algorithm Based on Receiver Operating Characteristics to Classify Gene Expression Data.
+2006 Toward Semantic XML Clustering.
+2001 On the performance of bisecting K-means and PDDP.
+2014 Recovering Missing Labels of Crowdsourcing Workers.
+2013 Joint Segmentation and Clustering in Text Corpuses.
+2012 Event Detection in Social Streams.
+2005 Exploiting Parameter Related Domain Knowledge for Learning in Graphical Models.
+2007 Mining Naturally Smooth Evolution of Clusters from Dynamic Data.
+2009 Twin Vector Machines for Online Learning on a Budget.
+2012 Optimal Distance Estimation Between Compressed Data Series.
+2016 High Dimensional Structured Estimation with Noisy Designs.
+2002 Discovering Fully Dependent Patterns.
+2012 Group Sparsity in Nonnegative Matrix Factorization.
+2015 Low Rank Representation on Riemannian Manifold of Symmetric Positive Definite Matrices.
+2009 Efficient Active Learning with Boosting.
+2017 A Sparse Nonlinear Classifier Design Using AUC Optimization.
+2008 Latent Variable Mining with Its Applications to Anomalous Behavior Detection.
+2015 Semi-supervised learning for structured regression on partially observed attributed graphs.
+2006 On Approximate Solutions to Support Vector Machines.
+2006 Discovery of Co-evoluting Spatial Co-located Event Sets.
+2013 Graphical Modeling of Macro Behavioral Targeting in Social Networks.
+2007 Higher Order Orthogonal Iteration of Tensors (HOOI) and its Relation to PCA and GLRAM.
+2002 Explicit Thermodynamic Properties using Radial Basis Functions Neural Networks.
+2002 On Scaling Up Balanced Clustering Algorithms.
+2008 Spatio-Temporal Partitioning for Improving Aerosol Prediction Accuracy.
+2006 Local L2-Thresholding Based Data Mining in Peer-to-Peer Systems.
+2014 Density Estimation with Adaptive Sparse Grids for Large Data Sets.
+2008 Unsupervised Segmentation of Conversational Transcripts.
+2005 Learning to Refine Ontology for a New Web Site Using a Bayesian Approach.
+2015 Clustering and Ranking in Heterogeneous Information Networks via Gamma-Poisson Model.
+2010 Co-selection of Features and Instances for Unsupervised Rare Category Analysis.
+2014 Submodularity in Team Formation Problem.
+2008 Exploration and Reduction of the Feature Space by Hierarchical Clustering.
+2005 CBS: A New Classification Method by Using Sequential Patterns.
+2005 SUMSRM: A New Statistic for the Structural Break Detection in Time Series.
+2014 Accelerating Graph Adjacency Matrix Multiplications with Adjacency Forest.
+2014 Discriminant Analysis for Unsupervised Feature Selection.
+2015 Hierarchical Active Transfer Learning.
+2017 Clustering with Domain-Specific Usefulness Scores.
+2002 Ensemble-based Adaptive Intrusion Detection.
+2009 A Re-evaluation of the Over-Searching Phenomenon in Inductive Rule Learning.
+2003 The Application of Text Mining Software to Examine Coded Information.
+2001 Mining the Detector Responses of a Conducting Polymer Composite-Based Electronic Nose.
+2009 Straightforward Feature Selection for Scalable Latent Semantic Indexing.
+2017 Correlation by Compression.
+2016 Linear and Kernel Classification: When to Use Which?
+2008 Type-Independent Correction of Sample Selection Bias via Structural Discovery and Re-balancing.
+2003 Fast Online SVD Revisions for Lightweight Recommender Systems.
+2014 A Weighted Adaptive Mean Shift Clustering Algorithm.
+2009 Learning Random-Walk Kernels for Protein Remote Homology Identification and Motif Discovery.
+2013 Outlier Detection with Space Transformation and Spectral Analysis.
+2005 Making Data Mining Models Useful to Model Non-paying Customers of Exchange Carriers.
+2015 Selecting Shortcuts for a Smaller World.
+2007 Distance Preserving Dimension Reduction for Manifold Learning.
+2017 Absenteeism Detection in Social Media.
+2010 Text Categorization Using Word Similarities Based on Higher Order Co-occurrences.
+2013 Maximal Deviations of Incomplete U-statistics with Applications to Empirical Risk Sampling.
+2008 Mining Tree Patterns with Almost Smallest Supertrees.
+2016 Learning Linear Dynamical Systems from Multivariate Time Series: A Matrix Factorization Based Framework.
+2011 Multi-Instance Mixture Models.
+2005 Kronecker Factorization for Speeding up Kernel Machines.
+2015 Fast Eigen-Functions Tracking on Dynamic Graphs.
+2013 Exploring and Inferring User-User Pseudo-Friendship for Sentiment Analysis with Heterogeneous Networks.
+2011 On Classification of Graph Streams.
+2009 FuncICA for Time Series Pattern Discovery.
+2009 Discovery of Geospatial Discriminating Patterns from Remote Sensing Datasets.
+2008 A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees.
+2009 Change-Point Detection in Time-Series Data by Direct Density-Ratio Estimation.
+2017 Uncovering the Spatiotemporal Patterns of Collective Social Activity.
+2012 A Bayesian Markov-switching Model for Sparse Dynamic Network Estimation.
+2013 Fractional Immunization in Networks.
+2017 Ranking in Heterogeneous Networks with Geo-Location Information.
+2013 CoSelect: Feature Selection with Instance Selection for Social Media Data.
+2017 Sensitivity of Community Structure to Network Uncertainty.
+2008 On the Dangers of Cross-Validation. An Experimental Evaluation.
+2009 Application of Bayesian Partition Models in Warranty Data Analysis.
+2007 Fast Newton-type Methods for the Least Squares Nonnegative Matrix Approximation Problem.
+2009 GAD: General Activity Detection for Fast Clustering on Large Data.
+2005 Time-series Bitmaps: a Practical Visualization Tool for Working with Large Time Series Databases.
+2003 Generalized Sensitivity Analysis: A Framework for Evaluating Data Analysis Results.
+2008 Integration of Multiple Networks for Robust Label Propagation.
+2006 Representation is Everything: Towards Efficient and Adaptable Similarity Measures for Biological Data.
+2009 Autocannibalistic and Anyspace Indexing Algorithms with Application to Sensor Data Mining.
+2016 Synergies that Matter: Efficient Interaction Selection via Sparse Factorization Machine.
+2003 StarClass: Interactive Visual Classification using Star Coordinates.
+2010 Semi-supervised Bio-named Entity Recognition with Word-Codebook Learning.
+2012 On Evaluation of Outlier Rankings and Outlier Scores.
+2015 Personalized TV Recommendation with Mixture Probabilistic Matrix Factorization.
+2010 Formal Concept Sampling for Counting and Threshold-Free Local Pattern Mining.
+2005 Pushing Feature Selection Ahead Of Join.
+2012 Mining Social Dependencies in Dynamic Interaction Networks.
+2004 Making Time-Series Classification More Accurate Using Learned Constraints.
+2013 On Graph Stream Clustering with Side Information.
+2012 A Tree-Based Kernel for Graphs.
+2005 Gaussian Processes for Active Data Mining of Spatial Aggregates.
+2004 Analytical Evaluation of Clustering Results Using Computational Negative Controls.
+2016 Fast Lossless Frequent Itemset Mining in Data Streams using Crucial Patterns.
+2006 Confidence Estimation Methods for Partially Supervised Information Extraction.
+2017 The Power of Certainty: A Dirichlet-Multinomial Model for Belief Propagation.
+2011 Extending Consensus Clustering to Explore Multiple Clustering Views.
+2014 Detecting Influence Relationships from Graphs.
+2002 Efficient Substructure Discovery from Large Semi-structured Data.
+2004 CREDOS: Classification Using Ripple Down Structure (A Case for Rare Classes).
+2004 IFD: Iterative Feature and Data Clustering.
+2014 Memory-efficient Query-driven Community Detection with Application to Complex Disease Associations.
+2011 Temporal Structure Learning for Clustering Massive Data Streams in Real-Time.
+2001 Information Theoretic Feature Crediting in Multiclass Support Vector Machines.
+2010 On Classification of High-Cardinality Data Streams.
+2005 Correcting Sampling Bias in Structural Genomics through Iterative Selection of Underrepresented Targets.
+2010 A SAT-based Framework for Efficient Constrained Clustering.
+2009 Context Aware Trace Clustering: Towards Improving Process Mining Results.
+2005 Model-based Clustering With Probabilistic Constraints.
+2003 CPAR: Classification based on Predictive Association Rules.
+2013 MC-MinH: Metagenome Clustering using Minwise based Hashing.
+2016 A Scalable Approach for Outlier Detection in Edge Streams Using Sketch-based Approximations.
+2005 Mining Frequent Itemsets from Data Streams with a Time-Sensitive Sliding Window.
+2011 Semi-Supervised Convolution Graph Kernels for Relation Extraction.
+2011 On Anonymization of Multi-graphs.
+2006 On the Necessary and Sufficient Conditions of a Meaningful Distance Function for High Dimensional Data Space.
+2007 Clustering by weighted cuts in directed graphs.
+2011 Who Should Label What? Instance Allocation in Multiple Expert Active Learning.
+2009 Identifying Information-Rich Subspace Trends in High-Dimensional Data.
+2014 Adaptive User Distance Modeling in Social Media.
+2017 Multi-core K-means.
+2010 Scalable Tensor Factorizations with Missing Data.
+2016 Infusing Geo-Recency Mixture Models for Effective Location Prediction in LBSN.
+2013 Topic-Level Expert Modeling in Community Question Answering.
+2006 Towards the Prediction of Protein Abundance from Tandem Mass Spectrometry Data.
+2011 SONAR: Signal De-mixing for Robust Correlation Clustering.
+2017 Toward Personalized Relational Learning.
+2016 Proceedings of the 2016 SIAM International Conference on Data Mining, Miami, Florida, USA, May 5-7, 2016
+2009 A Framework for Exploring Categorical Data.
+2004 Exploiting Hierarchical Domain Values in Classification Learning.
+2010 Exploiting Associations between Word Clusters and Document Classes for Cross-Domain Text Categorization.
+2016 Learning Correlative and Personalized Structure for Online Multi-Task Classification.
+2003 Mining Changes of Classification by Correspondence Tracing.
+2012 Sparse Group Lasso: Consistency and Climate Applications.
+2013 IBSM: Interval-Based Sequence Matching.
+2009 CORE: Nonparametric Clustering of Large Numeric Databases.
+2014 Building associations between markers of environmental stressors and adverse human health impacts using frequent itemset mining.
+2016 Identifying Connectivity Patterns for Brain Diseases via Multi-side-view Guided Deep Architectures.
+2005 2-Dimensional Singular Value Decomposition for 2D Maps and Images.
+2005 Discarding Insignificant Rules during Impact Rule Discovery in Large, Dense Databases.
+2005 Surveying Data for Patchy Structure.
+2013 Discriminative Transfer Learning on Manifold.
+2014 Generalized Outlier Detection with Flexible Kernel Density Estimates.
+2013 Dynamic Shaker Detection from Evolving Entities.
+2015 Mining Multi-Relational Gradual Patterns.
+2016 <i>k</i>-Means for Streaming and Distributed Big Sparse Data.
+2015 A Framework for Simplifying Trip Data into Networks via Coupled Matrix Factorization.
+2013 A Hierarchical Probabilistic Model for Low Sample Rate Home-Use Energy Disaggregation.
+2014 A graphical model approach to ATLAS-free mining of MRI images.
+2007 Probabilistic Joint Feature Selection for Multi-task Learning.
+2015 <i>Cheetah</i>: Fast Graph Kernel Tracking on Dynamic Graphs.
+2013 Constrained Spectral Clustering using L1 Regularization.
+2009 Mining Cohesive Patterns from Graphs with Feature Vectors.
+2002 Iterative Deepening Dynamic Time Warping for Time Series.
+2012 Legislative Prediction via Random Walks over a Heterogeneous Graph.
+2005 A Random Walks Perspective on Maximizing Satisfaction and Profit.
+2008 A New Method for Rule Finding Via Bootstrapped Confidence Intervals.
+2017 Condensing Temporal Networks using Propagation.
+2012 Regularized Structured Output Learning with Partial Labels.
+2010 Residual Bayesian Co-clustering for Matrix Approximation.
+2012 An Iterative and Re-weighting Framework for Rejection and Uncertainty Resolution in Crowdsourcing.
+2004 Density-Connected Subspace Clustering for High-Dimensional Data.
+2017 Active Positive-Definite Matrix Completion.
+2004 Continuous-Time Bayesian Modeling of Clinical Data.
+2011 Weighted Graph Compression for Parameter-free Clustering With PaCCo.
+2012 Query-based Biclustering using Formal Concept Analysis.
+2014 Online Matrix Completion Through Nuclear Norm Regularisation.
+2012 Mining Massive Archives of Mice Sounds with Symbolized Representations.
+2015 Same bang, fewer bucks: efficient discovery of the cost-influence skyline.
+2017 HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection.
+2006 Proceedings of the Sixth SIAM International Conference on Data Mining, April 20-22, 2006, Bethesda, MD, USA
+2005 Summarizing Sequential Data with Closed Partial Orders.
+2005 A Spectral Clustering Approach To Finding Communities in Graph.
+2014 A Statistical Learning Theory Framework for Supervised Pattern Discovery.
+2014 A New Framework for Traffic Anomaly Detection.
+2016 Effective Crowd Expertise Modeling via Cross Domain Sparsity and Uncertainty Reduction.
+2001 A Fourier Analysis Based Approach to Learning Decision Trees in a Distributed Environment.
+2013 Community Detection with Prior Knowledge.
+2004 R-MAT: A Recursive Model for Graph Mining.
+2004 Constructing Time Decompositions for Analyzing Time-Stamped Documents.
+2008 Efficient Distribution Mining and Classification.
+2015 Attacking DBSCAN for Fun and Profit.
+2017 Time-Aware Subscription Prediction Model for User Acquisition in Digital News Media.
+2015 NetCodec: Community Detection from Individual Activities.
+2017 H-Fuse: Efficient Fusion of Aggregated Historical Data.
+2012 Citation Prediction in Heterogeneous Bibliographic Networks.
+2011 ABACUS: Mining Arbitrary Shaped Clusters from Large Datasets based on Backbone Identification.
+2014 User Preference Learning with Multiple Information Fusion for Restaurant Recommendation.
+2011 A Tractable Pseudo-Likelihood Function for Bayes Nets Applied to Relational Data.
+2014 Extracting Researcher Metadata with Labeled Features.
+2016 Linear-time Detection of Non-linear Changes in Massively High Dimensional Time Series.
+2006 Profiling Protein Families from Partially Aligned Sequences.
+2005 Finding Young Stellar Populations in Elliptical Galaxies from Independent Components of Optical Spectra.
+2016 Predicting the Popularity of News Articles.
+2015 Tensor Spectral Clustering for Partitioning Higher-order Network Structures.
+2016 Estimating Posterior Ratio for Classification: Transfer Learning from Probabilistic Perspective.
+2006 A New Privacy-Preserving Distributed k-Clustering Algorithm.
+2014 Forecasting a Moving Target: Ensemble Models for ILI Case Count Predictions.
+2005 Cluster Validity Analysis of Alternative Results from Multi-Objective Optimization.
+2014 A Generative Model with Network Regularization for Semi-Supervised Collective Classification.
+2016 ADMM for Training Sparse Structural SVMs with Augmented <i>ℓ</i><sub>1</sub> Regularizers.
+2008 Similarity Measures for Categorical Data: A Comparative Evaluation.
+2011 Sparse Solutions for Single Class SVMs: A Bi-Criterion Approach.
+2014 Finding Friends on a New Site Using Minimum Information.
+2014 Classifying Imbalanced Data Streams via Dynamic Feature Group Weighting with Importance Sampling.
+2014 Selecting a Representative Set of Diverse Quality Reviews Automatically.
+2015 Scaling log-linear analysis to datasets with thousands of variables.
+2014 Discriminative Density-ratio Estimation.
+2017 Margin Distribution Logistic Machine.
+2004 Text Mining Using Non-Negative Matrix Factorizations.
+2008 Data Peeler: Contraint-Based Closed Pattern Mining in n-ary Relations.
+2014 On Randomly Projected Hierarchical Clustering with Guarantees.
+2016 Spatio-Temporal Tensor Analysis for Whole-Brain fMRI Classification.
+2002 Mining Relationship between Triggering and Consequential Events in a Short Transaction Database.
+2006 Dissimilarity Measures for Detecting Hepatotoxicity in Clinical Trial Data.
+2005 HARMONY: Efficiently Mining the Best Rules for Classification.
+2017 Uncovering Group Level Insights with Accordant Clustering.
+2003 STAMP: On Discovery of Statistically Important Pattern Repeats in Long Sequential Data.
+2012 Evaluating Event Credibility on Twitter.
+2012 Class Relevant Pattern Mining in Output-Polynomial Time.
+2014 Discovery of Rare Sequential Topic Patterns in Document Stream.
+2012 Transfer Significant Subgraphs across Graph Databases.
+2008 Gaussian Process Learning for Cyber-Attack Early Warning.
+2008 Maximal Quasi-Bicliques with Balanced Noise Tolerance: Concepts and Co-clustering Applications.
+2008 Exact and Approximate Reverse Nearest Neighbor Search for Multimedia Data.
+2016 The Impact of Community Safety on House Ranking.
+2011 Graph-Based Marginal Ranking for Update Summarization.
+2012 Monitoring and Mining Insect Sounds in Visual Space.
+2014 Ensembles of Elastic Distance Measures for Time Series Classification.
+2003 Decision Tree Classification of Spatial Data Patterns from Videokeratography using Zernicke Polynomials.
+2013 Selective Transfer Learning for Cross Domain Recommendation.
+2015 SourceSeer: Forecasting Rare Disease Outbreaks Using Multiple Data Sources.
+2005 On Clustering Binary Data.
+2015 OnlineCM: Real-time Consensus Classification with Missing Values.
+2014 FlexiFaCT: Scalable Flexible Factorization of Coupled Tensors on Hadoop.
+2007 Bursty Feature Representation for Clustering Text Streams.
+2006 Positive Borders or Negative Borders: How to Make Lossless Generator Based Representations Concise.
+2015 An ADMM Algorithm for Clustering Partially Observed Networks.
+2017 Detecting Malicious Behavior in Computer Networks via Cost-Sensitive and Connectivity Constrained Classification.
+2014 Unsupervised Feature Learning by Deep Sparse Coding.
+2009 Low-Entropy Set Selection.
+2016 Structured Regression on Multilayer Networks.
+2011 Semi-supervised Variable Weighting for Clustering.
+2003 An Outlier-based Data Association Method for Linking Criminal Incidents.
+2015 Festival, Date and Limit Line: Predicting Vehicle Accident Rate in Beijing.
+2009 Parallel Large Scale Feature Selection for Logistic Regression.
+2015 Learning Stroke Treatment Progression Models for an MDP Clinical Decision Support System.
+2012 Tracking Spatio-Temporal Diffusion in Climate Data.
+2007 Kernel Based Detection of Mislabeled Training Examples.
+2013 Distribution Regularized Regression Framework for Climate Modeling.
+2004 Privacy Preserving Naïve Bayes Classifier for Vertically Partitioned Data.
+2010 Efficient Nonnegative Matrix Factorization with Random Projections.
+2009 FutureRank: Ranking Scientific Articles by Predicting their Future PageRank.
+2005 Expanding the Training Data Space Using Emerging Patterns and Genetic Methods.
+2012 Multi-skill Collaborative Teams based on Densest Subgraphs.
+2011 Clustered low rank approximation of graphs in information science applications.
+2006 Mining Frequent Patterns by Differential Refinement of Clustered Bitmaps.
+2011 Computationally Generated Cardiac Biomarkers: Heart Rate Patterns to Predict Death Following Coronary Attacks.
+2014 Subgraph Search in Large Graphs with Result Diversification.
+2010 Time-Series Classification in Many Intrinsic Dimensions.
+2011 Semantic Graph Kernels for Automated Reasoning.
+2011 Are your Items in Order.
+2014 Triangle counting in streamed graphs via small vertex covers.
+2003 Estimation of Topological Dimension.
+2006 Efficient Mining of Temporally Annotated Sequences.
+2015 Faster Jobs in Distributed Data Processing using Multi-Task Learning.
+2001 A Middleware for Developing Parallel Data Mining Applications.
+2006 Spatial Weighted Outlier Detection.
+2003 A New Gravitational Clustering Algorithm.
+2011 Non-Negative Residual Matrix Factorization with Application to Graph Anomaly Detection.
+2013 Set Coverage Problems in a One-Pass Data Stream.
+2015 Efficient Online Relative Comparison Kernel Learning.
+2014 Influence Maximization with Viral Product Design.
+2009 High Performance Parallel/Distributed Biclustering Using Barycenter Heuristic.
+2007 Bandits for Taxonomies: A Model-based Approach.
+2011 A Structure Function for Transaction Data.
+2013 Unsupervised Feature Selection for Multi-View Data in Social Media.
+2007 On Point Sampling Versus Space Sampling for Dimensionality Reduction.
+2004 HICAP: Hierarchical Clustering with Pattern Preservation.
+2017 Multivariate Confidence Intervals.
+2010 A Robust Decision Tree Algorithm for Imbalanced Data Sets.
+2004 Text Mining from Site Invariant and Dependent Features for Information Extraction Knowledge Adaptation.
+2010 GraSS: Graph Structure Summarization.
+2012 HAR: Hub, Authority and Relevance Scores in Multi-Relational Data for Query Search.
+2013 Efficient Selection of Globally Optimal Rules on Large Imbalanced Data Based on Rule Coverage Relationship Analysis.
+2010 Subspace Clustering for Uncertain Data.
+2015 Significant Subgraph Mining with Multiple Testing Correction.
+2013 Integrity Verification of K-means Clustering Outsourced to Infrastructure as a Service (IaaS) Providers.
+2007 Proceedings of the Seventh SIAM International Conference on Data Mining, April 26-28, 2007, Minneapolis, Minnesota, USA
+2013 Mining Labelled Tensors by Discovering both their Common and Discriminative Subspaces.
+2007 On Demand Phenotype Ranking through Subspace Clustering.
+2015 SimplePPT: A Simple Principal Tree Algorithm.
+2017 ROFLMAO: Robust Oblique Forests with Linear MAtrix Operations.
+2011 Discovering Bucket Orders from Data.
+2012 PICS: Parameter-free Identification of Cohesive Subgroups in Large Attributed Graphs.
+2002 Instance Selection Techniques for Memory-based Collaborative Filtering.
+2014 Context-Preserving Hashing for Fast Text Classification.
+2003 Approximate Query Answering by Model Averaging.
+2006 Semi-Supervised Clustering with Partial Background Information.
+2009 Discretized Spatio-Temporal Scan Window.
+2007 Scalable Name Disambiguation using Multi-level Graph Partition.
+2015 Data Stream Classification Guided by Clustering on Nonstationary Environments and Extreme Verification Latency.
+2008 Simultaneous Unsupervised Learning of Disparate Clusterings.
+2006 Mining Interesting Patterns from Very High Dimensional Data: A Top-Down Row Enumeration Approach.
+2017 FACETS: Adaptive Local Exploration of Large Graphs.
+2016 MACFP: Maximal Approximate Consecutive Frequent Pattern Mining under Edit Distance.
+2010 Publishing Skewed Sensitive Microdata.
+2014 Active Multitask Learning Using Both Latent and Supervised Shared Topics.
+2008 Efficiently Mining Closed Subsequences with Gap Constraints.
+2015 Feature-based factorized Bilinear Similarity Model for Cold-Start Top-<i>n</i> Item Recommendation.
+2005 Exploiting Relationships for Domain-Independent Data Cleaning.
+2015 From Categorical to Numerical: Multiple Transitive Distance Learning and Embedding.
+2016 Regularized Weighted Linear Regression for High-dimensional Censored Data.
+2010 An Information-Theoretic Approach to Finding Informative Noisy Tiles in Binary Databases.
+2013 Determining the Number of Clusters via Iterative Consensus Clustering.
+2017 Learning from Multi-Modality Multi-Resolution Data: an Optimization Approach.
+2015 Shapelet Ensemble for Multi-dimensional Time Series.
+2012 Slim: Directly Mining Descriptive Patterns.
+2014 Future Influence Ranking of Scientific Literature.
+2010 HCDF: A Hybrid Community Discovery Framework.
+2014 Online Discovery of Group Level Events in Time Series.
+2005 Computational Developments of <i>ψ</i>-learning.
+2013 Monitoring and mining GPS traces in transit space.
+2015 Towards Permission Request Prediction on Mobile Apps via Structure Feature Learning.
+2014 Mixed-Transfer: Transfer Learning over Mixed Graphs.
+2014 Selective Sampling on Probabilistic Data.
+2009 Noise Robust Classification Based on Spread Spectrum.
+2006 Graph-based Methods for Orbit Classification.
+2002 Learning Simple Relations: Theory and Applications.
+2015 Cross-Modal Retrieval: A Pairwise Classification Approach.
+2008 CISpan: Comprehensive Incremental Mining Algorithms of Closed Sequential Patterns for Multi-Versional Software Mining.
+2003 Data-Mining of a Large Virtual Community: Relationship between Users DB and the Web-Log File.
+2017 Sparse Graphical Modeling via Stochastic Complexity.
+2012 The Similarity Between Stochastic Kronecker and Chung-Lu Graph Models.
+2014 Classifier-Adjusted Density Estimation for Anomaly Detection and One-Class Classification.
+2012 Scalable Induction of Probabilistic Real-Time Automata Using Maximum Frequent Pattern Based Clustering.
+2012 Sampling Strategies to Evaluate the Performance of Unknown Predictors.
+2004 Using Support Vector Machines for Classifying Large Sets of Multi-Represented Objects.
+2016 Pivot-based k-means Algorithm for Numerous-class Data Sets.
+2007 An incremental data-stream sketch using sparse random projections.
+2016 DPClass: An Effective but Concise Discriminative Patterns-Based Classification Framework.
+2010 On Mining Statistically Significant Attribute Association Information.
+2016 Uncovering Multiple Diffusion Networks Using the First-Hand Sharing Pattern.
+2012 Learning Hierarchical Relationships among Partially Ordered Objects with Heterogeneous Attributes and Links.
+2016 A polynomial expansion line search for large-scale unconstrained minimization of smooth <i>L</i><sub>2</sub>-regularized loss functions, with implementation in Apache Spark.
+2014 Less is More: Similarity of Time Series under Linear Transformations.
+2014 Directed Interpretable Discovery in Tensors with Sparse Projection.
+2007 Co-Preserving Patterns in Bipartite Partitioning for Topic Identification.
+2017 A Dual-Tree Algorithm for Fast <i>k</i>-means Clustering With Large <i>k</i>.
+2016 Regularized Parametric Regression for High-dimensional Survival Analysis.
+2005 Loadstar: A Load Shedding Scheme for Classifying Data Streams.
+2013 Very Fast Similarity Queries on Semi-Structured Data from the Web.
+2017 Exploring Latent Semantic Factors to Find Useful Product Reviews.
+2011 WindMine: Fast and Effective Mining of Web-click Sequences.
+2005 ClosedPROWL: Efficient Mining of Closed Frequent Continuities by Projected Window List Technology.
+2015 Front Matter.
+2009 ShatterPlots: Fast Tools for Mining Large Graphs.
+2009 Non-parametric Information-Theoretic Measures of One-Dimensional Distribution Functions from Continuous Time Series.
+2006 Risk-Sensitive Learning via Expected Shortfall Minimization.
+2007 Boosting Optimal Logical Patterns Using Noisy Data.
+2006 Probabilistic Multi-State Split-Merge Algorithm for Coupling Parameter Estimates.
+2012 Robust Reputation-Based Ranking on Bipartite Rating Networks.
+2015 Near-separable Non-negative Matrix Factorization with ℓ<sub>1</sub> and Bregman Loss Functions.
+2003 Sort-Merge Feature Selection for Video Data.
+2008 Graph Mining with Variational Dirichlet Process Mixture Models.
+2012 MARBLES: Mining Association Rules Buried in Long Event Sequences.
+2014 Modeling Asymmetry and Tail Dependence among Multiple Variables by Using Partial Regular Vine.
+2010 Identifying Multi-instance Outliers.
+2017 ALPINE: Progressive Itemset Mining with Definite Guarantees.
+2015 Spectral Embedding of Signed Networks.
+2004 Mining Patters of Activity from Video Data.
+2008 Mining Association Rules of Simple Conjunctive Queries.
+2016 Geometric methods to accelerate <i>k</i>-means algorithms.
+2008 Feature Selection with the logRatio Kernel.
+2006 Transductive De-Noising and Dimensionality Reduction using Total Bregman Regression.
+2006 A Novel Framework for Incorporating Labeled Examples into Anomaly Detection.
+2010 Directed Network Community Detection: A Popularity and Productivity Link Model.
+2005 Mining Unconnected Patterns in Workflows.
+2008 Weighted Consensus Clustering.
+2009 Outlier Detection with Globally Optimal Exemplar-Based GMM.
+2010 The Application of Statistical Relational Learning to a Database of Criminal and Terrorist Activity.
+2003 On using Page Cooccurrences for Computing Clickstream Similarity.
+2009 Hierarchical Linear Discriminant Analysis for Beamforming.
+2015 Selecting Social Media Responses to News: A Convex Framework Based On Data Reconstruction.
+2009 Time-Decayed Correlated Aggregates over Data Streams.
+2017 Using a Random Forest to Inspire a Neural Network and Improving on It.
+2007 WAT: Finding Top-K Discords in Time Series Database.
+2017 A Fast Trust-Region Newton Method for Softmax Logistic Regression.
+2011 Diversified Trajectory Pattern Ranking in Geo-tagged Social Media.
+2009 Understanding Importance of Collaborations in Co-authorship Networks: A Supportiveness Analysis Approach.
+2011 Weighted Rank-One Binary Matrix Factorization.
+2015 Multi-View Low-Rank Analysis for Outlier Detection.
+2001 Automatic Textual Document Categorization Using Multiple Similarity-Based Models.
+2009 Toward Optimal Ordering of Prediction Tasks.
+2014 Turning the Tide: Curbing Deceptive Yelp Behaviors.
+2010 On the Use of Combining Rules in Relational Probability Trees.
+2016 Collective Opinion Spam Detection using Active Inference.
+2010 Predictive Modeling with Heterogeneous Sources.
+2016 Discovery of Precursors to Adverse Events using Time Series Data.
+2007 PoClustering: Lossless Clustering of Dissimilarity Data.
+2011 The Odd One Out: Identifying and Characterising Anomalies.
+2001 Incremental Mining of Constrained Association Rules.
+2011 Multi-task Multiple Kernel Learning.
+2005 SeqIndex: Indexing Sequences by Sequential Pattern Analysis.
+2012 Deterministic CUR for Improved Large-Scale Data Analysis: An Empirical Study.
+2011 Exemplar-based Robust Coherent Biclustering.
+2015 Propagation-based Sentiment Analysis for Microblogging Data.
+2013 Change Detection from Temporal Sequences of Class Labels: Application to Land Cover Change Mapping.
+2012 Fast Robustness Estimation in Large Social Graphs: Communities and Anomaly Detection.
+2014 WCAMiner: A Novel Knowledge Discovery System for Mining Concept Associations using Wikipedia.
+2011 Maximising the Quality of Influence.
+2008 Cluster Ensemble Selection.
+2014 Large-scale Kernel RankSVM.
+2017 Embedded Supervised Feature Selection for Multi-class Data.
+2016 Front Matter.
+2012 A Framework for the Evaluation and Management of Network Centrality.
+2016 Structural Orthogonal Procrustes Regression for Face Recognition with Pose Variations and Misalignment.
+2013 Feature Selection by Joint Graph Sparse Coding.
+2015 MET: A Fast Algorithm for Minimizing Propagation in Large Graphs with Small Eigen-Gaps.
+2006 Weighted Clustering Ensembles.
+2009 Detection and Characterization of Anomalies in Multivariate Time Series.
+2007 Less is More: Compact Matrix Decomposition for Large Sparse Graphs.
+2006 Trend Relational Analysis and Grey-Fuzzy Clustering Method.
+2008 Learning Markov Network Structure using Few Independence Tests.
+2003 Detecting Periodicity in Nonideal Datasets.
+2015 Exceptional Model Mining with Tree-Constrained Gradient Ascent.
+2006 Fast Mining of Distance-Based Outliers in High Dimensional Datasets.
+2003 Detection of Underrepresented Biological Sequences using Class-Conditional Distribution Models.
+2015 Community Detection for Emerging Networks.
+2015 On Influential Nodes Tracking in Dynamic Social Networks.
+2010 A Permutation Approach to Validation.
+2010 The Generalized Dimensionality Reduction Problem.
+2010 Cascading Spatio-temporal Pattern Discovery: A Summary of Results.
+2013 Contextual Time Series Change Detection.
+2007 Identifying Bundles of Product Options using Mutual Information Clustering.
+2004 Visually Mining through Cluster Hierarchies.
+2008 Practical Private Computation and Zero-Knowledge Tools for Privacy-Preserving Distributed Data Mining.
+2011 One-Class-Based Uncertain Data Stream Learning.
+2012 Visualizing Variable-Length Time Series Motifs.
+2014 To Sample or To Smash? Estimating reachability in large time-varying graphs.
+2013 Proceedings of the 13th SIAM International Conference on Data Mining, May 2-4, 2013. Austin, Texas, USA.
+2010 Mining Top-K Patterns from Binary Datasets in Presence of Noise.
+2014 Automatic Construction and Ranking of Topical Keyphrases on Collections of Short Documents.
+2006 WIP: mining Weighted Interesting Patterns with a strong weight and/or support affinity.
+2014 Factor Matrix Trace Norm Minimization for Low-Rank Tensor Completion.
+2005 Efficient Allocation of Marketing Resources using Dynamic Programming.
+2003 A Comparative Study of Anomaly Detection Schemes in Network Intrusion Detection.
+2017 Differentially Private Rank Aggregation.
+2015 Modeling User Arguments, Interactions, and Attributes for Stance Prediction in Online Debate Forums.
+2007 Segmentations with Rearrangements.
+2009 Non-negative Matrix Factorization, Convexity and Isometry.
+2006 Learning Bayesian Networks from Incomplete Data: An Efficient Method for Generating Approximate Predictive Distributions.
+2001 Cheaper by the Dozen: Batched Algorithms.
+2012 Influence Blocking Maximization in Social Networks under the Competitive Linear Threshold Model.
+2010 Direct Density Ratio Estimation with Dimensionality Reduction.
+2007 Fast Multilevel Transduction on Graphs.
+2011 Scalable Software-Defect Localisation by Hierarchical Mining of Dynamic Call Graphs.
+2016 BIRDNEST: Bayesian Inference for Ratings-Fraud Detection.
+2009 Proximity-Based Anomaly Detection Using Sparse Structure Learning.
+2011 Online Discovery of Top-k Similar Motifs in Time Series Data.
+2017 User-guided Cross-domain Sentiment Classification.
+2007 Preventing Information Leaks in Email.
+2007 Finding Motifs in a Database of Shapes.
+2010 Generation of Alternative Clusterings Using the CAMI Approach.
+2015 Health Insurance Market Risk Assessment: Covariate Shift and k-Anonymity.
+2011 On Flow Authority Discovery in Social Networks.
+2016 Speeding Up All-Pairwise Dynamic Time Warping Matrix Calculation.
+2016 GSpartan: a Geospatio-Temporal Multi-task Learning Framework for Multi-location Prediction.
+2017 Proceedings of the 2017 SIAM International Conference on Data Mining, Houston, Texas, USA, April 27-29, 2017.
+2004 Subspace Clustering of High Dimensional Data.
+2007 On Anonymization of String Data.
+2009 Grammar Mining.
+2016 Differentially Private Significance Testing on Paired-Sample Data.
+2010 Robust Mining of Time Intervals with Semi-interval Partial Order Patterns.
+2005 On Periodicity Detection and Structural Periodic Similarity.
+2008 Proximity Tracking on Time-Evolving Bipartite Graphs.
+2016 Copula-HDP-HMM: Non-parametric Modeling of Temporal Multivariate Data for I/O Efficient Bulk Cache Preloading.
+2013 Dynamic Community Detection in Weighted Graph Streams.
+2009 Analyses for Service Interaction Networks with Applications to Service Delivery.
+2015 An LLE based Heterogeneous Metric Learning for Cross-media Retrieval.
+2004 Minimum Sum-Squared Residue Co-Clustering of Gene Expression Data.
+2006 Efficient Algorithms for Sequence Segmentation.
+2017 Price Recommendation on Vacation Rental Websites.
+2007 Constraint-Based Pattern Set Mining.
+2017 MeiKe: Influence-based Communities in Networks.
+2013 A Nonparametric Mixture Model for Topic Modeling over Time.
+2004 VEDAS: A Mobile and Distributed Data Stream Mining System for Real-Time Vehicle Monitoring.
+2014 Disambiguation-Free Partial Label Learning.
+2008 The PageTrust Algorithm: How to rank web pages when negative links are allowed?
+2014 Proceedings of the 2014 SIAM International Conference on Data Mining, Philadelphia, Pennsylvania, USA, April 24-26, 2014
+2004 Active Semi-Supervision for Pairwise Constrained Clustering.
+2012 Transfer Learning of Distance Metrics by Cross-Domain Metric Sampling across Heterogeneous Spaces.
+2009 Constraint-Based Subspace Clustering.
+2008 Mining Sequence Classifiers for Early Prediction.
+2017 Unified and Contrasting Graphical Lasso for Brain Network Discovery.
+2015 DIAS: A Disassemble-Assemble Framework for Highly Sparse Text Clustering.
+2015 Proceedings of the 2015 SIAM International Conference on Data Mining, Vancouver, BC, Canada, April 30 - May 2, 2015
+2013 Topic Models For Feature Selection in Document Clustering.
+2016 Query-Driven Maximum Quasi-Clique Search.
+2011 Kernel-based Similarity Search in Massive Graph Databases with Wavelet Trees.
+2008 A pattern mining approach toward discovering generalized sequence signatures.
+2011 Active Teaching for Inductive Learners.
+2014 Contextual Combinatorial Bandit and its Application on Diversified Online Recommendation.
+2016 A Fast Kernel for Attributed Graphs.
+2013 SMART: Semi-Supervised Music Emotion Recognition with Social Tagging.
+2008 Creating a Cluster Hierarchy under Constraints of a Partially Known Hierarchy.
+2015 Learning Compressive Sensing Models for Big Spatio-Temporal Data.
+2010 Nonnegative Principal Component Analysis for Proteomic Tumor Profiles.
+2010 Fast and Accurate Gene Prediction by Decision Tree Classification.
+2012 Pseudo Cold Start Link Prediction with Multiple Sources in Social Networks.
+2007 Robust, Complete, and Efficient Correlation Clustering.
+2014 Linking Heterogeneous Input Spaces with Pivots for Multi-Task Learning.
+2003 Feature Mining Paradigms for Scientific Data.
+2003 Finding Clusters of Different Sizes, Shapes, and Densities in Noisy, High Dimensional Data.
+2005 CLSI: A Flexible Approximation Scheme from Clustered Term-Document Matrices.
+2007 Patterns of Cascading Behavior in Large Blog Graphs.
+2009 Polynomial-Delay and Polynomial-Space Algorithms for Mining Closed Sequences, Graphs, and Pictures in Accessible Set Systems.
+2016 On Skewed Multi-dimensional Distributions: the FusionRP Model, Algorithms, and Discoveries.
+2017 Multi-Task Multiple Kernel Relationship Learning.
+2016 Discriminative Training of Structured Dictionaries via Block Orthogonal Matching Pursuit.
+2003 PageRank: HITS and a Unified Framework for Link Analysis.
+2011 A Quadratic Mean based Supervised Learning Model for Managing Data Skewness.
+2015 SpecLDA: Modeling Product Reviews and Specifications to Generate Augmented Specifications.
+2015 Graph Regularized Meta-path Based Transductive Regression in Heterogeneous Information Network.
+2011 Efficient Kernel Approximation for Large-Scale Support Vector Machine Classification.
+2006 Density-Based Clustering over an Evolving Data Stream with Noise.
+2008 Semi-supervised Multi-label Learning by Solving a Sylvester Equation.
+2004 Classifying Documents Without Labels.
+2009 Graph Generation with Prescribed Feature Constraints.
+2004 Conquest: A Distributed Tool for Constructing Summaries of High-Dimensional Discrete Attribute Data Sets.
+2010 p-ISOMAP: An Efficient Parametric Update for ISOMAP for Visual Analytics.
+2013 Exploiting Synchronicity Networks for Finding Valuables in Heterogeneous Networks.
+2016 Uncovering Latent Behaviors in Ant Colonies.
+2003 Field-Theoretic Methods for Intractable Probabilistic Models.
+2016 Lagrangian Constrained Clustering.
+2006 Adapting K-Medians to Generate Normalized Cluster Centers.
+2012 Feature Selection for High-dimensional Integrated Data.
+2010 Mining Actionable Subspace Clusters in Sequential Data.
+2015 A Multi-label Least-Squares Hashing For Scalable Image Search.
+2011 Sequential Minimal Optimization in Adaptive-Bandwidth Convex Clustering.
+2006 Modeling Evolutionary Behaviors for Community-based Dynamic Recommendation.
+2014 Laplacian Spectral Properties of Graphs from Random Local Samples.
+2014 Self-Taught Spectral Clustering via Constraint Augmentation.
+2009 Topic Evolution in a Stream of Documents.
+2010 Proceedings of the SIAM International Conference on Data Mining, SDM 2010, April 29 - May 1, 2010, Columbus, Ohio, USA
+2013 Fast Shapelets: A Scalable Algorithm for Discovering Time Series Shapelets.
+2016 Scalable Anomaly Ranking of Attributed Neighborhoods.
+2007 Localized Support Vector Machine and Its Efficient Algorithm.
+2011 From Black and White to Full Colour: Extending Redescription Mining Outside the Boolean World.
+2008 A Bayesian Technique for Estimating the Credibility of question Answerers.
+2010 A Generalized Tree Matching Algorithm Considering Nested Lists for Web Data Extraction.
+2010 Two-View Transductive Support Vector Machines.
+2011 A Fast Algorithm for Sparse PCA and a New Sparsity Control Criteria.
+2009 Multi-topic Based Query-Oriented Summarization.
+2012 Simplex Distributions for Embedding Data Matrices over Time.
+2015 Fast Mining of a Network of Coevolving Time Series.
+2003 CloSpan: Mining Closed Sequential Patterns in Large Datasets.
+2009 Multi-Modal Hierarchical Dirichlet Process Model for Predicting Image Annotation and Image-Object Label Correspondence.
+2016 Top-N Recommendation with Novel Rank Approximation.
+2016 Node Classification in Signed Social Networks.
+2013 A New Perspective on Convex Relaxations of Sparse SVM.
+2006 CPM: A Covariance-preserving Projection Method.
+2012 Heterogeneous Data Fusion via Space Alignment Using Nonmetric Multidimensional Scaling.
+2012 The Multi-Set Stream Clustering Problem.
+2010 Collaborative Filtering: Weighted Nonnegative Matrix Factorization Incorporating User and Item Graphs.
+2015 Mobile App Security Risk Assessment: A Crowdsourcing Ranking Approach from User Comments.
+2010 An Integrative Approach to Indentifying Biologically Relevant Genes.
+2012 Subtree Replacement in Decision Tree Simplification.
+2014 Membership Detection Using Cooperative Data Mining Algorithms.
+2012 Adaptive Multi-task Sparse Learning with an Application to fMRI Study.
+2013 On Handling Negative Transfer and Imbalanced Distributions in Multiple Source Transfer Learning.
+2013 MODS: Multiple One-class Data Streams Learning from Homogeneous Data.
+2014 Learning on Probabilistic Labels.
+2016 Learning A Task-Specific Deep Architecture For Clustering.
+2011 On Node Classification in Dynamic Content-based Networks.
+2012 Detecting Extreme Rank Anomalous Collections.
+2006 Clustering in the Presence of Bridge-Nodes.
+2011 A Sequential Dual Method for Structural SVMs.
+2012 Active Learning with Monotonicity Constraints.
+2009 Hybrid Clustering of Text Mining and Bibliometrics Applied to Journal Sets.
+2015 Principled Neuro-Functional Connectivity Discovery.
+2012 Nearest-Neighbor Search on a Time Budget via Max-Margin Trees.
+2011 Sparse Latent Semantic Analysis.
+2002 Approximate Splitting for Ensembles of Trees using Histograms.
+2017 Near-Optimal and Practical Algorithms for Graph Scan Statistics.
+2016 Temporal Kernel Descriptors for Learning with Time-sensitive Patterns.
+2002 The Power of Second-Order Decision Tables.
+2015 Less is More: Building Selective Anomaly Ensembles with Application to Event Detection in Temporal Graphs.
+2012 Detecting and Tracking Coordinated Groups in Dense, Systematically Moving, Crowds.
+2016 Integrating Community and Role Detection in Information Networks.
+2008 Aerosol Optical Depth Prediction from Satellite Obsercations by Multiple Instance Regression.
+2013 Sentiment Topic Model with Decomposed Prior.
+2013 Multi-objective Multi-view Spectral Clustering via Pareto Optimization.
+2009 Integrated KL (K-means - Laplacian) Clustering: A New Clustering Approach by Combining Attribute Data and Pairwise Relations.
+2014 Latent Factor Transition for Dynamic Collaborative Filtering.
+2006 Area Under ROC Optimisation using a Ramp Approximation.
+2017 Pruning Decision Trees via Max-Heap Projection.
+2012 WIGM: Discovery of Subgraph Patterns in a Large Weighted Graph.
+2004 A Kernel-Based Semi-Naïve Bayesian Classifier Using P-Trees.
+2015 Product Adoption Rate Prediction: A Multi-factor View.
+2007 A System for Keyword Search on Textual Streams.
+2002 Collusion in the U. S. Crop Insurance Program: Applied Data Mining.
+2007 Estimating False Negatives for Classification Problems with Cluster Structure.
+2017 Efficiently Discovering Unexpected Pattern-Co-Occurrences.
+2005 On Variable Constraints in Privacy Preserving Data Mining.
+2004 A Foundational Approach to Mining Itemset Utilities from Databases.
+2005 Variational Learning for Noisy-OR Component Analysis.
+2004 Proceedings of the Fourth SIAM International Conference on Data Mining, Lake Buena Vista, Florida, USA, April 22-24, 2004
+2014 META: Multi-resolution Framework for Event Summarization.
+2004 Reservoir-Based Random Sampling with Replacement from Data Stream.
+2010 Naive Bayes Classifier for Positive Unlabeled Learning with Uncertainty.
+2015 Multi-Layered Framework for Modeling Relationships between Biased Objects.
+2012 Which Distance Metric is Right: An Evolutionary K-Means View.
+2010 Exact Passive-Aggressive Algorithm for Multiclass Classification Using Support Class.
+2005 Online Analysis of Community Evolution in Data Streams.
+2009 Privacy Preservation in Social Networks with Sensitive Edge Weights.
+2011 Cost of Collaboration vs Individual Effort in Social Networks.
+2015 REAFUM: Representative Approximate Frequent Subgraph Mining.
+2012 Feature Selection "Tomography" - Illustrating that Optimal Feature Filtering is Hopelessly Ungeneralizable.
+2011 Block-LDA: Jointly modeling entity-annotated text and entity-entity links.
+2009 Aligned Graph Classification with Regularized Logistic Regression.
+2008 Mining Abnormal Patterns from Heterogeneous Time-Series with Irrelevant Features for Fault Event Detection.
+2009 Mining for Surprise Events Within Text Streams.
+2013 Modeling Clinical Time Series Using Gaussian Process Sequences.
+2009 Providing Privacy through Plausibly Deniable Search.
+2008 Finding Subgroups having Several Descriptions: Algorithms for Redescription Mining.
+2005 A Cutting Algorithm for the Minimum Sum-of-Squared Error Clustering.
+2012 Efficient Clustering of Metagenomic Sequences using Locality Sensitive Hashing.
+2017 Identifying Deep Contrasting Networks from Time Series Data: Application to Brain Network Analysis.
+2014 It Takes Two to Tango: Exploring Social Tie Development with Both Online and Offline Interactions.
+2015 Tracking Events Using Time-dependent Hierarchical Dirichlet Tree Model.
+2014 ROCsearch - An ROC-guided Search Strategy for Subgroup Discovery.
+2017 Meta-Path Graphical Lasso for Learning Heterogeneous Connectivities.
+2005 On the Equivalence of Nonnegative Matrix Factorization and Spectral Clustering.
+2009 Measuring Discrimination in Socially-Sensitive Decision Records.
+2016 Modelling Recurrent Events for Improving Online Change Detection.
+2012 Discovering Context-aware Influential Objects.
+2015 Localizing Temporal Anomalies in Large Evolving Graphs.
+2017 Efficiently Summarising Event Sequences with Rich Interleaving Patterns.
+2006 Deriving Private Information from Randomly Perturbed Ratings.
+2001 Finding similar situations in sequences of events via random projections.
+2002 On the Optimal Clustering of Sequential Data.
+2015 A Generalized Mixture Framework for Multi-label Classification.
+2007 Stacked Graphical Models for Efficient Inference in Markov Random Fields.

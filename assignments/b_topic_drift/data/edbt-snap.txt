@@ -1,0 +1,40 @@
+1994 Advances in Database Technology - EDBT'94. 4th International Conference on Extending Database Technology, Cambridge, United Kingdom, March 28-31, 1994, Proceedings
+2002 Advances in Database Technology - EDBT 2002, 8th International Conference on Extending Database Technology, Prague, Czech Republic, March 25-27, Proceedings
+2002 Using Replication Proxy Servers for Scalable Mobile Database Access.
+1988 The Algres Project.
+1988 A Foundation for Evolution from Relational to Object Databases.
+2000 Spatio-Temporal Constraint Databases built on Object-Oriented Frameworks.
+1990 Table of Contents.
+1990 LISPO<sub>2</sub>: a Persistent Object-Oriented Lisp.
+1994 Subsumption-Free Bottom-up Evaluation of Logic Programs with Partially Instantiated Data Structures.
+2002 Schema-Driven Evaluation of Approximate Tree-Pattern Queries.
+1998 Dynamic and Structured Presentation of Database Contents on the Web.
+1998 Pincer Search: A New Algorithm for Discovering the Maximum Frequent Set.
+2002 Semantic Analysis of Business Process Executions.
+2002 Uncertain Information in Data Integration.
+2002 Profit Mining: From Patterns to Actions.
+2000 Approximate Graph Schema Extraction for Semi-Structured Data.
+1994 Databases in Distributed Systems: The New Frontier (Extended Abstract).
+1996 Data Integration using Self-Maintainable Views.
+1990 Methods and Tools for Equivalent Data Model Mapping Construction.
+1996 The Need for an Object Relational Model and its Use.
+1998 A Conceptual Model and a Tool Environment for Developing More Scalable, Dynamic, and Customizable Web Applications.
+1990 The Reuse and Modification of Rulebases by Predicate Substituation.
+2002 The ORDB-Based SFB-501-Reuse-Repository.
+1992 Sampling Issues in Parallel Database Systems.
+1994 Subsumption between Queries to Object-Oriented Databases.
+1994 Composite-Object Views in Relational DBMS: An Implementation Perspective.
+1998 A Scheme to Specify and Implement Ad-Hoc Recovery in Workflow Systems.
+1988 The Twin Grid File: A Nearly Space Optimal Index Structure.
+2002 XQuery by the Book: The IPSI XQuery Demonstrator.
+1988 TAILOR, A Tool for Updating Views.
+2002 Tree Pattern Relaxation.
+1988 Placement of Replicated Items in Distributed Databases.
+2002 Management of Dynamic Location Information in DOMINO.
+1988 The DURES Project: Extending Datbases into an Open System Architecture.
+2002 Incremental Maintenance of Schema-Restructuring Views.
+2002 DAML+OIL: A Reason-able Web Ontology Language.
+1998 HySpirit - A Probabilistic Inference Engine for Hypermedia Retrieval in Large Databases.
+1988 Views and Security in Distributed Database Management Systems.
+1988 The Processing and Evaluation of Transitive Closure Queries.
+2000 Plug&Join: An easy-to-use Generic Algorithm for Efficiently Processing Equi and Non-Equi Joins.

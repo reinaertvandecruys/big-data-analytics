@@ -1,0 +1,78 @@
+1994 Substucture Discovery in the SUBDUE System.
+2002 Incremental Machine Learning to Reduce Biochemistry Lab Costs in the Search for Drug Discovery.
+1999 A High Performance Implementation of the Data Space Transfer Protocol (DSTP).
+2001 PVA: a self-adaptive personal view agent system.
+2001 Probabilistic modeling of transaction data with applications to profiling, visualization, and prediction.
+1997 Partial Classification Using Association Rules.
+1996 An Overview of Issues in Developing Industrial Data Mining and Knowledge Discovery Applications.
+2002 A theoretical framework for learning from a pool of disparate data sources.
+1995 Using Rough Sets as Tools for Knowledge Discovery.
+1994 Machine Discovery Terminology.
+2002 Frequent term-based text clustering.
+1999 A Generalization-Based Approach to Clustering of Web Usage Sessions.
+1994 Proactive Network Maintenance Using Machine Learning.
+1998 Joins that Generalize: Text Classification Using WHIRL.
+2002 Extracting decision trees from trained neural networks.
+1997 An Interactive Visualization Environment for Data Exploration.
+1995 Estimating the Robustness of Discovered Knowledge.
+1999 Parallel Predictor Generation.
+2001 Analysis of an associative memory neural network for pattern identification in gene expression data.
+1996 Planning Tasks for Knowledge Discovery in Databases; Performing Task-Oriented User-Guidance.
+1995 Robust Decision Trees: Removing Outliers from Databases.
+1999 Compressed Data Cubes for OLAP Aggregate Query Approximation on Continuous Dimensions.
+1999 Accelerating Exact <i>k</i>-means Algorithms with Geometric Reasoning.
+2002 Automated Approaches for Classifying Structures.
+1995 Using Recon for Data Cleaning.
+1996 Interactive Knowledge Discovery from Marketing Questionnaire Using Simulated Breeding and Inductive Learning Methods.
+1999 2001: A Statistical Odyssey (Invited talk, Abstract only).
+1999 The Integrated Delivery of Large-Scale Data Mining: The ACSys Data Mining Project.
+2002 Shrinkage estimator generalizations of Proximal Support Vector Machines.
+1997 New Algorithms for Fast Discovery of Association Rules.
+2001 Classification of genes using probabilistic models of microarray expression profiles.
+2000 Efficient search for association rules.
+2002 What's the code?: automatic classification of source code archives.
+1997 MineSet: An Integrated System for Data Mining.
+1997 Mining for Causes of Cancer: Machine Learning Experiments at Various Levels of Detail.
+2001 Data mining with sparse grids using simplicial basis functions.
+1997 Maximal Association Rules: A New Tool for Mining for Keyword Co-Occurrences in Document Collections.
+2000 Textual data mining of service center call records.
+1998 Similarity of Attributes by External Probes.
+2000 Multi-level Indexing and GIS Enhanced Learning for Satellite Imageries.
+2001 Infominer: mining surprising periodic patterns.
+2002 Transforming classifier scores into accurate multiclass probability estimates.
+1996 Extensibility in Data Mining Systems.
+2001 Empirical bayes screening for multi-item associations.
+1999 Entropy-based Subspace Clustering for Mining Numerical Data.
+2002 Handling very large numbers of association rules in the analysis of microarray data.
+2000 Data mining techniques for optimizing inventories for electronic commerce.
+2001 Recommender systems in commerce and community.
+1997 Automated Discovery of Active Motifs in Three Dimensional Molecules.
+1999 Parallel Sequence Mining on Shared-Memory Machines.
+2003 Extracting information from text and images for location proteomics.
+2000 Data mining to detect abnormal behavior in aerospace data.
+2001 Discovering unexpected information from your competitors' web sites.
+1998 Online Generation of Profile Association Rules.
+1999 Trajectory Clustering with Mixtures of Regression Models.
+2000 Unsupervised Classification of Sound for Multimedia Indexing.
+1997 Process-Based Database Support for the Early Indicator Method.
+2001 Extracting collective probabilistic forecasts from web games.
+1999 Extending Naïve Bayes Classifiers Using Long Itemsets.
+2002 Mining knowledge-sharing sites for viral marketing.
+2001 Discovering the set of fundamental rule changes.
+1998 Comparing Massive High-Dimensional Data Sets.
+1999 Collective, Hierarchical Clustering from Distributed, Heterogeneous Data.
+1999 Combining Estimators to Improve Performance.
+1999 WAPS, a Data Mining Support Environment for the Planning of Warranty and Goodwill Costs in the Automobile Industry.
+2001 Mining microarray expression data for classifier gene-cores.
+1996 Imputation of Missing Data Using Machine Learning Techniques.
+1998 Direct Marketing Response Models Using Genetic Algorithms.
+1997 KDD Process Planning.
+1994 Homogeneous Discoveries Contain No Surprises: Inferring Risk Profiles from Large Databases.
+2002 Single-shot detection of multiple categories of text using parametric mixture models.
+2002 Combining clustering and co-training to enhance text classification using unlabelled data.
+1998 Methods for Linking and Mining Massive Heterogeneous Databases.
+2000 Variations on Multimedia Data Mining.
+2000 Proceedings of the International Workshop on Multimedia Data Mining, MDM/KDD'2000, August 20th, 2000, Boston, MA, USA
+2001 Proceedings of the Second International Workshop on Multimedia Data Mining, MDM/KDD'2001, August 26th, 2001, San Francisco, CA, USA
+2002 WEBKDD 2001 - Mining Web Log Data Across All Customers Touch Points, Third International Workshop, San Francisco, CA, USA, August 26, 2001, Revised Papers
+2003 Proceedings of the 3nd ACM SIGKDD Workshop on Data Mining in Bioinformatics (BIOKDD 2003), August 27th, 2003, Washington, DC, USA

@@ -1,11 +1,7 @@
 from itertools import combinations
 from pprint import pformat
 
-from dblp import dblpparser
-
-
-dblpparser.DBLP.PATH = 'dblp/dblp.xml'
-dblpparser.DBLP_SNAP.PATH = 'dblp/dblp-snap.xml'
+from _dblp import dblpparser
 
 
 next_item_id = 0

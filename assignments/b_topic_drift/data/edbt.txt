@@ -1,0 +1,1745 @@
+1992 Retrieval of Complex Objects.
+2012 Aggregate queries on probabilistic record linkages.
+1994 Supporting Full-Text Information Retrieval with a Persistent Object Store.
+2016 Impact-minimizing Runtime Switching of Distributed Stream Processing Algorithms.
+2013 A privacy preserving model bridging data provider and collector preferences.
+1992 A Geometric Approach to Indexing Large Rule Bases.
+2009 HIDE: heterogeneous information DE-identification.
+2014 Exploring RDF/S Evolution using Provenance Queries.
+2016 PARAGON: Parallel Architecture-Aware Graph Partition Refinement Algorithm.
+2012 <i>CRSI</i>: a compact randomized similarity index for set-valued features.
+2008 A New Approach to Modular Database Systems.
+1996 Advances in Database Technology - EDBT'96, 5th International Conference on Extending Database Technology, Avignon, France, March 25-29, 1996, Proceedings
+2006 FIS-by-Step: Visualization of the Fast Index Scan for Nearest Neighbor Queries.
+1990 An Adaptive Overflow Technique for B-trees.
+2016 A Two Phase Deep Learning Model for Identifying Discrimination from Tweets.
+2013 Research challenges for energy data management (panel).
+2012 An adaptive algorithm for online time series segmentation with error bound guarantee.
+1992 Theoretical Aspects of Schema Merging.
+2017 Enabling Self-Service BI on Document Stores.
+2015 Taxi Queue, Passenger Queue or No Queue? - A Queue Detection and Analysis System using Taxi State Transition.
+2006 A Metric Definition, Computation, and Reporting Model for Business Operation Analysis.
+2011 On the tractability and intractability of consistent conjunctive query answering.
+2010 Feedback-driven result ranking and query refinement for exploring semi-structured data collections.
+2004 HOPI: An Efficient Connection Index for Complex XML Document Collections.
+2008 Potential-driven load distribution for distributed data stream processing.
+2017 On the Performance of Analytical and Pattern Matching Graph Queries in Neo4j and a Relational Database.
+2013 A theoretical model for obfuscating web navigation trails.
+2014 Processing Regular Path Queries on Giraph.
+2015 Learning Path Queries on Graph Databases.
+2004 Processing Unions of Conjunctive Queries with Negation under Limited Access Patterns.
+2014 Exploiting the query structure for efficient join ordering in SPARQL queries.
+2017 Powering Archive Store Query Processing via Join Indices.
+2002 Situation Aware Mobile Access to Digital Libraries.
+1988 PRISMA Database Machine: A Distributed, Main-Memory Approach.
+2013 Anonymizing sequential releases under arbitrary updates.
+2009 Type-based categorization of relational attributes.
+1988 A Comparison of Concatenated and Superimposed Code Word Surrogate Files for Very Large Data/Knowledge Bases.
+2016 Scaling Entity Resolution to Large, Heterogeneous Data with Enhanced Meta-blocking.
+2011 Real-time approximate Range Motif discovery & data redundancy removal algorithm.
+2016 Efficient Record Linkage Using a Compact Hamming Space.
+2012 Access control in social networks: a reachability-based approach.
+2014 The DisC Diversity Model.
+2004 Hierarchical In-Network Data Aggregation with Quality Guarantees.
+2009 RankClus: integrating clustering with ranking for heterogeneous information network analysis.
+2006 Data Mapping as Search.
+2014 gst-Store: An Engine for Large RDF Graph Integrating Spatiotemporal Information.
+1996 How to Tackle Schema Validation by View Updating.
+2004 CAT: orrect nswers of Continuous Queries Using riggers.
+1996 Database Support for Efficiently Maintaining Derived Data.
+2011 A probabilistic look ahead of anonymization: keynote talk.
+1996 Declustering Spatial Databases on a Multi-Computer Architecture.
+2009 Approximate substring selectivity estimation.
+2013 Updating outsourced anatomized private databases.
+2015 Bounds for Overlapping Interval Join on MapReduce.
+2011 Algebraic incremental maintenance of XML views.
+2014 Exploratory Search in Databases and the Web.
+2012 Top-k spatial keyword queries on road networks.
+1998 Modelling Large Scale OLAP Scenarios.
+2008 Protecting privacy in recorded conversations.
+2012 SPARQL-RW: transparent query access over mapped RDF data sources.
+2017 Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance.
+2002 On Efficient Matching of Streaming XML Documents and Queries.
+2000 Efficient Processing of the Cube Operator.
+2002 Schema-Driven Evaluation of Approximate Tree-Pattern Queries.
+1996 Data Integration using Self-Maintainable Views.
+2000 Cost-Based Object Query Optimization.
+1996 Object Framework for Business Applications.
+1988 Optimization in a Logic Based Language for Knowledge and Data Intensive Applications.
+1994 On the Semantics of (Bi)Temporal Variable Databases.
+2004 An Implementation of P3P Using Database Technology.
+2008 Zerber: r-confidential indexing for distributed documents.
+2013 Data exchange with arithmetic operations.
+2013 YmalDB: a result-driven recommendation system for databases.
+2008 Efficient LCA based keyword search in XML data.
+2015 Implementing Flexible Operators for Regular Path Queries.
+2009 CourseCloud: summarizing and refining keyword searches over structured data.
+2008 EDBT'08 Workshop on Software Engineering for Tailor-made Data Management , Proceedings, Nantes, France, March 29, 2008
+2015 Gumbo: Guarded Fragment Queries over Big Data.
+2016 MELOGRAPH: Multi-Engine WorkfLOw Graph Processing.
+2016 Polystore Query Rewriting: The Challenges of Variety.
+2016 Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art.
+2017 Towards Interactive Debugging of Rule-based Entity Matching.
+2011 TPM: supporting pattern matching queries for road-network trajectory data.
+2009 GCIP: exploiting the generation and optimization of integration processes.
+2013 HyperLogLog in practice: algorithmic engineering of a state of the art cardinality estimation algorithm.
+2000 Hierarchical Declustering Schemes for Range Queries.
+2016 Exploring Text Classification for Messy Data: An Industry Use Case for Domain-Specific Analytics.
+2015 Efficient caching for constrained skyline queries.
+2006 TrajPattern: Mining Sequential Patterns from Imprecise Trajectories of Mobile Objects.
+2008 Robustness in automatic physical database design.
+2012 Transactional stream processing.
+2006 Fast Query Point Movement Techniques with Relevance Feedback for Content-Based Image Retrieval.
+2014 READ: Rapid data Exploration, Analysis and Discovery.
+2017 Message from the EDBT Workshops Chairs.
+2004 AFFIC: A Foundation for Index Comparisons.
+2006 Holistic Schema Matching for Web Query Interfaces.
+2008 Action synchronization in P2P system testing.
+2015 Jedi: A Storage Manager for SIMD-aware, Worst-case Optimal Join Processing.
+2008 Index tuning for parameterized streaming groupby queries.
+1990 Modeling Physical Systems by Complex Structural Objects and Complex Functional Objects.
+2013 From stars to galaxies: skyline queries on aggregate data.
+2002 Tree Pattern Relaxation.
+2017 Hybrid LSH: Faster Near Neighbors Reporting in High-dimensional Space.
+2000 High Dimensional Clustering on Large Data Sets.
+1988 A Foundation for Evolution from Relational to Object Databases.
+2004 XPath with Conditional Axis Relations.
+2013 Performance of graph query languages: comparison of cypher, gremlin and native access in Neo4j.
+2006 Database Architecture Fertilizers: Just-in-Time, Just-Enough, and Autonomous Growth.
+2011 Link-based hidden attribute discovery for objects on Web.
+2000 On Bounding-Schemas for LDAP Directories.
+2015 Index Design for Enforcing Partial Referential Integrity Efficiently.
+2016 Towards Privacy-preserving Mobile Location Analytics.
+2002 Indexing Values in Continuous Field Databases.
+2006 IQN Routing: Integrating Quality and Novelty in P2P Querying and Ranking.
+2008 A stratified approach to progressive approximate joins.
+2014 Toward Hardware-Sensitive Database Operations.
+2017 MAIME: A Maintenance Manager for ETL Processes.
+2010 Warm cache costing: a feedback optimization technique for buffer pool aware costing.
+2002 Navigating Virtual Information Sources with Know-ME.
+2002 Coupling of FDBS and WfMS for Integrating Database and Application Systems: Architecture, Complexity, Performance.
+2014 Scalable Numerical SPARQL Queries over Relational Databases.
+2009 Efficient maintenance techniques for views over active documents.
+2017 Efficient spatio-temporal event processing with STARK.
+2011 Rational enforcement of digital oblivion.
+2016 PROX: Approximated Summarization of Data Provenance.
+2009 Fair, effective, efficient and differentiated scheduling in an enterprise data warehouse.
+2000 Adding Constraints to Logic-Based Workflow to Obtain Optimized Schedules.
+2013 CloudOptimizer: multi-tenancy for I/O-bound OLAP workloads.
+2013 Visualizing complex energy planning objects with inherent flexibilities.
+2000 The Construction and Maintenance of Materialised Object-Oriented Views in Data Warehousing Systems.
+2016 Parallel Duplicate Detection in Adverse Drug Reaction Databases with Spark.
+2017 Break the Windows: Explicit State Management for Stream Processing Systems.
+2011 True language-level SQL debugging.
+2009 Expressive, yet tractable XML keys.
+2012 SIMP: accurate and efficient near neighbor search in high dimensional spaces.
+2008 Virtualization and databases: state of the art and research challenges.
+2004 XQzip: Querying Compressed XML Using Structural Indexing.
+2016 Finding All Maximal Cliques in Very Large Social Networks.
+2008 The SBC-tree: an index for run-length compressed sequences.
+2006 FlexInd: A Flexible and Parameterizable Air-Indexing Scheme for Data Broadcast Systems.
+2000 Performance and Availability Assessment for the Configuration of Distributed Workflow Management Systems.
+2016 OSNI: Searching for Needles in a Haystack of Social Network Data.
+1988 Multilevel Trie Hashing.
+2014 Spans of lenses.
+2008 Providing freshness guarantees for outsourced databases.
+2012 On optimizing relational self-joins.
+2016 Privacy Protection through Query Rewriting in Smart Environments.
+2000 A Data Model for Semistructured Data with Partial and Inconsistent Information.
+2016 Extending Database Accelerators for Data Transformations and Predictive Analytics.
+2008 Data utility and privacy protection trade-off in k-anonymisation.
+2010 BSkyTree: scalable skyline computation using a balanced pivot selection.
+2011 Database researchers: plumbers or thinkers?
+2015 Finding the Most Diverse Products using Preference Queries.
+2010 An experimental study of time-constrained aggregate queries.
+1996 LH*LH: A scalable High Performance Data Structure for Switched Multicomputers.
+1994 On Behavioral Schema Evolution in Object-Oriented Databases.
+2016 Contextual Event Search: Finding Contextual Messages in Dynamic microblog Data Stream in Real Time.
+2016 Answering Keyword Queries involving Aggregates and GROUPBY on Relational Databases.
+2016 Operator and Workflow Optimization for High-Performance Analytics.
+2014 Towards a Repository of Bx Examples.
+2014 COLARM: Cost-based Optimization for Localized Association Rule Mining.
+2008 Mining all frequent projection-selection queries from a relational table.
+2009 Anonymizing moving objects: how to hide a MOB in a crowd?
+1996 The Need for an Object Relational Model and its Use.
+2009 An approach to detecting relevant updates to cached data using XML and active databases.
+2017 A Pareto-Dominant Clustering Approach for Pareto-Frontiers.
+2011 Subspace clustering for indexing high dimensional data: a main memory index based on local reductions and individual multi-representations.
+2015 Beta-Algebra: Towards a Relational Algebra for Graph Analysis.
+1996 Mining Sequential Patterns: Generalizations and Performance Improvements.
+2012 A quality aware service-oriented web warehouse platform.
+2015 Probabilistic Resource Route Queries with Reappearance.
+1992 Towards a Logical-Object Oriented Programming Language for Databases.
+1996 Object Query Services for Telecommunication Networks.
+1992 The Events Method for View Updating in Deductive Databases.
+2012 Efficient parallel kNN joins for large data in MapReduce.
+2011 Efficient and scalable data evolution with column oriented databases.
+2008 BeMatch: a platform for matchmaking service behavior models.
+1996 Adaptive Parallel Query Execution in DBS3.
+2008 Finding time-dependent shortest paths over large graphs.
+2017 Building Multi-Resolution Event-Enriched Maps From Social Data.
+2012 An evolutionary optimization approach for categorical data protection.
+2016 A Comprehensive Sanitization Approach for Workflow Provenance Graphs.
+2015 Local vs. Global Optimization: Operator Placement Strategies in Heterogeneous Environments.
+2014 A Map-Reduce algorithm for querying linked data based on query decomposition into stars.
+2006 Efficient Quantile Retrieval on Multi-dimensional Data.
+2008 A Bayesian approach for on-line max and min auditing.
+2015 Reconstruction Privacy: Enabling Statistical Learning.
+2002 Building Dynamic Market Places Using HyperQueries.
+2012 "Cut me some slack": latency-aware live migration for databases.
+2014 Fast Reliability Search in Uncertain Graphs.
+2004 Hippo: A System for Computing Consistent Answers to a Class of SQL Queries.
+2012 Searching by corpus with fingerprints.
+2008 Micro-aggregation-based heuristics for p-sensitive k-anonymity: one step beyond.
+2015 WAVEGUIDE: Evaluating SPARQL Property Path Queries.
+2011 Integrating web feed opinions into a corporate data warehouse.
+2002 Classification and Querying of XML Documents.
+2013 EXLEngine: executable schema mappings for statistical data processing.
+2006 Querying and Updating Probabilistic Information in XML.
+2004 Using Convolution to Mine Obscure Periodic Patterns in One Pass.
+2012 Towards scalable data integration under constraints.
+1988 The Algres Project.
+2014 Demonstrating Self-Learning Algorithm Adaptivity in a Hardware-Oblivious Database Engine.
+1998 Multivariate and Multidimensional OLAP.
+2009 Transactions on the multiversion B<sup>+</sup>-tree.
+2006 DPTree: A Distributed Pattern Tree Index for Partial-Match Queries in Peer-to-Peer Networks.
+1998 Maintaining Temporal Views over Non-Temporal Information Sources for Data Warehousing.
+2015 TripleGeo-CSW: A Middleware for Exposing Geospatial Catalogue Services on the Semantic Web.
+2013 Query-aware compression of join results.
+2017 Maritime data integration and analysis: recent progress and research challenges.
+2016 SOFYA: Semantic on-the-fly Relation Alignment.
+2006 Caching Complementary Space for Location-Based Services.
+2010 Minimizing database repros using language grammars.
+2014 Scheduling MapReduce Jobs on Unrelated Processors.
+2012 Transitive closure and recursive Datalog implemented on clusters.
+2016 Query Performance Problem Determination with Knowledge Base in Semantic Web System OptImatch.
+2011 Finding closed frequent item sets by intersecting transactions.
+2016 Virtual Documents and Answer Priors in Keyword Search over Data Graphs.
+2000 Spatial Distributions Server Based on Linear Quadtree.
+2015 POIESIS: a Tool for Quality-aware ETL Process Redesign.
+2014 Efficient Skyline Computation in MapReduce.
+2013 Eagle-eyed elephant: split-oriented indexing in Hadoop.
+2016 Efficient Incremental Smart Grid Data Analytics.
+2015 Proceedings of the Workshops of the EDBT/ICDT 2015 Joint Conference (EDBT/ICDT), Brussels, Belgium, March 27th, 2015.
+2014 Graph Analytics on Massive Collections of Small Graphs.
+1996 A Formal Temporal Object-Oriented Data Model.
+2017 Detecting Fraudulent Advertisements on a Large E-Commerce Platform.
+2014 Spatial Partitioning of Large Urban Road Networks.
+2006 Deferred Maintenance of Disk-Based Random Samples.
+2014 Skyline Ranking à la IR.
+2017 Crowdsourcing Strategies for Text Creation Tasks.
+2013 ProQua: a system for evaluating logic-based scoring functions on uncertain relational data.
+2009 Unrestricted wavelet synopses under maximum error bound.
+2011 Linked data, an opportunity to mitigate complexity pharmaceutical research and development.
+2014 SIAS-V in Action: Snapshot Isolation Append Storage - Vectors on Flash.
+2015 Challenges from Industrial Data Analytics.
+2004 On Containment of Conjunctive Queries with Arithmetic Comparisons.
+2012 Limiting link disclosure in social network analysis through subgraph-wise perturbation.
+2004 Distributed Query Optimization by Query Trading.
+2013 A safe zone based approach for monitoring moving skyline queries.
+2013 Trying to outperform a well-known index with a sequential scan.
+1988 Filter-Based Join Algorithms on Uniprocessor and Distributed-Memory Multiprocessor Database Machines.
+2004 Non-contiguous Sequence Pattern Queries.
+2010 Rewrite techniques for performance optimization of schema matching processes.
+2008 An approach to QoS aware resource scheduling in data stream systems.
+2010 Bridging the gap between intensional and extensional query evaluation in probabilistic databases.
+2013 Efficient top-k query answering using cached views.
+2014 Talking to the Database in a Semantically Rich Way.
+2014 Adaptive String Dictionary Compression in In-Memory Column-Store Database Systems.
+2012 Efficient and secure ranked multi-keyword search on encrypted cloud data.
+2014 Optimization Techniques for "Scaling Down" Hadoop on Multi-Core, Shared-Memory Systems.
+2013 Accelerating spatial range queries.
+2009 Rule-based multi-query optimization.
+2016 PAW: A Platform for Analytics Workflows.
+1998 Integration of Incremental View Maintenance into Query Optimizers.
+2015 Explanations for Skyline Query Results.
+2017 A Role for Chordless Cycles in the Representation and Retrieval of Information.
+2013 Hive open research network platform.
+1988 An Overview of the Distributed Query System DQS.
+2002 Spatio-temporal Information Systems in a Statistical Context.
+2009 EDBT 2009, 12th International Conference on Extending Database Technology, Saint Petersburg, Russia, March 24-26, 2009, Proceedings
+2013 Assessing linkset quality for complementing third-party datasets.
+2006 VICO: Visualizing Connected Object Orderings.
+2016 Towards an Efficient Ranking of Interval-Based Patterns.
+2010 HARRA: fast iterative hashed record linkage for large-scale data collections.
+2010 A simple (yet powerful) algebra for pervasive environments.
+2010 PerK: personalized keyword search in relational databases through preferences.
+2002 Content Schema Evolution in the CoreMedia<sup>®</sup>; Content Application Platform CAP.
+2006 Similarity Search on Time Series Based on Threshold Queries.
+2006 Querying Mediated Geographic Data Sources.
+2016 Nearest Window Cluster Queries.
+2009 Reverse k-nearest neighbor search in dynamic and general metric databases.
+2004 Spatial Queries in the Presence of Obstacles.
+2002 ProPolyne: A Fast Wavelet-Based Algorithm for Progressive Evaluation of Polynomial Range-Sum Queries.
+1988 Distributed Database Applications - Introduction by the Session Chairman.
+2008 An access control mechanism for P2P collaborations.
+2017 Data Exploration with SQL using Machine Learning Techniques.
+2016 Template-based Time Series Generation with Loom.
+1990 Set Operations in a Data Model Supporting Complex Objects.
+2012 Finding top-k similar graphs in graph databases.
+2014 Determining Essential Statistics for Cost Based Optimization of an ETL Workflow.
+2008 MC<sup>SE</sup>: a multimedia context-based security engine.
+2009 Zerber<sup>+R</sup>: top-k retrieval from a confidential index.
+2009 Data clouds: summarizing keyword search results over structured data.
+2009 It takes variety to make a world: diversification in recommender systems.
+2017 Improving Company Recognition from Unstructured Text by using Dictionaries.
+2011 Answering tree pattern queries using views: a revisit.
+1998 A Scheme to Specify and Implement Ad-Hoc Recovery in Workflow Systems.
+2013 Efficient breadth-first search on large graphs with skewed degree distributions.
+2017 Temporal group linkage and evolution analysis for census data.
+2015 Opening up Government Data while Maintaining Data Privacy.
+2015 Flexible Analysis of Plant Genomes in a Database Management System.
+2016 Temporal Social Network: Storage, Indexing and Query Processing.
+2012 Privacy preserving distributed DBSCAN clustering.
+2013 Efficient tree pattern queries on encrypted XML documents.
+2008 Proceedings of the 2008 International Workshop on Data Management in Peer-to-Peer Systems, DaMaP 2008, Nantes, France, March 25, 2008
+2008 Optimizing away joins on data streams.
+2013 Discovery querying in linked open data.
+2011 SciQL, a query language for science applications.
+2010 Correlation aware synchronization for near real time decision support systems.
+2011 Proceedings of the 2011 International Workshop on Privacy and Anonymity in Information Society, PAIS 2011, Uppsala, Sweden, March 2011
+2008 BIBEX: a bibliographic exploration tool based on the DEX graph query engine.
+2008 ACCOn: checking consistency of XML write-access control policies.
+2016 Efficient regular path query evaluation using path indexes.
+1990 Panel: "Why are object-oriented folks producing systems, while deductive foks are producing papers?".
+2000 A Graph-Oriented Model for Articulation of Ontology Interdependencies.
+2016 Proceedings of the Workshops of the EDBT/ICDT 2016 Joint Conference, EDBT/ICDT Workshops 2016, Bordeaux, France, March 15, 2016.
+2015 Private Computation of the Longest Increasing Subsequence in Data Streams.
+2008 HISSCLU: a hierarchical density-based method for semi-supervised clustering.
+2000 Intelligent Wrapping of Information Sources in an Electronic Commerce Environment.
+2014 On the design space of MapReduce ROLLUP aggregates.
+2008 Prefilter: predicate pushdown at streaming speeds.
+2015 Event Recognition for Maritime Surveillance.
+2010 Fast computation of SimRank for static and dynamic information networks.
+2014 KIEV: a Tool for Extracting Semantic Relations from the World Wide Web.
+2014 Corroborating Facts from Affirmative Statements.
+2017 STREAMLINE - Streamlined Analysis of Data at Rest and Data in Motion.
+2006 Integrating a Maximum-Entropy Cardinality Estimator into DB2 UDB.
+2016 DIONYSUS: Towards Query-aware Distributed Processing of RDF Graph Streams.
+2009 Estimating aggregates in time-constrained approximate queries in Oracle.
+1994 A Model-Theoretic Semantics of the Multilevel Relational Model.
+2014 Hippalus: Preference-enriched Faceted Exploration.
+2000 Indexing Techniques for Continuously Evolving Phenomena.
+2015 Query-Based Outlier Detection in Heterogeneous Information Networks.
+2012 Efficient approximation of the maximal preference scores by lightweight cubic views.
+1996 Scalable Update Propagation in Epidemic Replicated Databases.
+2011 Capturing data quality requirements for web applications by means of DQ_WebRE.
+2016 Slowing the Firehose: Multi-Dimensional Diversity on Social Post Streams.
+2000 Securing XML Documents.
+1996 Optimizing Queries with Aggregate Views.
+2004 Energy-Conserving Air Indexes for Nearest Neighbor Search.
+2017 Consensus-Based Techniques for Range-Task Resolution in Crowdsourcing Systems.
+1996 VALIDITY: Applications of a DOOD System.
+2015 Transactional Replication in Hybrid Data Store Architectures.
+2014 Tutorial: Managing Personal Data with Strong Privacy Guarantees.
+2016 DBExplorer: Exploratory Search in Databases.
+2015 Elevating Annotation Summaries To First-Class Citizens In InsightNotes.
+2010 Efficient and scalable multi-geography route planning.
+1998 Improving the Query Performance of High-Dimensional Index Structures by Bulk-Load Operations.
+2012 See what's enBlogue: real-time emergent topic identification in social media.
+2009 Top-k dominating queries in uncertain databases.
+2013 High-performance complex event processing using continuous sliding views.
+2017 eSPAK: Top-K Spatial Keyword Query Processing in Directed Road Networks.
+2009 Efficiently indexing shortest paths by exploiting symmetry in graphs.
+2009 Caching content-based queries for robust and efficient image retrieval.
+2006 Model-Independent Schema and Data Translation.
+2013 Optimizing query rewriting in ontology-based data access.
+2004 Sketch-Based Multi-query Processing over Data Streams.
+2017 The Effect of Weather on User-Generated Big Geo Data in Mobile Phone Networks.
+2016 Self-Curating Databases.
+2013 In the Mood4: recommendation by examples.
+2014 Privacy Preserving Estimation of Social Influence.
+2000 Mining Numerical Databases with Generalized Quantitative Association Rules.
+2014 Overcoming Semantic Drift in Information Extraction.
+1988 A Multidatabase System for Transnational Accounting.
+2009 Neighbor-based pattern detection for windows over streaming data.
+2008 Generating Highly Customizable SQL Parsers.
+2011 Fast random graph generation.
+2013 An automatic physical design tool for clustered column-stores.
+1994 Optimization of Nested Queries in a Complex Object Model.
+2002 An Adaptable Infrastructure for Customized Persistent.
+2017 Finding Socio-Textual Associations Among Locations.
+2010 Querying spatial patterns.
+2006 Data Management in the Social Web.
+1994 On the Estimation of Join Result Sizes.
+2009 A runtime approach to model-independent schema and data translation.
+2014 Business-Intelligence Queries with Order Dependencies in DB2.
+2015 Transparency and Disclosure Risk in Data Privacy.
+2016 Quantifying Likelihood of Change through Update Propagation across Top-k Rankings.
+2015 SAP HANA - From Relational OLAP Database to Big Data Infrastructure.
+2008 SeMap: a generic mapping construction system.
+2000 Dynamically Optimizing High-Dimensional Index Structures.
+2014 Differentially Private Synthesization of Multi-Dimensional Data using Copula Functions.
+2014 Event Identification and Tracking in Social Media Streaming Data.
+2013 Utility-driven data acquisition in participatory sensing.
+1990 A Lock Technique for Disjoint and Non-Disjoint Complex Objects.
+2012 Distance histogram computation based on spatiotemporal uniformity in scientific data.
+2016 Model Kit for Lightweight Data Compression Algorithms.
+2009 AlphaSum: size-constrained table summarization using value lattices.
+2013 Biometric access control for e-health records in pre-hospital care.
+2008 Ring-constrained join: deriving fair middleman locations from pointsets via a geometric constraint.
+2016 DeMand: A Tool for Evaluating and Comparing Device-Level Demand and Supply Forecast Models.
+2013 Proactive natural language search engine: tapping into structured data on the web.
+2000 A Systematic Approach for Informal Communication During Workflow Execution.
+2010 Fine-grained and efficient lineage querying of collection-based workflow provenance.
+2013 iPark: identifying parking spaces from trajectories.
+2000 The Design of Decision Support Systems for Effective Use of Spatio-Temporal Data.
+1998 Referential Actions: From Logical Semantics to Implementation.
+2015 Scaling Unbound-Property Queries on Big RDF Data Warehouses using MapReduce.
+1990 Representation of the Historical Information Necessary for Temporal Integrity Monitoring.
+2011 Making interval-based clustering rank-aware.
+2013 Cache-aware parallel approximate matching and join algorithms using BWT.
+1998 Advances in Database Technology - EDBT'98, 6th International Conference on Extending Database Technology, Valencia, Spain, March 23-27, 1998, Proceedings
+1988 The Twin Grid File: A Nearly Space Optimal Index Structure.
+2017 COP: Planning Conflicts for Faster Parallel Transactional Machine Learning.
+1994 Composite-Object Views in Relational DBMS: An Implementation Perspective.
+2000 Quality-driven Query Planning.
+2010 Techniques for efficiently querying scientific workflow provenance graphs.
+2009 Scalable stream join processing with expensive predicates: workload distribution and adaptation by time-slicing.
+2017 Towards sequenced semantics for evolving graphs.
+2014 Cleaning trajectory data of RFID-monitored objects through conditioning under integrity constraints.
+2016 Understanding Customer Attrition at an Individual Level: a New Model in Grocery Retail Context.
+2004 Efficient Query Evaluation over Compressed XML Data.
+2012 A semantic approach to life cycle assessment applied on energy environmental impact data management.
+1988 Optimal Plan Search in a Rule-Based Query Optimizer.
+2016 Finding and Fixing Type Mismatches in the Evolution of Object-NoSQL Mappings.
+2011 Capturing P3P semantics using an enforceable lattice-based structure.
+2016 Big Data Provenance: State-Of-The-Art Analysis and Emerging Research Challenges.
+2012 Relevance search in heterogeneous networks.
+2006 From Analysis to Interactive Exploration: Building Visual Hierarchies from OLAP Cubes.
+2004 Query-Customized Rewriting and Deployment of DB-to-XML Mappings.
+2009 Towards materialized view selection for distributed databases.
+2006 On Fast Non-metric Similarity Search by Metric Access Methods.
+2011 Access control to materialized views: an inference-based approach.
+2016 Efficient Implementation of Joins over Cassandra DBs.
+2009 Flexible and scalable storage management for data-intensive stream processing.
+2011 QueryViz: helping users understand SQL queries and their patterns.
+2002 Optimizing Scientific Databases for Client Side Data Processing.
+2010 Xbase: cloud-enabled information appliance for healthcare.
+2011 Map-reduce extensions and recursive queries.
+2013 A declarative approach to customize workflow provenance.
+1996 First-Order Queries over Temporal Databases Inexpressible in Temporal Logic.
+2012 ColisTrack: testbed for a pervasive environment management system.
+2013 Elastic online analytical processing on RAMCloud.
+1996 Composite Events in Chimera.
+2009 Efficient skyline computation in metric space.
+2008 Biocomputational puzzles: data, algorithms, and visualization.
+2000 Aggregate Aware Caching for Multi-Dimensional Queries.
+1992 Sampling Issues in Parallel Database Systems.
+1992 A Knowledge-Based Approach to Statistical Query Processing.
+2012 Integrated privacy modeling and validation for business process models.
+2004 A Framework for Access Methods for Versioned Data.
+2004 Iterative Incremental Clustering of Time Series.
+2006 The SIRUP Ontology Query API in Action.
+2004 Self-tuning UDF Cost Modeling Using the Memory-Limited Quadtree.
+2006 Charting a Dataspace: Lessons from Lewis and Clark.
+2013 Rapid experimentation for testing and tuning a production database deployment.
+1992 Understanding Object-Oriented Database Systems.
+2011 I am complex: cluster me, don't just rank me.
+2008 Schema merging and mapping creation for relational sources.
+2016 Indexing and Querying A Large Database of Typed Intervals.
+2006 TeNDaX, a Collaborative Database-Based Real-Time Editor System.
+2009 A methodology for preference-based personalization of contextual data.
+2004 XQBE: A Graphical Interface for XQuery Engines.
+2015 Hybrid Multidimensional Design for Heterogeneous Data Supported by Ontological Analysis: an Application Case in the Brazilian Electric System Operation.
+2011 A flexible graph-based approach for matching composite semantic web services.
+2017 Towards Efficient Maintenance of Continuous MaxRS Query for Trajectories.
+2008 Location privacy via unlinkability: an alternative to cloaking and perturbation.
+2011 SocialSearch: enhancing entity search with social network matching.
+2016 A Distributed Mining Framework for Influence in Evolving Entities.
+2012 Product characteristic weighting for designer from online reviews: an ordinal classification approach.
+2011 RanKloud: a scalable ranked query processing framework on hadoop.
+2011 Road crash proneness prediction using data mining.
+2013 ProRea: live database migration for multi-tenant RDBMS with snapshot isolation.
+1996 LabFlow-1: A Database Benchmark for High-Throughput Workflow Management.
+2006 The Design and Architecture of the <i>tau</i>-Synopses System.
+2015 Efficient evaluation of threshold queries of derived fields in a numerical simulation database.
+2011 A probabilistic XML merging tool.
+2017 In Search for Relevant, Diverse and Crowd-screen Points of Interests.
+1996 Amalgamating SGML Documents and Databases.
+2017 HDM: Optimized Big Data Processing with Data Provenance.
+2012 Intention insider: discovering people's intentions in the social channel.
+2013 Sparkler: supporting large-scale matrix factorization.
+2008 Decentralized managing of replication objects in massively distributed systems.
+2006 BISON: Providing Business Information Analysis as a Service.
+2017 MovieFinder: A Movie Search System via Graph Pattern Matching.
+2013 Towards context-aware search and analysis on social media data.
+2016 Cluster-based Contextual Recommendations.
+1990 A Localized Approach to Distributed Query Processing.
+1992 Implementation of Delayed Updates in Heraclitus.
+2013 Database support for processing complex aggregate queries over data streams.
+2009 Workload-aware data partitioning in community-driven data grids.
+2000 Managing Aging Data in Temporal Databases and Data Warehouses.
+2002 Compact Data Structures for Querying XML.
+2016 Workload-aware Streaming Graph Partitioning.
+1988 TAILOR, A Tool for Updating Views.
+2013 Community evolution detection in time-evolving information networks.
+2010 Region-based online promotion analysis.
+2002 Incremental Maintenance of Schema-Restructuring Views.
+2016 Type-aware Web-search.
+2002 DAML+OIL: A Reason-able Web Ontology Language.
+1992 Generalized Bottom-Up Query Evaluation.
+2015 Data Ingestion in AsterixDB.
+2016 Understanding Ontology Evolution Beyond Deltas.
+2013 Compromising privacy in precise query protocols.
+2009 Hiding distinguished ones into crowd: privacy-preserving publishing data with outliers.
+2009 Xoom: a tool for zooming in and out of XML documents.
+2016 Monitoring MaxRS in Spatial Data Streams.
+1992 Query by Visual Example - Content based Image Retrieval.
+2012 Knowing: a generic data analysis application.
+2008 Optimizing on-demand data broadcast scheduling in pervasive environments.
+1992 Optimizing Object-Oriented Datbase Queries using Cost-Controlled Rewriting.
+1994 Virtual Schemas and Bases.
+2009 Secondary bitmap indexes with vertical and horizontal partitioning.
+2014 Mobile Sensing Data for Urban Mobility Analysis: A Case Study in Preprocessing.
+2013 Towards query model integration: topology-aware, IR-inspired metrics for declarative graph querying.
+2006 Query Planning in the Presence of Overlapping Sources.
+2013 Skyline queries in crowd-enabled databases.
+2014 Predictive Trip Planning - Smart Routing in Smart Cities.
+2008 Fast contextual preference scoring of database tuples.
+2015 Procrastination Beats Prevention: Timely Sufficient Persistence for Efficient Crash Resilience.
+2004 Meta-SQL: Towards Practical Meta-Querying.
+2004 Joining Punctuated Streams.
+2016 Discovering Correlations in Annotated Databases.
+2010 Keyword search for data-centric XML collections with long text fields.
+2000 Persistent Client-Server Database Sessions.
+2016 Answering Controlled Natural Language Questions on RDF Knowledge Bases.
+2013 A workflow PROV-corpus based on taverna and wings.
+1988 A Model of Authorization for Object-Oriented and Semantic Databases.
+2009 Evaluating probability threshold k-nearest-neighbor queries over uncertain data.
+2013 Compressed feature-based filtering and verification approach for subgraph search.
+2010 BronzeGate: real-time transactional data obfuscation for GoldenGate.
+2014 Mining of Diverse Social Entities from Linked Data.
+2014 Metric-Based Top-k Dominating Queries.
+2012 15th International Conference on Extending Database Technology, EDBT '12, Berlin, Germany, March 27-30, 2012, Proceedings
+1996 Semantic Workflow Interoperability.
+2002 Rewriting Unions of General Conjunctive Queries Using Views.
+2010 <i>BIAEditor</i>: matching process and operational data for a business impact analysis.
+2014 Proceedings of the Workshops of the EDBT/ICDT 2014 Joint Conference (EDBT/ICDT 2014), Athens, Greece, March 28, 2014.
+2011 Self-supervised web search for any-k complete tuples.
+2011 On enhancing scalability for distributed RDF/S stores.
+1988 Process Management and Assertion Enforcement for a Semantic Data Model.
+2015 Extracting Aggregate Answer Statistics for Integration.
+2015 Hermes: Dynamic Partitioning for Distributed Social Network Graph Databases.
+2008 A novel spectral coding in a large graph database.
+2015 Assignment of Different-Sized Inputs in MapReduce.
+2006 Evolving Triggers for Dynamic Environments.
+2014 What Can Programming Languages Say About Data Exchange?
+2013 Supporting range queries in XML keyword search.
+2014 Multi-Engine Search and Language Translation.
+2017 Lightweight Data Compression Algorithms: An Experimental Survey (Experiments and Analyses).
+2015 Frequent Subgraph Mining from Streams of Linked Graph Structured Data.
+2014 A Generic Ontology for Prosumer-Oriented Smart Grid.
+2009 Automating the loading of business process data warehouses.
+2017 Ensuring Consistency in Graph Cache for Graph-Pattern Queries.
+2008 Processing transitive nearest-neighbor queries in multi-channel access environments.
+1992 Dynamic and Load-balanced Task-Oriented Datbase Query Processing in Parallel Systems.
+2009 Distributed similarity search in high dimensions using locality sensitive hashing.
+2014 Distance oracles in edge-labeled graphs.
+2008 Online recovery in cluster databases.
+2009 A novel approach for efficient supergraph query processing on graph databases.
+1996 Management of Multiple Models in an Extensible Database Design Tool.
+2017 Herding the elephants: Workload-level optimization strategies for Hadoop.
+2015 Enhancing Energy Awareness Through the Analysis of Thermal Energy Consumption.
+2006 Improving DB2 Performance Expert - A Generic Analysis Framework.
+2013 Efficient privacy-aware record integration.
+2006 Online, Non-blocking Relational Schema Changes.
+2016 Using Randomized Response for Differential Privacy Preserving Data Collection.
+2014 Community Detection in Anonymized Social Networks.
+2017 In-Memory Spatial Join: The Data Matters!
+2016 Revisiting DBMS Space Management for Native Flash.
+2012 Shortest-path queries for complex networks: exploiting low tree-width outside the core.
+2017 Group Trip Scheduling (GTS) Queries in Spatial Databases.
+1988 Support for Data- and Knowledge-Based Applications - Introduction by the Session Chairman.
+2017 SIMDMS: Data Management and Analysis to Support Decision Making through Large Simulation Ensembles.
+2016 Towards Publish/Subscribe Functionality on Graphs.
+2017 Grid-Index Algorithm for Reverse Rank Queries.
+2010 Reducing metadata complexity for faster table summarization.
+2008 Flexible Transaction Processing in the Argos Middleware.
+2002 Query Processing in Self-Profiling Composable Peer-to-Peer Mediator Databases.
+2006 Fast Approximate Wavelet Tracking on Streams.
+2009 MVT: a schema mapping validation tool.
+2011 Dynamic reasoning on XML updates.
+1988 MULTOS: a Document Server for Distributed Office Systems.
+2009 Flexible query answering on graph-modeled data.
+2013 Using provenance to analyse agent-based simulations.
+2009 High-performance information extraction with AliBaba.
+2014 Towards a Framework for Multidirectional Model Transformations.
+2006 Synopses Reconciliation Via Calibration in the <i>tau</i>-Synopses System.
+2014 Online Topic-aware Influence Maximization Queries.
+2014 Diff-Index: Differentiated Index in Distributed Log-Structured Data Stores.
+2008 Data services in your spreadsheet!
+2017 Distributed in-memory SPARQL Processing via DOF Analysis.
+2016 Characterizing Thermal Energy Consumption through Exploratory Data Mining Algorithms.
+2006 XQueryViz: An XQuery Visualization Tool.
+1992 CQL++: A SQL for the Ode Object-Oriented DBMS.
+2011 SeMiTri: a framework for semantic annotation of heterogeneous trajectories.
+2013 Data warehouse testing.
+2009 Sequenced spatio-temporal aggregation in road networks.
+1990 A Theory for Rule Triggering Systems.
+2016 Unlock the Stock: User Topic Modeling for Stock Market Analysis.
+2009 On-line exact shortest distance query processing.
+2016 Holistic Data Profiling: Simultaneous Discovery of Various Metadata.
+2017 Real Time Contextual Summarization of Highly Dynamic Data Streams.
+2010 PARINDA: an interactive physical designer for PostgreSQL.
+2014 Adapting Tree Structures for Processing with SIMD Instructions.
+2015 What You See Is What You Do: Applying Ecological Interface Design to Visual Analytics.
+2011 EDBT 2011, 14th International Conference on Extending Database Technology, Uppsala, Sweden, March 21-24, 2011, Proceedings
+2008 Fast computing reachability labelings for large graphs with high compression rate.
+2014 Exploring Big Data using Visual Analytics.
+2013 Schema mappings and data examples.
+2013 HIL: a high-level scripting language for entity integration.
+2006 Indexing Shared Content in Information Retrieval Systems.
+2012 A probabilistic convex hull query tool.
+2012 SOS (save our systems): a uniform programming interface for non-relational systems.
+2014 Estimating Completeness in Streaming Graphs.
+2011 Regression on evolving multi-relational data streams.
+2017 Come and crash our database! - Instant recovery in action.
+2016 Leveraging Reconfigurable Computing in Distributed Real-time Computation Systems.
+2004 Flexible Integration of Molecular-Biological Annotation Data: The GenMapper Approach.
+2014 Continuous Quantile Query Processing in Wireless Sensor Networks.
+1994 Deductive Database Support for Data Visualization.
+2014 Model Selection for Semi-Supervised Clustering.
+1998 Parallel Processing of Multiple Aggregate Queries on Shared-Nothing Multiprocessors.
+2010 Efficient computation of trade-off skylines.
+2016 Adaptive query parallelization in multi-core column stores.
+2013 MinExp-card: limiting data collection using a smart card.
+2016 Strudel: A Framework for Transaction Performance Analyses on SQL/NoSQL Systems.
+2013 Linked data classification: a feature-based approach.
+2004 A Framework for Efficient Storage Security in RDBMS.
+2017 Self-managed collections: Off-heap memory management for scalable query-dominated collections.
+2017 Reverse k-Ranks Queries on Large Graphs.
+2012 User oriented trajectory search for trip recommendation.
+1994 Power Efficient Filtering of Data an Air.
+2000 Athena: Mining-Based Interactive Management of Text Database.
+2010 Suffix tree construction algorithms on modern hardware.
+1988 An Intelligent Information Dictionary for Semantic Manipulation of Relational Databases.
+2009 Exploiting similarity-aware grouping in decision support systems.
+2002 TDB: A Database System for Digital Rights Management.
+2015 Demonstrating Transfer-Efficient Sample Maintenance on Graphics Cards.
+2008 Architectural Concerns for Flexible Data Management.
+2013 Scalable string similarity search/join with approximate seeds and multiple backtracking.
+1994 Content Routing for Distributed Information Servers.
+2011 TopRecs: Top-k algorithms for item-based collaborative filtering.
+1994 Representing and Using Performance Requirements During the Development of Information Systems.
+2006 TQuEST: Threshold Query Execution for Large Sets of Time Series.
+2008 Anonymity for continuous data publishing.
+1988 Optimizing Voting-Type Algorithms for Replicated Data.
+2014 Multi-Criteria Optimal Location Query with Overlapping Voronoi Diagrams.
+2002 Supporting Evolving Ontologies on the Internet.
+2014 Adaptive Fault-Tolerance for Dynamic Resource Provisioning in Distributed Stream Processing Systems.
+2017 Subgraph Querying with Parallel Use of Query Rewritings and Alternative Algorithms.
+2017 Context-Aware Proactive Personalization of Linear Audio Content.
+2014 TripleGeo: an ETL Tool for Transforming Geospatial Data into RDF Triples.
+2008 EDBT 2008, 11th International Conference on Extending Database Technology, Nantes, France, March 25-29, 2008, Proceedings
+2015 Online Data Partitioning in Distributed Database Systems.
+1998 Static Management of Integrity in Object-Oriented Databases: Design and Implementation.
+2012 Evaluating hybrid queries through service coordination in HYPATIA.
+2013 CISC: clustered image search by conceptualization.
+2009 An efficient online auditing approach to limit private data disclosure.
+2015 NoFTL for Real: Databases on Real Native Flash Storage.
+2013 Invisible loading: access-driven data transfer from raw files into database systems.
+2008 Efficient online top-K retrieval with arbitrary similarity measures.
+2017 Traffic Prediction using a Deep Learning Paradigm.
+1998 Dynamic and Structured Presentation of Database Contents on the Web.
+2009 A sequential indexing scheme for flash-based embedded systems.
+2017 Multi-workflow optimization in PAW.
+2015 QaRS: A User-Friendly Graphical Tool for Semantic Query Design and Relaxation.
+1988 Entity-Situation: A Model for the Knowledge Representation Module of a KBMS.
+2010 Querying the deep web.
+2000 A Database Perspective on Building Large Applications - Experience Report.
+1988 Data Base Programming Tools in the Atlant Language.
+2006 Multi-query SQL Progress Indicators.
+2011 Sequenced event set pattern matching.
+2008 Compacting music signatures for efficient music retrieval.
+2011 Proceedings of the 2011 EDBT/ICDT Workshop on Array Databases, Uppsala, Sweden, March 25, 2011
+2011 Efficient discovery of frequent subgraph patterns in uncertain graph databases.
+2016 Proposal of a Database Type and Aggregation Function for Accelerating Medical Genomics Study on RDBMS.
+2014 GraphMCS: Discover the Unknown in Large Data Graphs.
+2016 Empirical evaluation of guarded structural indexing.
+2017 A New Division Operator to Handle Complex Objects in Very Large Relational Datasets.
+2006 Approximation Techniques to Enable Dimensionality Reduction for Voronoi-Based Nearest Neighbor Search.
+2008 Automatic content targeting on mobile phones.
+2014 Learn2Learn: A Visual Educational System for Study Planning.
+2015 SpMacho - Optimizing Sparse Linear Algebra Expressions with Probabilistic Density Estimation.
+2017 Optimal Obstructed Sequenced Route Queries in Spatial Databases.
+2009 A view selection algorithm with performance guarantee.
+2016 tPredictor: A Micro-blog Based System for Teenagers' Stress Prediction.
+2014 Performance optimization for querying social network data.
+1996 An Assessment of Non-Standard DBMSs for CASE Environments.
+2013 Efficient and accurate strategies for differentially-private sliding window queries.
+2012 SFA: a symbolic fourier approximation and index for similarity search in high dimensional datasets.
+2016 Snapshot Isolation for Neo4j.
+2008 Engineering succinct DOM.
+2012 n-confusion: a generalization of k-anonymity.
+1994 The Implementation and Performance Evaluation of the ADMS Query Optimizer: Integrating Query Result Caching and Matching.
+2008 Ensuring correctness over untrusted private database.
+2012 Data management with SAPs in-memory computing engine.
+2014 Secure Multi-Party linear Regression.
+1990 A Pragmatic Approach for Integrating Data Management and Tasks Management: Modelling and Implementation Issues.
+1998 Equal Time for Data on the Internet with WebSemantics.
+2014 Multi-Query Diversification in Microblogging Posts.
+2006 A Framework for Distributed XML Data Management.
+2016 Designing Access Methods: The RUM Conjecture.
+2011 Native support of multi-tenancy in RDBMS for software as a service.
+2015 An Extensible Framework for Query Optimization on TripleT-based RDF Stores.
+2012 Business intelligence on complex graph data.
+2002 The ORDB-Based SFB-501-Reuse-Repository.
+2006 Digital Video: Just Another Data Stream?.
+1998 Design and Maintenance of Data-Intensive Web Sites.
+2014 Efficient Multi-User Indexing for Secure Keyword Search.
+2016 Optimizing B+-Tree for PCM-Based Hybrid Memory.
+2006 On Exploring the Power-Law Relationship in the Itemset Support Distribution.
+1996 Indexing Nucleotide Databases for Fast Query Evaluation.
+2014 Efficient Concept-based Document Ranking.
+1998 Towards Optimal Indexing for Segment Databases.
+2014 Redoop: Supporting Recurring Queries in Hadoop.
+2000 A Federated Multimedia Database System.
+2009 Personalizing entity detection and recommendation with a fusion of web log mining techniques.
+2011 A query optimization assistant for XPath.
+2012 Heuristics-based query optimisation for SPARQL.
+2011 Accelerating computationally intensive queries on massive earth science data: (system demonstration).
+2014 Similarity Recognition in the Web of Data.
+2014 Graph-Parallel Entity Resolution using LSH & IMM.
+2014 On Assigning Implicit Reputation Scores in an Online Labor Marketplace.
+2013 Real-time wildfire monitoring using scientific database and linked data technologies.
+2012 Analysis of social metrics in dynamic networks: measuring the influence with FRINGE.
+2008 Scalable XQuery type matching.
+2015 Privacy-Integrated Graph Clustering Through Differential Privacy.
+2017 Recurring Retrieval Needs in Diverse and Dynamic Dataspaces: Issues and Reference Framework.
+2014 Modular Data Clustering - Algorithm Design beyond MapReduce.
+2017 Convergent Interactive Inference with Leaky Joins.
+1998 A Conceptual Model and a Tool Environment for Developing More Scalable, Dynamic, and Customizable Web Applications.
+2011 Array requirements for scientific applications and an implementation for microsoft SQL server.
+2004 HEAVEN: A Hierarchical Storage and Archive Environment for Multidimensional Array Database Management Systems.
+2012 Finding maximal k-edge-connected subgraphs from a large graph.
+2011 A privacy preserving efficient protocol for semantic similarity join using long string attributes.
+1996 Fundamental Techniques for Order Optimization.
+2017 Authority-based Team Discovery in Social Networks.
+2002 Profile-Based Data Delivery for Web Applications.
+2014 Efficient and Flexible Index Access in MapReduce.
+2002 Efficient Complex Query Support for Multiversion XML Documents.
+2013 Provenance traces of the swift parallel scripting system.
+2002 Gene Expression Data Management: A Case Study.
+2017 Scouting Big Data Campaigns using TOREADOR Labs.
+2012 A desktop interface over distributed document repositories.
+2016 Access Pattern Confidentiality-Preserving Relational Databases: Deployment Concept and Efficiency Evaluation.
+2017 Privacy Preservation of Semantic Trajectory Databases using Query Auditing Techniques.
+2004 MobiEyes: Distributed Processing of Continuously Moving Queries on Moving Objects in a Mobile System.
+2015 Identifying User Interests within the Data Space - a Case Study with SkyServer.
+2004 T-Araneus: Management of Temporal Data-Intensive Web Sites.
+2017 DBaaS Cloud Capacity Planning - Accounting for Dynamic RDBMS System that Employ Clustering and Standby Architectures.
+2002 Efficient and Adaptive Processing of Multiple Continuous Queries.
+2011 Novel techniques to reduce search space in multiple minimum supports-based frequent pattern mining algorithms.
+2011 Service-oriented information extraction.
+1990 Existentially Quantified Typed as a Database Viewing Mechanism.
+2017 Multi-model Data Management: What's New and What's Next?
+2016 Road to Freedom in Big Data Analytics.
+2017 CAESAR: Context-Aware Event Stream Analytics for Urban Transportation Services.
+2016 Efficient Computation of Containment and Complementarity in RDF Data Cubes.
+2013 ProvenanceCurious: a tool to infer data provenance from scripts.
+2009 Estimating the number of frequent itemsets in a large database.
+2013 <i>FPI</i>: a novel indexing method using frequent patterns for approximate string searches.
+2015 ligDB - Online Query Processing Without (almost) any Storage.
+2017 μTOP: Spatio-Temporal Detection and Summarization of Locally Trending Topics in Microblog Posts.
+1994 Databases in Distributed Systems: The New Frontier (Extended Abstract).
+2013 Provenance traces from Chiron parallel workflow engine.
+2012 Differentially private search log sanitization with optimal output utility.
+2013 PrivComp: a privacy-aware data service composition system.
+2011 Privacy issues with sharing reputation across virtual communities.
+2017 An Effective and Efficient Truth Discovery Framework over Data Streams.
+1996 Translating OSQL-Queries into Efficient Set Expressions.
+1990 The Many Faces of Query Monotonicity.
+2017 Proceedings of the Workshops of the EDBT/ICDT 2017 Joint Conference (EDBT/ICDT 2017), Venice, Italy, March 21-24, 2017.
+2009 Scalable OLAP and mining of information networks.
+1994 Subsumption-Free Bottom-up Evaluation of Logic Programs with Partially Instantiated Data Structures.
+2006 <i>ArHeX</i>: An Approximate Retrieval System for Highly Heterogeneous XML Document Collections.
+1994 Matrix-Relation for Statistical Database Management.
+2006 Physical Design Refinement: The "Merge-Reduce" Approach.
+2016 Query Workload-based RDF Graph Fragmentation and Allocation.
+2015 A Selectivity based approach to Continuous Pattern Detection in Streaming Graphs.
+2017 Efficient Parallel Spatial Skyline Evaluation Using MapReduce.
+2009 Efficient skyline retrieval with arbitrary similarity measures.
+2006 Fast Computation of Reachability Labeling for Large Graphs.
+2014 Processing Interval Joins On Map-Reduce.
+2000 Evolution and Revolutions in LDAP Directory Caches.
+2013 A privacy framework: indistinguishable privacy.
+2012 Adaptive indexing in modern database kernels.
+2000 Discovering and Processing Sequential Patterns in Databases.
+2009 A sampling approach for XML query selectivity estimation.
+2013 Towards the automated extraction of flexibilities from electricity time series.
+2000 Relational Algebra for Spatio-Temporal Data Management.
+2014 Implementing a Bidirectional Model Transformation Language as an Internal DSL in Scala.
+2017 Graph Queries: Generation, Evaluation and Learning (Invited Talk).
+1994 Schemas for Telling Stories in Medical Records.
+2011 Designing integration flows using hypercubes.
+2013 Tuning in action.
+2010 Algorithm-safe privacy-preserving data publishing.
+2006 Authorization-Transparent Access Control for XML Under the Non-Truman Model.
+2000 Performance of DB2 Enterprise-Extended Edition on NT with Virtual Interface Architecture.
+2004 eVitae: An Event-Based Electronic Chronicle.
+2008 Synthesizing structured text from logical database subsets.
+2014 Benchmarking Bitemporal Database Systems: Ready for the Future or Stuck in the Past?
+2008 Quality of service and predictability in DBMS.
+2016 A Way to Automatically Enrich Biomedical Ontologies.
+2002 Using Replication Proxy Servers for Scalable Mobile Database Access.
+2016 Time Traveling in Graphs using a Graph Database.
+1996 The PARK Semantics for Active Rules.
+2016 Indexing Query Graphs to Speedup Graph Query Processing.
+2002 An Approach to Integrating Query Refinement in SQL.
+2009 Optimized union of non-disjoint distributed data sets.
+2016 Similarity Search on Spatio-Textual Point Sets.
+2002 Advances in Database Technology - EDBT 2002, 8th International Conference on Extending Database Technology, Prague, Czech Republic, March 25-27, Proceedings
+2006 An Extensible, Distributed Simulation Environment for Peer Data Management Systems.
+1988 Advances in Database Technology - EDBT'88, Proceedings of the International Conference on Extending Database Technology, Venice, Italy, March 14-18, 1988
+1990 Query Processing in Distributed ORION.
+2000 Dynamic Query Optimization and Query Processing in Multidatabase Systems.
+2010 Scalable ontology-based information systems.
+2009 Efficient top-k count queries over imprecise duplicates.
+2012 RecStore: an extensible and adaptive framework for online recommender queries inside the database engine.
+2014 Diversified Spatial Keyword Search On Road Networks.
+2015 Cuneiform: a Functional Language for Large Scale Scientific Data Analysis.
+1996 A Hash Partition Strategy for Distributed Query Processing.
+2017 SPST-Index: A Self-Pruning Splay Tree Index for Caching Database Cracking.
+2016 Large Scale Sentiment Analysis on Twitter with Spark.
+2000 VirtualMedia: Making Multimedia Database Systems Fit for World-Wide Access.
+2008 XML data integration in SixP2P: a theoretical framework.
+2013 Anomaly management using complex event processing: extending data base technology paper.
+2014 Big data analytics for smart mobility: a case study.
+2009 Sample synopses for approximate answering of group-by queries.
+2013 Efficient query answering against dynamic RDF databases.
+2017 Flexible Caching in Trie Joins.
+2011 TAGs: scalable threshold-based algorithms for proximity computation in graphs.
+2011 Memory-efficient frequent-itemset mining.
+2012 Knowledge-based processing of complex stock market events.
+2000 Parametric Rectangles: A Model for Querying and Animation of Spatiotemporal Databases.
+2009 Interactive query refinement.
+2012 A generic data model and query language for spatiotemporal OLAP cube analysis.
+2011 Towards TomTom like systems for the web: a novel architecture for browser-based mashups.
+2004 Efficient Distributed Skylining for Web Information Systems.
+1990 Uniform Object Management.
+2008 A probabilistic trust model for semantic peer to peer systems.
+2013 Subspace global skyline query processing.
+2016 Using Robust Estimation Theory to Design Efficient Secure Multiparty Linear Regression.
+2011 Towards designing an efficient crawling window to analysis and annotate changes in linked data sources.
+2002 A Framework for the Physical Design Problem for Data Synopses.
+2009 Data integration flows for business intelligence.
+2013 Near real-time analytics with IBM DB2 analytics accelerator.
+2016 Data Responsibly: Fairness, Neutrality and Transparency in Data Analysis.
+2006 MUSCLE: Music Classification Engine with User Feedback.
+2010 Self-selecting, self-tuning, incrementally optimized indexes.
+2013 A flexible framework for context-aware recommendations in the social commerce domain.
+2002 Ambient Intelligence: Plenty of Challenges by 2010.
+2014 Mindmap-Inspired Semantic Personal Information Management.
+2012 Towards measuring test data quality.
+1996 Reasoning with Aggregation Constraints.
+2014 A Privacy Preserving Model for Ownership Indexing in Distributed Storage Systems.
+2009 Multiplicative synopses for relative-error metrics.
+1994 Role-based Query Processing in Multidatabase Systems.
+2016 MCSS: A Model for Car-Sharing System.
+2013 An RFID and particle filter-based indoor spatial query evaluation system.
+2012 The mainframe strikes back: elastic multi-tenancy using main memory database systems on a many-core server.
+2017 SQL- and Operator-centric Data Analytics in Relational Main-Memory Databases.
+2006 Progressive Query Optimization for Federated Queries.
+2010 Timely YAGO: harvesting, querying, and visualizing temporal knowledge from Wikipedia.
+2016 Context-Dependent Quality-Aware Source Selection for Live Queries on Linked Data.
+2017 Towards Open-Source Shared Implementations of Keyword-Based Access Systems to Relational Data.
+2006 Conflicting XML Updates.
+1996 Version Management for Scientific Databases.
+1996 Providing High Availability in Very Large Worklflow Management Systems.
+2000 Automatic Deployment of Application-Specific Metadata and Code in MOCHA.
+2017 Top-k Skyline Groups Queries.
+2008 Building web applications without a database system.
+2011 Towards a vocabulary for data quality management in semantic web architectures.
+1994 A Multi-Threaded Architecture for Prefetching in Object Bases.
+2002 Temporal Aggregation over Data Streams Using Multiple Granularities.
+2013 Trust and reputation in and across virtual communities.
+2008 A concurrency control protocol for parallel B-tree structures without latch-coupling for explosively growing digital content.
+1992 Pipelined Query Processing in the DBGraph Storage Model.
+2000 Management and Query Processing of One-Dimensional Intervals with the UB-Tree.
+2002 Cut-and-Pick Transactions for Proxy Log Mining.
+2014 A Tale of Two Graphs: Property Graphs as RDF in Oracle.
+2014 Tagged Dataflow: a Formal Model for Iterative Map-Reduce.
+2013 PMAX: tenant placement in multitenant databases for profit maximization.
+1994 Video Information Contents and Architecture.
+2006 Natix Visual Interfaces.
+2014 inWalk: Interactive and Thematic Walks inside the Web of Data.
+2015 Topic Detection Using a Critical Term Graph on News-Related Tweets.
+2013 Monitoring and recommending privacy settings in social networks.
+2002 Designing Functional Dependencies for XML.
+2010 Statistics-based parallelization of XPath queries in shared memory systems.
+2016 Core Decomposition in Graphs: Concepts, Algorithms and Applications.
+2016 Scalable Public Transportation Queries on the Database.
+2010 Indexing relations on the web.
+2013 What we talk about when we talk about graphs.
+2004 Security and Privacy for Web Databases and Services.
+1988 Geo-Relational Algebra: A Model and Query Language for Geometric Database Systems.
+1990 File Access Level Optimization Using Page Access Graph on Recursive Query Evaluation.
+2014 Traffic Incident Detection Using Probabilistic Topic Model.
+2016 Social, Structured and Semantic Search.
+2006 Fast Nearest Neighbor Search on Road Networks.
+2011 The hidden web, XML and the Semantic Web: scientific data management perspectives.
+2016 Formal Models for Privacy.
+1996 Correct Schema Transformations.
+2014 Binary Theta-Joins using MapReduce: Efficiency Analysis and Improvements.
+2008 Revisiting redundancy and minimization in an XPath fragment.
+2015 Using Graph Traversal in Scientific Data Interpolation.
+2008 Reality check: a case study of an EII research prototype encountering customer needs.
+1988 Views and Security in Distributed Database Management Systems.
+2011 Toward total business intelligence incorporating structured and unstructured data.
+2012 Mining probabilistically frequent sequential patterns in uncertain databases.
+2011 Efficient query evaluation over probabilistic XML with long-distance dependencies.
+2004 A Tale of Two Schemas: Creating a Temporal XML Schema from a Snapshot Schema with tXSchema.
+2000 Integrating and Managing Multimedia Presentations by a Web-based Object Server.
+2016 EvoGen: a Generator for Synthetic Versioned RDF.
+1994 Type Derivation Using the Projection Operation.
+1998 Efficient Dynamic Programming Algorithms for Ordering Expensive Joins and Selections.
+2009 Performance evaluation in database research: principles and experience.
+2014 Annotating the Behavior of Scientific Modules Using Data Examples: A Practical Approach.
+2017 Using Patterns for Keyword Search in RDF Graphs.
+1988 Tell-Me: A Natural Language Query System.
+2010 Logging last resource optimization for distributed transactions in Oracle WebLogic server.
+2000 Design and Implementation of a Deductive Query Language for ODMG Compliant Object Databases.
+2006 Another Example of a Data Warehouse System Based on Transposed Files.
+2008 Minimizing latency and memory in DSMS: a unified approach to quasi-optimal scheduling.
+2004 Clustering Multidimensional Extended Objects to Speed Up Execution of Spatial Queries.
+2012 Sieve: linked data quality assessment and fusion.
+1994 Algorithms for Flexible Space Management in Transaction Systems Supporting Fine-Granularity Locking.
+1992 Adaptive and Automated Index Selection in RDBMS.
+1994 Bit-Sliced Signature Files for Very Large Text Databases an a Parallel Machine Architecture.
+1988 Towards KBMS for Software Development: An Overview of the DAIDA Project.
+1990 Methods and Tools for Equivalent Data Model Mapping Construction.
+2008 Data challenges at Yahoo!
+2008 Flint: Google-basing the Web.
+1988 Sabrina-RT, A Distributed DBMS for Telecommunications.
+2004 NNH: Improving Performance of Nearest-Neighbor Searches Using Histograms.
+2015 Crowd-Selection Query Processing in Crowdsourcing Databases: A Task-Driven Approach.
+2011 Exploring the web with OXPath.
+2010 Private record matching using differential privacy.
+2013 LOVER: support for modeling data using linked open vocabularies.
+2008 Ownership protection of shape datasets with geodesic distance preservation.
+2011 Predicting completion times of batch query workloads using interaction-aware models and simulation.
+2002 Secure Publishing of XML Documents.
+2016 RDF-TX: A Fast, User-Friendly System for Querying the History of RDF Knowledge Bases.
+2013 Multidimensional process mining: a flexible analysis approach for health services research.
+2013 Limosa: a system for geographic user interest analysis in Twitter.
+2000 Using Checksums to Detect Data Corruption.
+2015 SIEF: Efficiently Answering Distance Queries for Failure Prone Graphs.
+2008 FAME-DBMS: Tailor-made Data Management Solutions for Embedded Systems.
+2011 Symmetrizations for clustering directed graphs.
+2014 Addressing the Sparsity of Location Information on Twitter.
+2012 Cost models for view materialization in the cloud.
+2014 Advances in Database Technology - EDBT 2014.
+2002 Universal Quantification in Relational Databases: A Classification of Data and Algorithms.
+2013 Mining frequent serial episodes over uncertain sequence data.
+2013 A performance comparison of parallel DBMSs and MapReduce on large-scale text analytics.
+2016 Characterizing Home Device Usage From Wireless Traffic Time Series.
+2014 Crowdsourcing turning restrictions for OpenStreetMap.
+2015 Efficiently Computing Top-K Shortest Path Join.
+2009 Query ranking in probabilistic XML data.
+2012 Towards an ecosystem of structured data on the web.
+1998 Minimizing Detail Data in Data Warehouses.
+2004 Computing and Handling Cardinal Direction Information.
+2011 Unraveling multi-dimensional data using pDView.
+2014 ECAST: A Benchmark Framework for Renewable Energy Forecasting Systems.
+2015 Time series anomaly discovery with grammar-based compression.
+2017 Data Security and Privacy for Outsourced Data In the Cloud.
+2010 Fast ELCA computation for keyword queries on XML data.
+1990 Optimization of Queries using Nested Indices.
+2016 GROM: a General Rewriter of Semantic Mappings.
+2006 Indexing Incomplete Databases.
+2017 Analytics on Fast Data: Main-Memory Database Systems versus Modern Streaming Systems.
+2011 Constructing concept relation network and its application to personalized web search.
+2008 BioScout: a life-science query monitoring system.
+2016 PowerQ: An Interactive Keyword Search Engine for Aggregate Queries on Relational Databases.
+2006 An ECA Rule Rewriting Mechanism for Peer Data Management Systems.
+2011 Experience in Continuous analytics as a Service (CaaaS).
+2002 The XML Data Mining Specification Language.
+2009 Self-tuning query mesh for adaptive multi-route query processing.
+2014 Social Data and Multimedia Analytics for News and Events Applications.
+2011 On query self-submission in peer-to-peer user-private information retrieval.
+2017 MapReduce Performance Models for Hadoop 2.x.
+2014 SiCi Explorer: Situation Monitoring of Cities in Social Media Streaming Data.
+2017 Performance Evaluation of Analytical Queries on a Standalone and Sharded Document Store.
+2006 Indexing Spatially Sensitive Distance Measures Using Multi-resolution Lower Bounds.
+2017 DeepSea: Progressive Workload-Aware Partitioning of Materialized Views in Scalable Data Analytics.
+2010 FPGAs: a new point in the database design space.
+2009 On the comparison of microdata disclosure control algorithms.
+2017 Continuous Imputation of Missing Values in Streams of Pattern-Determining Time Series.
+2015 Resolving XML Semantic Ambiguity.
+2016 Optimizing, Planning and Executing Analytics Workflows over Multiple Engines.
+2008 A Relational File System as an Example for Tailor-made DMS.
+2008 SPARQLing constraints for RDF.
+2017 I<sup>2</sup>: Interactive Real-Time Visualization for Streaming Data.
+2011 Probabilistic range queries for uncertain trajectories on road networks.
+2004 Beyond 1-Safety and 2-Safety for Replicated Databases: Group-Safety.
+2015 K-Nearest Neighbor Temporal Aggregate Queries.
+2015 Interpreting Linked Data Search Results Using Markov Logic.
+2017 Detecting and Diagnosing Syntactic and Semantic Errors in SPARQL Queries.
+2016 Distance-based Multimedia Indexing.
+2017 Correlation-Aware Distance Measures for Data Series.
+2004 Converged Services: A Hidden Challenge for the Web Services Paradigm.
+2010 BP-Ex: a uniform query engine for business process execution traces.
+2016 Minoan ER: Progressive Entity Resolution in the Web of Data.
+2016 Data Management for Next Generation Genomic Computing.
+2002 Supporting Efficient Parametric Search of E-Commerce Data: A Loosely-Coupled Solution.
+2004 Declustering Two-Dimensional Datasets over MEMS-Based Storage.
+2009 A data damage tracking quarantine and recovery (DTQR) scheme for mission-critical database systems.
+2015 Front matter.
+2009 Recursion in XQuery: put your distributivity safety belt on.
+2000 Approximate Graph Schema Extraction for Semi-Structured Data.
+1992 Supporting Access Control in an Object-Oriented Database Language.
+2006 Managing Collections of XML Schemas in Microsoft SQL Server 2005.
+2015 Liquid Benchmarking: A Platform for Democratizing the Performance Evaluation Process.
+2009 Flower-CDN: a hybrid P2P overlay for efficient query processing in CDN.
+2011 Distributing data for secure database services.
+2012 Indexing and mining topological patterns for drug discovery.
+2006 Supporting Temporal Slicing in XML Databases.
+1988 An Extension of the Relational Model to Support Generic Intervals.
+2009 A tool for mapping discovery over revealing schemas.
+2014 Graph-driven Exploration of Relational Databases for Efficient Keyword Search.
+1992 Fragmentation of Recursive Relations in Distributed Datbases.
+2017 Declarative Graph Querying in Practice and Theory.
+2013 Choosing the right crowd: expert finding in social networks.
+2015 Towards Flexible Event Processing in Distributed Data Streams.
+2017 TASWEET: Optimizing Disjunctive Path Queries in Graph Databases.
+2008 Schema polynomials and applications.
+2004 Mining Extremely Skewed Trading Anomalies.
+2006 On Futuristic Query Processing in Data Streams.
+2010 Privacy preserving group nearest neighbor queries.
+2017 ChaseFUN: a Data Exchange Engine for Functional Dependencies at Scale.
+2016 A Data Mining Approach to Choosing Categorical Attributes for Ranked Lists.
+2010 Anchoring millions of distinct reads on the human genome within seconds.
+1988 The Processing and Evaluation of Transitive Closure Queries.
+2009 Ranking objects based on relationships and fixed associations.
+2008 Designing an inductive data stream management system: the stream mill experience.
+2015 Group Recommendation with Temporal Affinities.
+1988 Supporting Semantic Rules by a Generalized Event/Trigger Mechanism.
+2016 Who Cares about Others' Privacy: Personalized Anonymization of Moving Object Trajectories.
+2006 <i>i</i>MONDRIAN: A Visual Tool to Annotate and Query Scientific Databases.
+2009 Answering aggregate keyword queries on relational databases using minimal group-bys.
+2014 SECRETA: A System for Evaluating and Comparing RElational and Transaction Anonymization algorithms.
+2012 Distributed skyline processing: a trend in database research still going strong.
+2006 SCUBA: Scalable Cluster-Based Algorithm for Evaluating Continuous Spatio-temporal Queries on Moving Objects.
+2002 Managing Web Sites with OntoWebber.
+2008 Schema mapping verification: the spicy way.
+2010 Gossiping personalized queries.
+2016 Weighted Sum Model for Multi-Objective Query Optimization for Mobile-Cloud Database Environments.
+2015 Towards an RDF Validation Language Based on Regular Expression Derivatives.
+2015 Lower Bounds on the Communication of XPath Queries in MapReduce.
+1996 Commit Scope Control in Nested Transactions.
+1996 Knowledge Discovery from Epidemiological Databases.
+2014 BenchmarX.
+2016 Open Issues and Challenges on Time Series Forecasting for Water Consumption.
+1998 A Path Removing Technique for Detecting Trigger Termination.
+2014 A Unified Framework for Efficiently Processing Ranking Related Queries.
+2009 Retrieving meaningful relaxed tightest fragments for XML keyword search.
+2009 Geographic privacy-aware knowledge discovery and delivery.
+2017 Matching Web Tables To DBpedia - A Feature Utility Study.
+1988 COL: A Logic-Based Language for Complex Objects.
+2008 Data exchange in the presence of arithmetic comparisons.
+2004 OGSA-DQP: A Service for Distributed Querying on the Grid.
+2013 Provenance from log files: a BigData problem.
+2011 Taking the OXPath down the deep web.
+1992 An Execution Model for Distributed Database Transactions and Its Implementation in VPL.
+1988 The DURES Project: Extending Datbases into an Open System Architecture.
+2009 Fast object search on road networks.
+2014 A Condensation Approach to Privacy Preserving Data Mining.
+2014 Renewable Energy Data Sources in the Semantic Web with OpenWatt.
+1990 Retrieval of Multimedia Documents by Imprecise Query Specification.
+2013 Processing multi-way spatial joins on map-reduce.
+2016 DECT: Distributed Evolving Context Tree for Mining Web Behavior Evolution.
+2015 Chariots: A Scalable Shared Log for Data Management in Multi-Datacenter Cloud Environments.
+1988 A Universal Relation Model for Nested Relations.
+2016 An On-Line Approximation Algorithm for Mining Frequent Closed Itemsets Based on Incremental Intersection.
+2000 Top N Optimization Issues in MM databases.
+2011 Efficient reverse skyline retrieval with arbitrary non-metric similarity measures.
+2004 Efficient Schema-Based Revalidation of XML.
+1990 LISPO<sub>2</sub>: a Persistent Object-Oriented Lisp.
+2012 Probabilistic pattern queries over complex probabilistic graphs.
+2012 Distributed data management for large-scale wireless sensor networks simulations.
+2006 Handling Interlinked XML Instances on the Web.
+2000 Quality Assessment and Uncertainty Handling in Data Mining Process.
+2016 Biomedical Ontology Evolution in the EMBL-EBI Ontology Lookup Service.
+1996 Accomodating Integrity Constraints During Database Design.
+2006 Optimizing Monitoring Queries over Distributed Data.
+2016 streamLoader: An Event-Driven ETL System for the On-line Processing of Heterogeneous Sensor Data.
+2015 Graph Databases and Railway Operations Research Requirements.
+2000 Content-based Video Retrieval.
+2009 Towards integrated and efficient scientific sensor data processing: a database approach.
+1992 Database Support for Problematic Knowledge.
+2017 Big Spatial Data Processing Frameworks: Feature and Performance Evaluation.
+1988 A Uniform Approach to Constraint Satisfaction and Constraint Satisfiability in Deductive Databases.
+2017 Evaluating Reputation in VGI-Enabled Applications.
+2014 Privacy Preserving Similarity Evaluation of Time Series Data.
+2004 Projection Pushing Revisited.
+2016 Proceedings of the 19th International Conference on Extending Database Technology, EDBT 2016, Bordeaux, France, March 15-16, 2016, Bordeaux, France, March 15-16, 2016.
+2017 PROTEUS: Scalable Online Machine Learning for Predictive Analytics and Real-Time Interactive Visualization.
+2002 With HEART Towards Response Time Guarantees for Message-Based e-Services.
+2010 Provenance for database transformations.
+1992 Hybrid Index Organizations for Text Databases.
+2015 Insights on a Scalable and Dynamic Traffic Management System.
+2014 HCS: Hierarchical Cut Selection for Efficiently Processing Queries on Data Columns using Hierarchical Bitmap Indices.
+2009 BaseX & DeepFS joint storage for filesystem and database.
+1992 The Demarcation Protocol: A Technique for Maintaining Linear Arithmetic Constraints in Distributed Database Systems.
+2011 Synopses for probabilistic data over large domains.
+2010 Let SQL drive the XQuery workhorse (XQuery join graph isolation).
+2017 RDF Keyword-based Query Technology Meets a Real-World Dataset.
+2009 Managing long-running queries.
+2008 Expressive query specification through form customization.
+2015 Reaching a desired set of users via different paths: an online advertising technique on micro-blogging platforms.
+2000 The Dynamic Data Cube.
+2014 PStorM: Profile Storage and Matching for Feedback-Based Tuning of MapReduce Jobs.
+2015 Computing NFA Intersections in Map-Reduce.
+2011 Fast and accurate computation of equi-depth histograms over data streams.
+2008 Proceedings of the 2008 International Workshop on Privacy and Anonymity in Information Society, PAIS 2008, Nantes, France, March 29, 2008
+2010 A plan for OLAP.
+1998 Efficient Queries over Web Views.
+2012 Repair-oriented relational schemas for multidimensional databases.
+2010 B-Fabric: the Swiss Army Knife for life sciences.
+2008 P2P systems with transactional semantics.
+2012 Similarity in (spatial, temporal and) spatio-temporal datasets.
+2006 Distributed Spatial Clustering in Sensor Networks.
+2010 Probabilistic threshold k nearest neighbor queries over moving objects in symbolic indoor space.
+2015 On Optimality of Jury Selection in Crowdsourcing.
+2013 AppSleuth: a tool for database tuning at the application level.
+2013 Skyline probability over uncertain preferences.
+2015 Mining Frequent Co-occurrence Patterns across Multiple Data Streams.
+2002 Broadcast-Based Data Access in Wireless Environments.
+2013 Towards efficient and practical solutions for ontology-based data management.
+2013 Towards ontological foundations of knowledge related to the emissions trading system.
+1990 A Probalilistic Relational Data Model.
+1998 Fusion Queries over Internet Databases.
+2008 Attribute selection in multivariate microaggregation.
+2014 ALIAS: Author Disambiguation in Microsoft Academic Search Engine Dataset.
+1992 Compilation-Based List Processing in Deductive Databases.
+2002 UMiner: A Data Mining System Handling Uncertainty and Quality.
+2017 Hi-WAY: Execution of Scientific Workflows on Hadoop YARN.
+1990 Single Table Access Using Multiple Indexes: Optimization, Execution, and Concurrency Control Techniques.
+2015 Estimating Data Integration and Cleaning Effort.
+2016 An Algebra and Equivalences to Transform Graph Patterns in Neo4j.
+2000 A Data Model for Effectively Computable Functions.
+2012 Realtime healthcare services via nested complex event processing technology.
+2006 Finding Equivalent Rewritings in the Presence of Arithmetic Comparisons.
+2014 JISC: Adaptive Stream Processing Using Just-In-Time State Completion.
+2013 SWORD: scalable workload-aware data placement for transactional workloads.
+1990 The Reuse and Modification of Rulebases by Predicate Substituation.
+2014 RIPPLE: A Scalable Framework for Distributed Processing of Rank Queries.
+2015 On Processing Top-k Spatio-Textual Preference Queries.
+2014 Intersection Schemas as a Dataspace Integration Technique.
+2017 Parallel Array-Based Single- and Multi-Source Breadth First Searches on Large Dense Graphs.
+2014 Recommendation of Multimedia Objects for Social Network Applications.
+2014 Analysis of Relationships Between Road Traffic Volumes and Weather: Exploring Spatial Variation.
+2002 Multi Query Optimization Using Query Pack Trees.
+2000 Tamino - An Internet Database System.
+2002 Management of Dynamic Location Information in DOMINO.
+2006 Towards Expressive Publish/Subscribe Systems.
+2009 Indexing density models for incremental learning and anytime classification on data streams.
+2014 Tutorial: Formal Methods for Event Processing.
+2017 Fast Subsequence Search on Time Series Data.
+2006 Advances in Database Technology - EDBT 2006, 10th International Conference on Extending Database Technology, Munich, Germany, March 26-31, 2006, Proceedings
+1996 Querying TSQL2 Databases with Temporal Logic.
+2013 SkyDiver: a framework for skyline diversification.
+2009 Processing probabilistic spatio-temporal range queries over moving objects with uncertainty.
+2008 Cost-based query optimization for complex pattern mining on multiple databases.
+1996 Monet And Its Geographic Extensions: A Novel Approach to High Performance GIS Processing.
+2016 Sweet KIWI: Statistics-Driven OLAP Acceleration using Query Column Sets.
+2017 An Integration-Oriented Ontology to Govern Evolution in Big Data Ecosystems.
+2011 Proceedings of the 2011 EDBT/ICDT Workshop on Linked Web Data Management, Uppsala, Sweden, March 25, 2011
+2008 BI batch manager: a system for managing batch workloads on enterprise data-warehouses.
+2016 Which is Better for kNN Query Processing in the Cloud: Sequential or Parallel.
+2017 Backlogs and Interval Timestamps: Building Blocks for Supporting Temporal Queries in Graph Databases.
+1996 Fine-granularity Locking and Client-Based Logging for Distributed Architectures.
+2012 An optimization framework for map-reduce queries.
+2014 Quantifying the Connectivity of a Semantic Warehouse.
+2004 Aggregation of Continuous Monitoring Queries in Wireless Sensor Networking Systems.
+2009 Efficient provenance storage over nested data collections.
+2009 Exploiting the power of relational databases for efficient stream processing.
+2014 L-opacity: Linkage-Aware Graph Anonymization.
+2016 ShapeExplorer: Querying and Exploring Shapes using Visual Knowledge.
+1990 Advances in Database Technology - EDBT'90. International Conference on Extending Database Technology, Venice, Italy, March 26-30, 1990, Proceedings
+2015 Massively Parallel Analysis of Similarity Matrices on Heterogeneous Hardware.
+2017 ChronicleDB: A High-Performance Event Store.
+2014 Pipeline Production Data Model.
+2011 GPX-matcher: a generic boolean predicate-based XPath expression matcher.
+2010 Subsumption and complementation as data fusion operators.
+2016 Context-Aware Event Stream Analytics.
+2012 Dynamic diversification of continuous data.
+2015 Measuring and Comparing Energy Flexibilities.
+2011 Efficient querying of distributed linked data.
+2016 Visualization Through Inductive Aggregation.
+2006 MonetDB/XQuery-Consistent and Efficient Updates on the Pre/Post Plane.
+2010 How to authenticate graphs without leaking.
+2013 On implementing provenance-aware regular path queries with relational query engines.
+2011 Disclosure detection over data streams in database publishing.
+2012 Optimizing index deployment order for evolving OLAP.
+2008 Multi-dimensional search for personal information management systems.
+2009 FOGGER: an algorithm for graph generator discovery.
+2012 Subscription indexes for web syndication systems.
+2012 Inside "Big Data management": ogres, onions, or parfaits?
+2016 Distributed Secure Search in the Personal Cloud.
+2006 Bridging Physical and Virtual Worlds: Complex Event Processing for RFID Data Streams.
+2015 The NPD Benchmark: Reality Check for OBDA Systems.
+2016 Data Management System for Energy Analytics and its Application to Forecasting.
+2016 Galaxy: A Platform for Explorative Analysis of Open Data Sources.
+2009 <i>LCS</i>-Hist: taming massive high-dimensional data cube compression.
+2002 Bridging the Gap between Response Time and Energy-Efficiency in Broadcast Schedule Design.
+2004 LexEQUAL: Supporting Multiscript Matching in Database Systems.
+2013 Structure inference for linked data sources using clustering.
+2015 A Spark-based Workflow for Probabilistic Record Linkage of Healthcare Data.
+2011 An optimal strategy for monitoring top-k queries in streaming windows.
+2013 Efficient processing of containment queries on nested sets.
+2011 Efficient execution plans for distributed skyline query processing.
+2014 Combining a Gauss-Markov model and Gaussian process for traffic prediction in Dublin city center.
+2002 Efficient Indexing of Spatiotemporal Objects.
+2012 I/O cost minimization: reachability queries processing over massive graphs.
+2013 Dynamic multi-version ontology-based personalization.
+2017 A Join Operator for Property Graphs.
+2002 A Robust and Self-tuning Page-Replacement Strategy for Spatial Database Systems.
+1996 LoT: Dynamic Declustering of TSB-Tree Nodes for Parallel Access to Temporal Data.
+2017 Protecting Location Privacy in Spatial Crowdsourcing using Encrypted Data.
+2006 Detecting Similarities in Ontologies with the SOQA-SimPack Toolkit.
+2012 Skyline-sensitive joins with LR-pruning.
+2017 Exact and Approximate Algorithms for Finding k-Shortest Paths with Limited Overlap.
+1990 Extending the Functional Data Model to Computational Completeness.
+1998 On the Ubiquity of Information Services and the Absence of Guaranteed Service Quality.
+1998 HySpirit - A Probabilistic Inference Engine for Hypermedia Retrieval in Large Databases.
+2002 The Index-Based XXL Search Engine for Querying XML Data with Relevance Ranking.
+2016 Cohesive Keyword Search on Tree Data.
+1994 Indexing Alternatives for Multiversion Locking.
+2006 Exploiting Cluster Analysis for Constructing Multi-dimensional Histograms on Both Static and Evolving Data.
+2016 Towards an Analytics Query Engine.
+2014 Crowd Density Estimation for Public Transport Vehicles.
+2016 The Data Management Entity: A Simple Abstraction to Facilitate Big Data Systems Interoperability.
+2004 LIMBO: Scalable Clustering of Categorical Data.
+2008 On the brink: searching for drops in sensor data.
+2009 Efficient identification of starters and followers in social media.
+1990 Deductive Databases - Theory Meets Practice.
+2012 Challenges and approaches for distributed workflow-driven analysis of large-scale biological data: vision paper.
+2002 Compression Techniques Based on Concave Cluster Geometries for Efficient High-Dimensional Neighbor Retrieval.
+2014 Bidirectional Transformations in Database Evolution: A Case Study "At Scale".
+2015 Benchmarking Smart Meter Data Analytics.
+2009 Privacy-preserving data mashup.
+1996 Doing Business with the Web: The Informix/Illustra Approach.
+2013 Cost exploration of data sharings in the cloud.
+2006 A Decomposition-Based Probabilistic Framework for Estimating the Selectivity of XML Twig Queries.
+2014 AGGREGO SEARCH: Interactive Keyword Query Construction.
+2006 XG: A Grid-Enabled Query Processing Engine.
+2010 Probabilistic ranking over relations.
+2008 Indexing high-dimensional data in dual distance spaces: a symmetrical encoding approach.
+2010 Lost source provenance.
+1996 Dealing with Asynchrony in Technology Transfer.
+2012 High-recall extraction of acronym-definition pairs with relevance feedback.
+1990 The Iris Kernel Architecture.
+2006 SAT: Spatial Awareness from Textual Input.
+2012 Data management in the MIRABEL smart grid system.
+2010 Turbo-charging hidden database samplers with overflowing queries and skew reduction.
+2008 An efficient clustering method for k-anonymization.
+2011 SLA-tree: a framework for efficiently supporting SLA-based decisions in cloud computing.
+2013 Entity discovery and annotation in tables.
+2015 Reconsolidating Data Structures.
+2006 Hermes - A Framework for Location-Based Data Management.
+2017 MHMD: My Health, My Data.
+2008 Tailor-made Lock Protocols and their DBMS Integration.
+1992 Optimization of Linear Logic Programs Using Counting Methods.
+2011 SITAC: discovering <i>semantically identical temporally altering concepts</i> in text archives.
+2017 In-Place Appends for Real: DBMS Overwrites on Flash without Erase.
+2004 A Condensation Approach to Privacy Preserving Data Mining.
+2012 Diagnosing faults in embedded queries in database applications.
+2012 LODifying personal content sharing.
+2008 Social ties and their relevance to churn in mobile telecom networks.
+2008 Mine your own business, mine others' news!
+1992 Parallelism For High Performance Query Processing.
+2008 Semantic peer, here are the neighbors you want!
+1998 Processing Complex Similarity Queries with Distance-Based Access Methods.
+2013 Probabilistic inference of object identifications for event stream analytics.
+2017 Load balancing for Key Value Data Stores.
+2009 On keys, foreign keys and nullable attributes in relational mapping systems.
+2012 Towards a theory for privacy preserving distributed OLAP.
+2011 Model-driven restricted-domain adaptation of question answering systems for business intelligence.
+2014 Privacy Risk in Anonymized Heterogeneous Information Networks.
+2015 Efficient Sanitization of Unsafe Data Correlations.
+2014 Preface to the Third International Workshop on Bidirectional Transformations.
+2000 XML: Current Developments and Future Challenges for the Database Community.
+2000 Efficient Discovery of Functional Dependencies and Armstrong Relations.
+2014 Computing Electricity Consumption Profiles from Household Smart Meter Data.
+2008 Load distribution of analytical query workloads for database cluster architectures.
+2008 An inductive database and query language in the relational model.
+2012 Supporting top-K item exchange recommendations in large online communities.
+2012 RDF data management in the Amazon cloud.
+1994 Advances in Database Technology - EDBT'94. 4th International Conference on Extending Database Technology, Cambridge, United Kingdom, March 28-31, 1994, Proceedings
+2013 Efficient edit distance based string similarity search using deletion neighborhoods.
+2016 e#: Sharper Expertise Detection from Microblogs.
+2015 Meta-Stars: Dynamic, Schemaless, and Semantically-Rich Topic Hierarchies in Social BI.
+2000 Trading Quality for Time with Nearest Neighbor Search.
+1992 On Formalizing Database Updates: Preliminary Report.
+2017 Task-Optimized Group Search for Social Internet of Things.
+2014 Tutorial: An In-Depth Look at Modern Database Systems.
+2016 A Relational Approach to Complex Dataflows.
+2017 GnosisMiner: Reading Order Recommendations over Document Collections.
+2015 The Sweet Spot between Inverted Indices and Metric-Space Indexing for Top-K-List Similarity Search.
+2006 Expressiveness and Performance of Full-Text Search Languages.
+2008 Deleting index entries from compliance storage.
+2012 Classification rule learning for data linking.
+2011 Improving security by using a database management system for integrated statistical data analysis.
+2013 Semantic question answering system over linked data using relational patterns.
+2014 Implementing Iterative Algorithms with SPARQL.
+2014 Smart Applications for Smart City: a Contribution to Innovation.
+2002 Efficient OLAP Query Processing in Distributed Data Warehouses.
+2002 A Database-Supported Workbench for Information Fusion: INFUSE.
+2000 Automated Diagnosis and Control of DBMS Resources.
+2013 Processing XML queries and updates on map/reduce clusters.
+1998 Mining Process Models from Workflow Logs.
+1996 MATISSE: A Multimedia Web DBMS.
+2011 Mining closed discriminative dyadic sequential patterns.
+2012 FunSQL: it is time to make SQL functional.
+2017 Efficient Data Slice Search for Exceptional View Detection.
+1994 Schema Equivalence in Heterogeneous Systems: Bridging Theory and Practice (Extended Abstract).
+2000 Order Based Analysis Functions in NCR Teradata Parallel RDBMS.
+2013 Approximate string matching by position restricted alignment.
+2014 Efficient Dissemination of Emergency Information using a Social Network.
+1990 Panel: Has Theory Brought Anything to Database Systems and Will It in the Future?
+2012 Towards "intelligent compression" in streams: a biased reservoir sampling based Bloom filter approach.
+2006 HASE: A Hybrid Approach to Selectivity Estimation for Conjunctive Predicates.
+2016 TINTIN: a Tool for INcremental INTegrity checking of Assertions in SQL Server.
+2013 Efficient parallel partition-based algorithms for similarity search and join with edit distance constraints.
+2017 Optimization of Percentage Cube Queries.
+2014 Helping Teenagers Relieve Psychological Pressures: A Micro-blog Based System.
+2013 CrowdSeed: query processing on microblogs.
+2009 EventSummarizer: a tool for summarizing large event sequences.
+2016 On-Line Mobility Pattern Discovering using Trajectory Data.
+2012 Towards a decentralised hierarchical architecture for smart grids.
+2015 Query Optimization over Cloud Data Market.
+1992 Concepts for Graph-Oriented Object Manipulation.
+2014 CLUDE: An Efficient Algorithm for LU Decomposition Over a Sequence of Evolving Graphs.
+2014 Determining the k in k-means with MapReduce.
+2009 Parallelization of XPath queries using multi-core processors: challenges and experiences.
+2015 Discovering Recurring Patterns in Time Series.
+2015 A Parallel Tree Pattern Query Processing Algorithm for Graph Databases using a GPGPU.
+2000 Advances in Database Technology - EDBT 2000, 7th International Conference on Extending Database Technology, Konstanz, Germany, March 27-31, 2000, Proceedings
+2016 Finding Users of Interest in Micro-blogging Systems.
+2016 Extraction Algorithms for Hierarchical Header Structures from Spreadsheets.
+2012 Extending a general-purpose streaming system for XML.
+1998 OCB: A Generic Benchmark to Evaluate the Performances of Object-Oriented Database Systems.
+1998 Pincer-Search: A New Algorithm for Discovering the Maximum Frequent Set.
+2013 Cross-platform provenance.
+2006 X-Evolution: A System for XML Schema Evolution and Document Adaptation.
+2014 Fast Mining of Interesting Phrases from Subsets of Text Corpora.
+2013 Pollux: towards scalable distributed real-time search on microblogs.
+2008 Automaton in or out: run-time plan optimization for XML stream processing.
+2012 Tailoring linked data exploration through inCloud filtering.
+2010 Beyond pages: supporting efficient, scalable entity search with dual-inversion index.
+2010 Pattern detector: fast detection of suspicious stream patterns for immediate reaction.
+1998 Incremental Generalization for Mining in a Data Warehousing Environment.
+1992 Evolution of Knowledge Bases.
+2015 Quarry: Digging Up the Gems of Your Data Treasury.
+1992 Approximate Query Processing with Summary Tables in Statistical Databases.
+2016 Identifying and Describing Streets of Interest.
+2014 Sequence Pattern Matching over Time-Series Data with Temporal Uncertainty.
+2016 Efficient Cube Construction for Smart City Data.
+2015 Extending Event-Driven Architecture for Proactive Systems.
+2013 Provenance for seismological processing pipelines in a distributed streaming workflow.
+2006 A New Design for a Native XML Storage and Indexing Manager.
+2015 TimeReach: Historical Reachability Queries on Evolving Graphs.
+1996 Optimal Multi-Block Read Schedule for Partitioned Signature Files.
+1988 Placement of Replicated Items in Distributed Databases.
+2008 Design of PriServ, a privacy service for DHTs.
+2002 Efficient Algorithms for Mining Inclusion Dependencies.
+2009 Continuous visible nearest neighbor queries.
+2016 Refinement Driven Processing of Aggregation Constrained Queries.
+2013 Symbolic representation of smart meter data.
+2011 Applications of concept relation network to web search.
+2012 Mining search behavior and user-generated content: presentation at the industrial session - EDBT/ICDT 2012.
+2016 CrowdSky: Skyline Computation with Crowdsourcing.
+1996 SLIQ: A Fast Scalable Classifier for Data Mining.
+2017 EXstream: Explaining Anomalies in Event Stream Monitoring.
+2008 So how can I ask for it?
+2013 Efficient high-similarity string comparison: the waterfall algorithm.
+1998 Exploring Heterogeneous Biological Databases: Tools and Applications.
+2008 Highly scalable trip grouping for large-scale collective transportation systems.
+2015 "I would like to watch something like 'The Terminator'..." Cooperative Query Personalization Based on Perceptual Similarity.
+2015 Communication Cost in Parallel Query Processing.
+1992 Performance of On-Line Index Construction Algorithms.
+1992 A Non-Restrictive Concurrency Control for Object Oriented Databases.
+2009 Flexible and efficient querying and ranking on hyperlinked data sources.
+2011 Users tracking and roles mining in web-based applications.
+2000 An Approach to the Semi-Automatic Generation of Mediator Specifications.
+2013 Semantic queries by example.
+2012 Introducing MapLan to map banking survey data into a time series database.
+2017 Progressive Recovery of Correlated Failures in Distributed Stream Processing Engines.
+2009 Shore-MT: a scalable storage manager for the multicore era.
+2002 Adaptable Processing of Large Data Sets in Distributed Environments.
+2017 Towards Hybrid Methods for Graph Pattern Queries.
+2014 ENFrame: A Platform for Processing Probabilistic Data.
+2017 Motivation-Aware Task Assignment in Crowdsourcing.
+2016 Maximum Coverage Representative Skyline.
+2002 Semantic Analysis of Business Process Executions.
+2006 On Honesty in Sovereign Information Sharing.
+2000 Graphical Query Languages for Semi-Structured Information.
+1988 An Overview of Sidereus: A Graphical Database Schema Editor for Galileo.
+2011 Proceedings of the 2nd International Workshop on Business intelligencE and the WEB, Uppsala, Sweden, March 25, 2011
+2013 VisTrails provenance traces for benchmarking.
+2012 Effects on performance and energy reduction by file relocation based on file-access correlations.
+2015 Peer-to-Peer Semantic Integration of Linked Data.
+2017 Vertex-Centric Graph Processing: Good, Bad, and the Ugly.
+2012 Fault-tolerant complex event processing using customizable state machine-based operators.
+2013 The W3C PROV family of specifications for modelling provenance metadata.
+2000 Querying Graph Databases.
+2013 Joint 2013 EDBT/ICDT Conferences, EDBT/ICDT '13, Genoa, Italy, March 22, 2013, Workshop Proceedings
+1994 A Unified Approach to Concurrency Control and Transaction Recovery (Extended Abstract).
+2004 CUBE File: A File Structure for Hierarchically Clustered OLAP Cubes.
+2013 Design and implementation of privacy-preserving reconciliation protocols.
+2014 A Privacy-Preserving Framework for Personalized, Social Recommendations.
+2014 Formalizing Semantic Bidirectionalization with Dependent Types.
+2011 Hybrid merge/overlap execution technique for parallel array processing.
+2002 The APPROXML Tool Demonstration.
+2000 Object View Hierarchies in DB2 UDB.
+2010 Processing XPath queries with forward and downward axes over XML streams.
+2012 Validating cluster structures in data mining tasks.
+2012 Informing observers: quality-driven filtering and composition of web 2.0 sources.
+2009 Efficient constraint evaluation in categorical sequential pattern mining for trajectory databases.
+2015 Learning to Rank Adaptively for Scalable Information Extraction.
+1996 IRO-DB: Making Relational and Object-Oriented Database Systems Interoperable.
+2014 Query-Based Why-Not Provenance with NedExplain.
+2010 Position list word aligned hybrid: optimizing space and performance for compressed bitmaps.
+2011 Solomon: seeking the truth via copying detection.
+2009 The C-ND tree: a multidimensional index for hybrid continuous and non-ordered discrete data spaces.
+2016 The Origin of Heterogeneity in Human Mobility Ranges.
+1988 A Prolog Interface to a Functional Data Model Database.
+2012 Tailoring entity resolution for matching product offers.
+2004 A Framework for Context-Aware Adaptable Web Services.
+2014 SMILE: A Data Sharing Platform for Mobile Apps in the Cloud.
+2000 A Unified Approach for Indexed and Non-Indexed Spatial Joins.
+2017 In-DBMS Sampling-based Sub-trajectory Clustering.
+2013 Finding nearest neighbors in road networks: a tree decomposition method.
+2014 Mining Trajectory Data for Discovering Communities of Moving Objects.
+2014 A Cascading Wavelet-Feed Forward Neural Network Approach for Forecasting Traffic Flow.
+2000 The mQp Tree: A Multi-Dimensional Access Method based on a Non-Binary Tree.
+2016 Data Security and Privacy in the IoT.
+2000 Mining Classification Rules from Datasets with Large Number of Many-Valued Attributes.
+2008 Why go logarithmic if we can go linear?: Towards effective distinct counting of search traffic.
+2017 Stability notions in synthetic graph generation: a preliminary study.
+2010 The hardness and approximation algorithms for l-diversity.
+2013 Provenance in streamflow forecasting.
+2000 Logical and Physical Design in Data Warehousing Environments.
+2015 Cost Estimation of Spatial k-Nearest-Neighbor Operators.
+2017 Big Data Europe.
+2016 Reverse Engineering Top-k Database Queries with PALEO.
+2006 Parallelizing Skyline Queries for Scalable Distribution.
+2012 Towards principled design support for scalable OLTP workloads.
+2013 WebLab PROV: computing fine-grained provenance links for XML artifacts.
+2012 Stormy: an elastic and highly available streaming service in the cloud.
+2000 Materialized View Selection for Multi-Cube Data Models.
+2016 Top-k Dominating Queries, in Parallel, in Memory.
+2008 Querying time-series streams.
+2006 XML Duplicate Detection Using Sorted Neighborhoods.
+1998 The CVS Algorithm for View Synchronization in Evolvable Large-Scale Information Systems.
+1990 Making an Object-Oriented DBMS Active: Design, Implementation, and Evaluation of a Prototype.
+2011 Projection for XML update optimization.
+2011 Effective and efficient sampling methods for deep web aggregation queries.
+2011 Understanding linked open data through keyword searching: the KEYRY approach.
+2012 Privacy-preserving ranking over vertically partitioned data.
+2016 Practical Query Answering in Data Exchange Under Inconsistency-Tolerant Semantics.
+1990 Exceeding the Limits of Polymorphism in Database Programming Languages.
+2006 Replication, Load Balancing and Efficient Range Query Processing in DHTs.
+1992 Advances in Database Technology - EDBT'92, 3rd International Conference on Extending Database Technology, Vienna, Austria, March 23-27, 1992, Proceedings
+2013 Inferential time-decaying Bloom filters.
+2002 Cobra: A Content-Based Video Retrieval System.
+2015 Big Graph Privacy.
+2006 Improving the Efficiency of XPath Execution on Relational Systems.
+2004 Efficient Similarity Search for Hierarchical Data in Large Databases.
+2015 RDF Constraint Checking.
+2017 SDOS: Using Trusted Platform Modules for Secure Cryptographic Deletion in the Swift Object Store.
+2004 P2P-DIET: One-Time and Continuous Queries in Super-Peer Networks.
+2000 Active Behaviors within XML Document Management.
+2013 From A to E: analyzing TPC's OLTP benchmarks: the obsolete, the ubiquitous, the unexplored.
+1998 An Evaluation of Alternative Disk Scheduling Techniques in Support of Variable Bit Rate Continuous Media.
+2011 Unified structure and content search for personal information management systems.
+2004 A Model for Ternary Projective Relations between Regions.
+2014 CAQE: A Contract Driven Approach to Processing Concurrent Decision Support Queries.
+2012 Proceedings of the 2012 Joint EDBT/ICDT Workshops, Berlin, Germany, March 30, 2012
+2013 Joint 2013 EDBT/ICDT Conferences, EDBT '13 Proceedings, Genoa, Italy, March 18-22, 2013
+2015 What's Wrong with my Solar Panels: a Data-Driven Approach.
+2008 Streaming in a connected world: querying and tracking distributed data streams.
+2008 Scaling issues in network monitoring.
+2016 The Best Bang for Your Bu(ck)g.
+2008 On-line discovery of hot motion paths.
+2016 Data Processing in Modern Hardware.
+2011 Schema matching and mapping: from usage to evaluation.
+2009 Time-completeness trade-offs in record linkage using adaptive query processing.
+2017 GraphCache: A Caching System for Graph Queries.
+2015 Natural Language Specification and Violation Reporting of Business Rules over ER-modeled Databases.
+2015 Interactive Path Query Specification on Graph Databases.
+2010 Feedback-based annotation, selection and refinement of schema mappings for dataspaces.
+2000 Managing Complex Taxonomic Data in an Object-Oriented Database.
+2006 Feedback-Driven Structural Query Expansion for Ranked Retrieval of XML Data.
+2012 Clydesdale: structured data processing on MapReduce.
+2016 Generic Keyword Search over XML Data.
+2012 Top-k interesting phrase mining in ad-hoc collections using sequence pattern indexing.
+2014 Frequent Pattern Mining from Dense Graph Streams.
+2006 On High Dimensional Skylines.
+2012 Differentially-private learning and information theory.
+1994 The Object Management Group Standardization of Object Technology (Abstract).
+2010 Splash: ad-hoc querying of data and statistical models.
+2013 Web data indexing in the cloud: efficiency and cost reductions.
+2015 Dismantling Complicated Query Attributes with Crowd.
+1998 Discovery-Driven Exploration of OLAP Data Cubes.
+2008 XCraft: boosting the performance of active XML materialization.
+2011 Hybrid techniques for web APIs recommendation.
+2016 Efficient Query Processing using the Earth's Mover Distance in Video Databases.
+2002 Aggregate Processing of Planar Points.
+2009 A data model for trip planning in multimodal transportation systems.
+2000 A Flexible Event Service for Integrating Distributed Database Applications.
+2017 Information Propagation in Interaction Networks.
+2016 GSCALER: Synthetically Scaling A Given Graph.
+2002 Selectivity Estimation for Spatial Joins with Geometric Selections.
+2008 Managing virtual money for satisfaction and scale up in P2P systems.
+2016 Querying RDF Data Using A Multigraph-based Approach.
+2011 Like breadcrumbs in the forest: a tool for semantic exploratory search.
+2002 Defining an Adaptable Mobile Transaction Service.
+2012 Efficient distributed query processing for autonomous RDF databases.
+2014 Energy Data Management: Where Are We Headed? (panel).
+1994 DBJ - A Dynamic Balancing Hash Join Algorithm in Multiprocessor Database Systems (Extented Abstract).
+1998 A Logical Approach to Multidimensional Databases.
+2000 OLAP Query Routing and Physical Design in a Database Cluster.
+2013 Computing n-gram statistics in MapReduce.
+1988 Quasi-Copies: Efficient Data Sharing for Information Retrieval Systems.
+2017 Schema Inference for Massive JSON Datasets.
+2008 Maintaining consistency in a failure-prone P2P database network during transaction processing.
+2013 PostgreSQL anomalous query detector.
+2016 Semi-automatic support for evolving functional dependencies.
+2012 The application of differential privacy to health data.
+2012 Peak power plays in database engines.
+2016 Interactive Temporal Association Analytics.
+2013 Panorama: a semantic-aware application search framework.
+2010 Augmenting OLAP exploration with dynamic advanced analytics.
+2010 Adaptive join processing in pipelined plans.
+2012 QUASAR: querying annotation, structure, and reasoning.
+2006 Enabling Outsourced Service Providers to Think Globally While Acting Locally.
+1998 Buffer Management in Distributed Database Systems: A Data Mining Based Approach.
+2015 ECCO- A Framework for Ecological Data Collection and Management Involving Human Workers.
+2017 Proceedings of the 20th International Conference on Extending Database Technology, EDBT 2017, Venice, Italy, March 21-24, 2017.
+2006 Constructing a Generic Natural Language Interface for an XML Database.
+2009 Provenance for nested subqueries.
+2014 Entangled State Monads.
+2016 DatShA : A Data Sharing Algebra for access control plans.
+2012 Open business intelligence: on the importance of data quality awareness in user-friendly data mining.
+2016 Summarizing Linked Data RDF Graphs Using Approximate Graph Pattern Mining.
+2009 NNexus: an automatic linker for collaborative web-based corpora.
+2017 Close and Loose Associations in Keyword Search from Structural Data.
+2015 What are the Most Important Research Challenges in Energy Data Management? (panel).
+2008 Taxonomy-superimposed graph mining.
+2010 Probabilistic path queries in road networks: traffic uncertainty aware path selection.
+2016 Probabilistic Threshold Indexing for Uncertain Strings.
+2016 Finding Frequently Visited Indoor POIs Using Symbolic Indoor Tracking Data.
+2014 Clustering-based Multidimensional Sequence Data Anonymization.
+2008 Summary management in P2P systems.
+2008 Replay-based approaches to revision processing in stream query engines.
+2008 BITPEER: continuous subspace skyline computation with distributed bitmap indexes.
+2000 Spatio-Temporal Constraint Databases built on Object-Oriented Frameworks.
+2004 Content-Based Routing of Path Queries in Peer-to-Peer Systems.
+2012 Private-HERMES: a benchmark framework for privacy-preserving mobility data querying and mining methods.
+1992 Multiple Substitutability Without Affecting the Taxonomy.
+1994 Correctness of ISA Hierarchies in Object-Oriented Database Schemas.
+1988 Information System Design: An Expert System Approach.
+2000 Transaction Management on Replicated Data.
+2016 OAPT: A Tool for Ontology Analysis and Partitioning.
+2002 An Introduction to the e-XML Data Integration Suite.
+1990 Abstract Machine for LDL.
+2017 Entity Matching on Web Tables: a Table Embeddings approach for Blocking.
+2014 Proceedings of the 17th International Conference on Extending Database Technology, EDBT 2014, Athens, Greece, March 24-28, 2014.
+2010 Advanced knowledge discovery on movement data with the GeoPKDD system.
+2008 Self-organizing strategies for a column-store database.
+2010 Querying trajectories using flexible patterns.
+2012 Leveraging gamification in demand dispatch systems.
+2013 SWAT: a lightweight load balancing method for multitenant databases.
+2002 Uncertain Information in Data Integration.
+2004 DBDC: Density Based Distributed Clustering.
+2011 Energy proportionality for disk storage using replication.
+2014 Projected Clustering for Huge Data Sets in MapReduce.
+2016 Storing and Analyzing Historical Graph Data at Scale.
+2013 A trustworthy database for privacy-preserving video surveillance.
+2013 Enhanced stream processing in a DBMS kernel.
+1998 Complex Aggregation at Multiple Granularities.
+2017 Buddy Instance - A Mechanism for Increasing Availability in Shared-Disk Clusters.
+2009 On rewriting XPath queries using views.
+1992 A View Mechanism for Object-Oriented Databases.
+2015 Proceedings of the 18th International Conference on Extending Database Technology, EDBT 2015, Brussels, Belgium, March 23-27, 2015.
+1990 Integrating Concurrency Control into an Object-Oriented Database System.
+2009 G-hash: towards fast kernel-based similarity search in large graph databases.
+2015 Complex Event Processing Under Uncertainty: A Short Survey.
+2013 History repeats itself: sensible and NonsenSQL aspects of the NoSQL hoopla.
+2015 On Debugging Non-Answers in Keyword Search Systems.
+2008 Continuous multi-way joins over distributed hash tables.
+2015 Efficient Processing of Hamming-Distance-Based Similarity-Search Queries Over MapReduce.
+2010 k-symmetry model for identity anonymization in social networks.
+2015 Identifying Converging Pairs of Nodes on a Budget.
+2014 Spatial Data Management Challenges in the Simulation Sciences.
+2008 Distributed privacy preserving k-means clustering with additive secret sharing.
+2011 Efficient answering of set containment queries for skewed item distributions.
+2011 Data integration with dependent sources.
+2008 The TELAR mobile mashup platform for Nokia internet tablets.
+2013 PROV-O provenance traces from agent-based social simulation.
+2009 PROUD: a probabilistic approach to processing similarity queries over uncertain data streams.
+2000 Plug&Join: An easy-to-use Generic Algorithm for Efficiently Processing Equi and Non-Equi Joins.
+2014 R2G: a Tool for Migrating Relations to Graphs.
+2011 Caching query-biased snippets for efficient retrieval.
+2008 iDataGuard: middleware providing a secure network drive interface to untrusted internet data storage.
+2002 Profit Mining: From Patterns to Actions.
+2002 Dynamic Queries over Mobile Objects.
+2009 Continuous probabilistic nearest-neighbor queries for uncertain trajectories.
+2002 OoS-Driven Load Shedding on Data Streams.
+2015 Latent Fault Detection With Unbalanced Workloads.
+1988 ESPRIT: Trends & Challenges in DB Technology.
+2002 The Geometry of Uncertainty in Moving Objects Databases.
+2015 Graph Data Exchange with Target Constraints.
+2014 A Hybrid Approach for Privacy-preserving Record Linkage.
+2009 Parsimonious temporal aggregation.
+2013 An efficient layout method for a large collection of geographic data entries.
+2004 Processing Data-Stream Join Aggregates Using Skimmed Sketches.
+2006 Finding Data Broadness Via Generalized Nearest Neighbors.
+2011 Keyword-based, context-aware selection of natural language query patterns.
+2002 EDBT 2002 Ph.D. Workshop, Prague, Czech Republic, March 28, Proceedings
+2017 Fairness and Transparency in Crowdsourcing.
+2016 Optimization of Complex SPARQL Analytical Queries.
+2009 MarcoPolo: a community system for sharing and integrating travel information on maps.
+2013 Improving geo-spatial linked data with the wisdom of the crowds.
+2006 On Concurrency Control in Sliding Window Queries over Data Streams.
+2014 An Event-Driven Approach for Querying Graph-Structured Data Using Natural Language.
+2010 An execution environment for C-SPARQL queries.
+2013 Optimized renewable energy forecasting in local distribution networks.
+2016 RPM: Representative Pattern Mining for Efficient Time Series Classification.
+2014 WePIGE: The WebLab Provenance Information Generator and Explorer.
+2010 Efficient physical operators for cost-based XPath execution.
+2016 Data Wrangling for Big Data: Challenges and Opportunities.
+2016 Providing Serializability for Pregel-like Graph Processing Systems.
+2017 Querying Improvement Strategies.
+2004 Spatiotemporal Compression Techniques for Moving Point Objects.
+1988 VAR-PAGE-LRU A Buffer Replacement Algorithm Supporting Different Page Sizes.
+2002 Estimating Answer Sizes for XML Queries.
+2011 PCTA: privacy-constrained clustering-based transaction data anonymization.
+2004 GRIDS, Databases, and Information Systems Engineering Research.
+2016 Looking for the Best Historical Window for Assessing Semantic Similarity Using Human Literature.
+1988 O2, an Object-Oriented Data Model.
+2017 Insights into the Comparative Evaluation of Lightweight Data Compression Algorithms.
+2011 On (not) indexing quadratic form distance by metric access methods.
+1994 Optimizing Storage of Objects on Mass Storage Systems with Robotic Devies.
+2012 Effectively indexing the multi-dimensional uncertain objects for range searching.
+2010 EDBT 2010, 13th International Conference on Extending Database Technology, Lausanne, Switzerland, March 22-26, 2010, Proceedings
+2014 Distributed Spatial Keyword Querying on Road Networks.
+2014 Privacy-Preserving Query Execution using a Decentralized Architecture and Tamper Resistant Hardware.
+2008 Exact and inexact methods for selecting views and indexes for OLAP performance improvement.
+2016 Double Chain-Star: an RDF indexing scheme for fast processing of SPARQL joins.
+2013 Efficient multifaceted screening of job applicants.
+2015 A Generic Solution to Integrate SQL and Analytics for Big Data.
+2010 Stream schema: providing and exploiting static metadata for data stream processing.
+2015 Using Object-Awareness to Optimize Join Processing in the SAP HANA Aggregate Cache.
+2012 A differentially private estimator for the stochastic Kronecker graph model.
+1992 The Manchester Multimedia Information System.
+2013 Extracting PROV provenance traces from Wikipedia history pages.
+2012 Integrating historical noisy answers for improving data utility under differential privacy.
+1996 Dynamic Development and Refinement of HyperMedia Documents.
+1988 Types for Data-Oriented Languages.
+2009 GADDI: distance index based subgraph matching in biological networks.
+2000 Navigation-Driven Evaluation of Virtual Mediated Views.
+2014 On the Suitability of Skyline Queries for Data Exploration.
+2015 Optimizing Reformulation-based Query Answering in RDF.
+2002 XQuery by the Book: The IPSI XQuery Demonstrator.
+2009 A query processor for prediction-based monitoring of data streams.
+2014 Large-scale Semantic Profile Extraction.
+2009 Finding frequent co-occurring terms in relational keyword search.
+2011 Dr. Crowdsource: or how i learned to stop worrying and love web data.
+2017 Parallel and Distributed Processing of Spatial Preference Queries using Keywords.
+2013 Temporal query processing in Teradata.
+2011 Queries on dates: fast yet not blind.
+2009 Evaluating very large datalog queries on social networks.
+2015 Declarative Query Processing in Imperative Managed Runtimes.
+2008 Probabilistic ranked queries in uncertain databases.
+2010 Aggregation of asynchronous electric power consumption time series knowing the integral.
+2013 Selectivity estimation for hybrid queries over text-rich data graphs.
+2008 Dealing with P2P semantic heterogeneity through query expansion and interpretation.
+2015 Graph Search of Software Models Using Multidimensional Scaling.
+2012 VAST-Tree: a vector-advanced and compressed structure for massive data tree traversal.
+2011 An overview of the HDF5 technology suite and its applications.
+2004 t-Synopses: A System for Run-Time Management of Remote Synopses.
+2013 CINEMA: conformity-aware greedy algorithm for influence maximization in online social networks.
+2004 Management of Highly Dynamic Multidimensional Data in a Cluster of Workstations.
+2006 STRIDER: A Versatile System for Structural Disambiguation.
+2010 Suggestion of promising result types for XML keyword search.
+2017 A Probabilistic Framework for Estimating Pairwise Distances Through Crowdsourcing.
+2014 Data Anonymization: The Challenge from Theory to Practice.
+1992 Efficient Locking and Caching of Data in the Multisystem Shard Disks Transaction Environment.
+1994 Tabu Search Optimization of Large Join Queries.
+2002 Advance Database Aggregation Query Processing.
+1996 Exploiting Persistent Intermediate Code Representations in Open Database Environments.
+2004 QuaSAQ: An Approach to Enabling End-to-End QoS for Multimedia Databases.
+2010 DEDUCE: at the intersection of MapReduce and stream processing.
+2002 Composition of Mining Contexts for Efficient Extraction of Association Rules.
+2000 Concurrency Control in Real-Time Database Systems.
+2004 On Indexing Sliding Windows over Online Data Streams.
+2008 Database Servers Tailored to Improve Energy Efficiency.
+2006 Managing and Querying Versions of Multiversion Data Warehouse.
+2013 Enhancing and abstracting scientific workflow provenance for data publishing.
+2013 Secure multiparty aggregation with differential privacy: a comparative study.
+2009 Continuous privacy preserving publishing of data streams.
+1990 The HyperModel Benchmark.
+2000 Temporal View Self-Maintenance.
+2010 The Data Cyclotron query processing scheme.
+2008 OrthoCluster: a new tool for mining synteny blocks and applications in comparative genomics.
+2009 Supporting annotations on relations.
+2013 Capturing and querying workflow runtime provenance with PROV: a practical approach.
+2008 Proceedings of the 2008 International Workshop on Scalable Stream Processing System, SSPS 2008, Nantes, France, March 29, 2008
+2012 Adaptive MapReduce using situation-aware mappers.
+2013 Towards design support for provenance awareness: a classification of provenance questions.
+2009 Top-<i>k</i> dominant web services under multi-criteria matching.
+2017 Secondary Indexing Techniques for Key-Value Stores: Two Rings To Rule Them All.
+2014 Learning Event Patterns for Gesture Detection.
+2002 A Systematic Approach to Selecting Maintenance Policies in a Data Warehouse Environment.
+2017 VAT: A System for Data-Driven Biodiversity Research.
+2000 Slim-Trees: High Performance Metric Trees Minimizing Overlap Between Nodes.
+2011 Aspect-oriented relational algebra.
+2004 Advances in Database Technology - EDBT 2004, 9th International Conference on Extending Database Technology, Heraklion, Crete, Greece, March 14-18, 2004, Proceedings
+2014 Heterogeneous Stream Processing and Crowdsourcing for Urban Traffic Management.
+2006 Resource Adaptive Periodicity Estimation of Streaming Data.
+2017 Big Data Management Challenges in SUPERSEDE.
+2014 Reachability Queries in Very Large Graphs: A Fast Refined Online Search Approach.
+2017 Challenges for Industrial-Strength Information Retrieval on Databases.
+2013 A similarity measure for approximate querying over RDF data.
+1988 Multi-Level Transaction Management, Theoretical Art or Practical Need ?
+2011 Proceedings of the 2011 Joint EDBT/ICDT Ph.D. Workshop, Uppsala, Sweden, March 25, 2011
+2008 Dynamic skyline queries in metric spaces.
+2013 Trie-based similarity search and join.
+2014 Sensing Urban Soundscapes.
+2002 ST<sub>Y</sub>X: Connecting the XML Web to the World of Semantics.
+2010 Trustworthy vacuuming and litigation holds in long-term high-integrity records retention.
+2013 Scalable top-k spatial keyword search.
+2014 Contender: A Resource Modeling Approach for Concurrent Query Performance Prediction.
+2004 Spatial Data Server for Mobile Environment.
+2000 An Architecture for Management of Large, Distributed, Scientific Data Using SQL/MED and XML.
+2009 Schema-conscious filtering of XML documents.
+2010 Finding misplaced items in retail by clustering RFID data.
+2017 Bigg Data Management Challenges and Solutions in the Context of European Projects - Workshop Introduction.
+2013 Mining irregularities in maritime container itineraries.
+2017 Implementation and Evaluation of Genome Type Processing for Disease-Causal Gene Studies on DBMS.
+2002 Approximate Processing of Multiway Spatial Joins in Very Large Databases.
+2011 SPRINT: ranking search results by paths.
+2017 Big Data Management and Analytics for Mobility Forecasting in datAcron.
+1994 A Rule-Based Approach for the Design and Implementation of Information Systems.
+2006 Multi-dimensional Aggregation for Temporal Data.
+2002 Hyperdatabases: Infrastructure for the Information Space.
+2002 Impact and Potential of User Profiles Used for Distributed Query Processing Based on Literature Services.
+2002 Divide-and-Conquer Algorithm for Computing Set Containment Joins.
+2016 A Distributed Implementation of GXPath.
+2010 Optimizing joins in a map-reduce environment.
+2009 Detecting privacy violations in database publishing using disjoint queries.
+2013 WallBreaker: overcoming the wall effect in similarity search.
+2012 PeerTrack: a platform for tracking and tracing objects in large-scale traceability networks.
+2002 Querying with Intrinsic Preferences.
+1994 Subsumption between Queries to Object-Oriented Databases.
+2016 PageRank Revisited: On the Relationship between Node Degrees and Node Significances in Different Applications.
+2014 Interactive Inference of Join Queries.
+2017 Data-driven Schema Normalization.
+2009 Finding the influence set through skylines.
+2008 The TS-tree: efficient time series search and retrieval.
+2011 Big data and cloud computing: current state and future opportunities.
+2015 Joins for Hybrid Warehouses: Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses.

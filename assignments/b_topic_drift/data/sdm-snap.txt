@@ -1,0 +1,6 @@
+2003 On using Page Cooccurrences for Computing Clickstream Similarity.
+2003 Feature Mining Paradigms for Scientific Data.
+2002 Shared Memory Paraellization of Data Mining Algorithms: Techniques, Programming Interface, and Performance.
+2002 MedMeSH Summarizer: Text Mining for Gene Clusters.
+2002 Evaluating the Performance of Association Mining Methods in 3-D Medical Image Databases.
+2003 A New Gravitational Clustering Algorithm.

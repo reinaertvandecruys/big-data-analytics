@@ -1,0 +1,25 @@
+2002 Mining Significant Associations in Large Scale Text Corpora.
+2002 An Algebraic Approach to Data Mining: Some Examples.
+2002 Intersection Based Generalization Rules for the Analysis of Symbolic Septic Shock Patient Data.
+2002 Linear Causal Model Discovery Using the MML criterion.
+2001 Evolutionary Structure Learning Algorithm for Bayesian Network and Penalized Mutual Information Metric.
+2001 Anchor Text Mining for Translation of Web Queries.
+2001 An Efficient Fuzzy C-Means Clustering Algorithm.
+2001 Distance Measures for Effective Clustering of ARIMA Time-Series.
+2002 Multivariate supervised discretization, a neighborhood graph approach.
+2002 Mining Genes in DNA Using GeneScout.
+2002 Using Text Mining to Infer Semantic Attributes for Retail Data Mining.
+2002 FD_Mine: Discovering Functional Dependencies in a Database Using Equivalences.
+2002 Cluster merging and splitting in hierarchical clustering algorithms.
+2001 FARM: A Framework for Exploring Mining Spaces with Multiple Attributes.
+2002 Empirical Comparison of Various Reinforcement Learning Strategies for Sequential Targeted Marketing.
+2001 Measuring Real-Time Predictive Models.
+2002 Mining Surveillance Video for Independent Motion Detection.
+2001 Indiscernibility Degree of Objects for Evaluating Simplicity of Knowledge in the Clustering Procedure.
+2001 The Representative Basis for Association Rules.
+2002 Mining Generalized Association Rules Using Pruning Techniques.
+2002 A Lazy Approach to Pruning Classification Rules.
+2001 Automatic Topic Identification Using Webpage Clustering.
+2001 Document Clustering and Cluster Topic Extraction in Multilingual Corpora.
+2002 Mixtures of ARMA Models for Model-Based Time Series Clustering.
+2002 Exploring the Parameter State Space of Stacking.

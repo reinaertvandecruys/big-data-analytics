@@ -1,0 +1,191 @@
+1979 Proceedings of the 1979 ACM SIGMOD International Conference on Management of Data, Boston, Massachusetts, May 30 - June 1.
+1999 SIGMOD 1999, Proceedings ACM SIGMOD International Conference on Management of Data, June 1-3, 1999, Philadelphia, Pennsylvania, USA.
+1991 Space Optimization in the Bottom-Up Evaluation of Logic Programs.
+1997 Efficiently Supporting Ad Hoc Queries in Large Datasets of Time Sequences.
+1993 Interpreting a Reconstructed Relational Calculus (Extended Abstract).
+1999 TAM: A System for Dynamic Transactional Activity Management.
+1987 A Population Analysis for Hierarchical Data Structures.
+1998 Simultaneous Optimization and Evaluation of Multiple Dimensional Queries.
+2000 Congressional Samples for Approximate Answering of Group-By Queries.
+1998 Transactional Publish / Subscribe: The Proactive Multicast of Database Changes.
+1996 Random I/O Scheduling in Online Tertiary Storage Systems.
+1971 A Database Sublanguage Founded on the Relational Calculus.
+2000 Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey.
+1991 Effective Clustering of Complex Objects in Object-Oriented Databases.
+1994 Distributed File Organization with Scalable Cost/Performance.
+2002 An ebXML infrastructure implementation through UDDI registries and RosettaNet PIPs.
+1975 Data Description for Computer-Aided Design.
+1994 ARIES/CSA: A Method for Database Recovery in Client-Server Architectures.
+1972 File Structures and Access Methods for a Geographic Information Retrieval System.
+1981 Modelling Summary Data.
+2000 XMILL: An Efficient Compressor for XML Data.
+1995 Incremental Maintenance of Views with Duplicates.
+1980 Data Structuring and Indexing for Data Base Machines.
+1994 Fine-Grained Sharing in a Page Server OODBMS.
+1998 FileNet Integrated Document Management Database Usage and Issues.
+1980 Design, Specification and Application.
+1997 The STRIP Rule System For Efficiently Maintaining Derived Data.
+1983 Relational DBMS Development: An Incremental Approach.
+2003 Dynamic XML documents with distribution and replication.
+1995 A Critique of ANSI SQL Isolation Levels.
+1997 Database Buffer Size Investigation for OLTP Workloads (Experience Paper).
+1995 Enhancing Database Correctness: a Statistical Approach.
+1994 Spatial Joins Using Seeded Trees.
+1991 Replica Control in Distributed Systems: An Asynchronous Approach.
+1998 "Data In Your Face": Push Technology in Perspective.
+1999 A Comparison of Selectivity Estimators for Range Queries on Metric Attributes.
+1983 On the Design of a Query Processing Strategy in a Distributed Database Environment.
+1994 Red Brick Warehouse: A Read-Mostly RDBMS for Open SMP Platforms.
+1992 A Transformation-Based Approach to Optimizing Loops in Database Programming Languages.
+1990 Write-Only Disk Caches.
+1991 Trait: An Attribute Management System for VLSI Design Objects.
+1987 Thoughts on Database Research: A User Perspective.
+2003 PIX: Exact and Approximate Phrase Matching in XML.
+2002 Skew handling techniques in sort-merge join.
+1993 Algorithms for Loading Parallel Grid Files.
+2001 Models and Languages for Describing and Discovering E-Services.
+1990 "The Committee for Advanced DBMS Function": Third Generation Data Base System Manifesto.
+1989 On Accessing Object-Oriented Databases: Expressive Power, Complexity, and Restrictions (Extended Abstract).
+1986 Load Balancing in a Locally Distributed Database System.
+2000 From Browsing to Interacting: DBMS Support for Responive Websites (Abstract).
+1987 Sagas.
+1989 ODE (Object Database and Environment): The Language and the Data Model.
+2000 Privacy-Preserving Data Mining.
+1986 Efficiently Updating Materialized Views.
+1983 Vdd - A VLSI Design Database System.
+2002 TPC-DS, taking decision support benchmarking to the next level.
+1985 Models for Studying Concurrency Control Performance: Alternatives and Implications.
+1999 DOMINO: Databases fOr MovINg Objects tracking.
+1977 IAM: An Inferential Abstract Modeling Approach to Design of Conceptual Schema.
+2003 SOCQET: Semantic OLAP with Compressed Cube and Summarization.
+1991 An Optimistic Commit Protocol for Distributed Transaction Management.
+1999 Hypertext Databases and Data Mining.
+1992 Query Optimization for Parallel Execution.
+1985 Signature files: Design and Performance Comparison of Some Signature Extraction Methods.
+1995 Indexing Multimedia Databases (Tutorial).
+2002 Executing SQL over encrypted data in the database-service-provider model.
+1990 Querying Database Knowledge.
+2000 Expressing Business Rules.
+1995 VERSANT Replication: Supporting Fault-Tolerant Object Databases.
+1988 High Performance SQL Through Low-Level System Integration.
+1991 Efficient Assembly of Complex Objects.
+1993 Persistence Software: Bridging Object-Oriented Programming and Relational Databases.
+1975 Data Base Decomposition in a Hierarchical Computer System.
+1992 Improving Fault Tolerance and Supporting Partial Writes in Structured Coterie Protocols for Replicated Objects.
+2000 Towards Self-Tuning Data Placement in Parallel Database Systems.
+1977 Title, Organization, Conference Chairman's Message, Table of Contents.
+1996 Materialized View Maintenance and Integrity Constraint Checking: Trading Space for Time.
+1996 The Dangers of Replication and a Solution.
+2003 Warping Indexes with Envelope Transforms for Query by Humming.
+2001 Data-Driven Understanding and Refinement of Schema Mappings.
+1972 Implications of Data Independence on Architecture of Database Management Systems.
+1997 Building a Scaleable Geo-Spatial DBMS: Technology, Implementation, and Evaluation.
+2003 Transparent Mid-Tier Database Caching in SQL Server.
+1998 Memory Management During Run Generation in External Sorting.
+1992 A Concurrency Model for Transaction Management.
+1996 The Ins and Outs (and Everthing in Between) of Data Warehousing.
+1997 Partitioned Garbage Collection of Large Object Store.
+1993 Open DECdtm: Constraint Based Transaction Management.
+1997 Association Rules over Interval Data.
+1987 A Rule-Based View of Query Optimization.
+1992 USD - A Database Management System for Scientific Research.
+1999 Efficient Concurrency Control for Broadcast Environments.
+2001 Mining Needle in a Haystack: Classifying Rare Classes via Two-phase Rule Induction.
+2003 Visionary: A Next Generation Visualization System for Databases.
+1974 A Functional View of Data Independence.
+1993 Incremental Database Systems: Databases from Ground Up.
+1999 A User-Centered Interface for Querying Distributed Multimedia Databases.
+1984 An Empirical Comparison of B-Trees, Compact B-Trees and Multiway Trees.
+1985 A Transaction Model Supporting Complex Applications in Integrated Information Systems.
+1979 Testing Implications of Data Dependencies (Abstract).
+1983 Windows on the World.
+1977 A Comparison of Sequential and Associate Computing of Priority Queues.
+2001 Epsilon Grid Order: An Algorithm for the Similarity Join on Massive High-Dimensional Data.
+1985 Time Modeling in Office Information Systems.
+1981 The K-D-B-Tree: A Search Structure For Large Multidimensional Dynamic Indexes.
+1993 Local Verification of Global Integrity Constraints in Distributed Databases.
+1972 Concepts of a Data Independent Accessing Model.
+2001 Modeling High-Dimensional Index Structures using Sampling.
+1995 Efendi: Federated Database System of Cadlab.
+1986 A Formal View Integration Method.
+1991 Fully Persistent B+-trees.
+1999 Storing Semistructured Data with STORED.
+1995 OFL: A Functional Execution Model for Object Query Languages.
+1980 Entity-Relationship Approach to the Conceptual Schema Design.
+1992 Access Method Concurrency with Recovery.
+1987 Storage Reclamation in Object Oriented Database Systems.
+1997 SEMCOG: An Object-based Image Retrieval System and Its Visual Query Interface.
+1996 Structures for Manipulating Proposed Updates in Object-Oriented Databases.
+1987 The Design of ¬1NF Relational Databases into Nested Normal Form.
+1978 A Procedure for the Determination of Attribute Access Probabilities.
+1979 Data Abstractions, Views and Updates in RIGEL.
+1988 Partition Semantics for Incomplete Information in Relational Databases.
+1980 Integrating a Network-Structured Database Into an Object-Oriented Programming Language.
+2002 A Monte Carlo algorithm for fast projective clustering.
+1983 On Merging Partitioned Databases.
+1995 Adaptive Parallel Aggregation Algorithms.
+2001 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach.
+1990 IDLOG: Extending the Expressive Power of Deductive Database Languages.
+1975 A Preliminary System for the Design of DBTG Data Structures (Abstract).
+1991 MMDB Reload Algorithms.
+1978 A Multiprocessing System for the Direct Execution of LISP.
+1996 Data Mining Using Two-Dimensional Optimized Accociation Rules: Scheme, Algorithms, and Visualization.
+1975 CONVERT: A High Level Translation Definition Language for Data Conversion (Abstract).
+1970 Informal Definitions for the Development of a Storage Structure Definition Language.
+1972 Some Current Issues in Data Description.
+1994 Multi-Step Processing of Spatial Joins.
+2003 Data Management Challenges in CRM.
+1982 Query Processing for Distributed Databases Using Generalized Semi-Joins.
+1977 PICASSO - An Aid to an End-User Facility.
+1999 OPTICS: Ordering Points To Identify the Clustering Structure.
+1992 The Sybase Open Server.
+1977 The Architecture of a Database Computer - A Summary.
+2001 Orthogonal Optimization of Subqueries and Aggregation.
+1974 Architecture to An Interactive Migration System (AIMS).
+1974 A Study of Order Transformations of Hierarchical Structures in IMS Data Base.
+1979 Design of Relational Views over Network Schemas.
+2002 Gigascope: high performance network monitoring with an SQL interface.
+1993 Information Organization Using Rufus.
+1995 Upsizing from File Server to Clent Server Architectures.
+1976 Retrieval Using Ordered Lists in Inverted and Multilist Files.
+1997 Delaunay: A Database Visualization System.
+1975 Distribution-Dependent Hashing Functions and Their Characteristics.
+2003 XPRESS: A Queriable Compression for XML Data.
+1999 E-Commerce Database Issues and Experience.
+1975 Individual Data Bases for Circuit Design.
+1983 A Data Base Design Methodology for an Integrated Data Base Environment.
+1982 Horizontal Data Partitioning in Database Design.
+1999 World Wide Database - Integrating the Web, CORBA, and Databases.
+1970 Restructuring (Intra-System) (pre-discussion summary).
+1988 Semantics Based Transaction Management Techniques for Replicated Data.
+1986 User Interfaces and Database Management Systems.
+2000 MOCHA: A Database Middleware System Featuring Automatic Deployment of Application-Specific Functionality.
+2002 Tutorial: application servers and associated technologies.
+1995 Balancing Histogram Optimality and Practicality for Query Result Size Estimation.
+1991 Performance of B-Tree Concurrency Algorithms.
+1988 Hashing in Practive, Analysis of Hashing and Universal Hashing.
+1980 Data Abstraction, Data Bases and Conceptual Modelling.
+2002 COUGAR: the network is the database.
+1970 Data Validation (pre-discussion summary).
+1996 SONAR: System for Optimized Numeric AssociationRules.
+1978 Coordinating Concurrent Access in a Distributed Database Architecture.
+1984 R-Trees: A Dynamic Index Structure for Spatial Searching.
+1975 Finding Candidate Keys for Relational Data Bases.
+1980 Some Contrasts and Considerations of an Approach to Modelling.
+1975 Data Base Structures - Present and Future.
+1992 Parallel R-trees.
+1997 Scalable Parallel Data Mining for Association Rules.
+1980 APCAM (A Practical Cellular Associative Memory).
+1992 Access to Data in NASA's Earth Observing System.
+1974 Restart and Recovery in a Transaction-Oriented Information Processing System.
+1995 DataMine - Interactive Rule Discovery System.
+1997 Wave-Indices: Indexing Evolving Databases.
+1997 The BUCKY Object-Relational Benchmark (Experience Paper).
+2002 Mining database structure; or, how to build a data quality browser.
+1970 Storage Structure Definition Language Task Group: Design Objectives for a Storage Structure Definition Language (SSDL).
+1993 An InterBase System at BNR.
+1995 Keynote Address.
+1999 An XML-based Wrapper Generator for Web Information Extraction.
+1974 Data Base Contamination and Recovery.
+2003 Integration of Electronic Tickets and Personal Guide System for Public Transport using Mobile Terminals.
+2001 PBIR - Perception-Based Image Retrieval.

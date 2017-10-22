@@ -8,12 +8,12 @@ MONITOR_INTERVAL = 1.0
 
 
 class DBLP:
-    PATH = 'dblp.xml'
+    PATH = '_dblp/dblp.xml'
     SIZE = 5860030
 
 
 class DBLP_SNAP:
-    PATH = 'dblp-snap.xml'
+    PATH = '_dblp/dblp-snap.xml'
     SIZE = 50000
 
 

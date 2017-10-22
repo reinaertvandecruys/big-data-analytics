@@ -23,7 +23,11 @@ CONFERENCES = {
 
 DATA_DIR = 'b_topic_drift/data'
 
-NUM_CLUSTERS = 8
+NUM_CLUSTERS = 1
+
+FEATURE_THRESHOLD = 1/256
+
+MIN_RELATIVE_CLUSTER_SIZE = 0.05
 
 NGRAM_RANGE = (1, 6)
 
@@ -147,7 +151,7 @@ def analyze() -> None:
 
     feature_names = vectorizer.get_feature_names()
 
-    for year_range, titles in titles_per_year_range.items():
+    for year_range, titles in sorted(titles_per_year_range.items()):
         print('From %i to %i:' % (year_range[0], year_range[1]))
 
         tfidf_matrix = vectorizer.transform(titles)
@@ -169,14 +173,43 @@ def analyze() -> None:
                            for i in range(len(cluster_centers))], reverse=True)
 
         for cluster_size, cluster_center in clusters:
-            print('    %04.2f%% is clustered around:' %
-                  (cluster_size / len(titles) * 100))
+            relative_cluster_size = cluster_size / len(titles)
 
-            for value, name in cluster_center:
-                if value < 1/16:
+            if relative_cluster_size < MIN_RELATIVE_CLUSTER_SIZE:
+                break
+
+            features = []
+
+            for feature in cluster_center:
+                value, name = feature
+
+                if value < FEATURE_THRESHOLD:
                     break
 
-                print('        %.2f %s' % (value, name))
+                found = False
+
+                for j in range(len(features)):
+                    existing_feature = features[j]
+
+                    if ' ' + name in ' ' + existing_feature[1] and value <= existing_feature[0]:
+                        found = True
+                        break
+                    elif ' ' + existing_feature[1] in ' ' + name and value >= existing_feature[0]:
+                        features[j] = feature
+                        found = True
+                        break
+                
+                if not found:
+                    features.append(feature)
+
+            if len(features) == 0:
+                break
+            
+            print('    %04.2f%% is clustered around:' %
+                  (relative_cluster_size * 100))
+            
+            for feature in sorted(features, reverse=True):
+                print('        %.2f %s' % (feature[0], feature[1]))
 
 
 def main():

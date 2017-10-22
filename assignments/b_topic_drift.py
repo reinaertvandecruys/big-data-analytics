@@ -23,16 +23,7 @@ CONFERENCES = {
 
 DATA_DIR = 'b_topic_drift/data'
 
-NON_FEATURES = \
-    [str(i) for i in range(2100)] +\
-    ['0' + str(i) for i in range(10)] +\
-    [str(i) + 'th' for i in range(4, 100)] +\
-    [str(i) + 'st' for i in range(1, 100, 10)] +\
-    [str(i) + 'nd' for i in range(2, 100, 10)] +\
-    [str(i) + 'rd' for i in range(3, 100, 10)] +\
-    [str(i) + 'g' for i in range(100)] +\
-    [str(i) + 'x' for i in range(100, 1000, 100)] +\
-    ['000', '2b', '2d', '2bench', '2pcp', '3d', '3x', '8i']
+NUM_CLUSTERS = 8
 
 NGRAM_RANGE = (1, 6)
 
@@ -157,41 +148,55 @@ def analyze() -> None:
     feature_names = vectorizer.get_feature_names()
 
     for year_range, titles in titles_per_year_range.items():
-        print(year_range)
+        print('From %i to %i:' % (year_range[0], year_range[1]))
 
         tfidf_matrix = vectorizer.transform(titles)
 
-        k_means = KMeans(init='k-means++', n_clusters=10, n_init=10)
+        k_means = KMeans(init='k-means++', n_clusters=NUM_CLUSTERS, n_init=10)
         k_means.fit(tfidf_matrix)
+
+        cluster_sizes = [0] * NUM_CLUSTERS
+
+        for label in k_means.labels_:
+            cluster_sizes[label] += 1
 
         cluster_centers = [
             sorted([(cluster_center[i], feature_names[i])
                     for i in range(len(feature_names))], reverse=True)
             for cluster_center in k_means.cluster_centers_]
 
-        for cluster_center in cluster_centers:
-            num_found = 0
-            print(cluster_center[0])
-            continue
+        clusters = sorted([(cluster_sizes[i], cluster_centers[i])
+                           for i in range(len(cluster_centers))], reverse=True)
 
-            for feature in cluster_center:
-                if num_found > 0:
+        for cluster_size, cluster_center in clusters:
+            print('    %04.2f%% is clustered around:' %
+                  (cluster_size / len(titles) * 100))
+
+            for value, name in cluster_center:
+                if value < 1/16:
                     break
 
-                for word in feature[1].split():
-                    if word not in NON_FEATURES:
-                        print('    ' + str(feature))
-                        num_found += 1
-                        break
+                print('        %.2f %s' % (value, name))
 
 
 def main():
     if not os.path.exists(DATA_DIR):
         Parser().parse(silent=False)
 
-    for conference in CONFERENCES:
+    conferences = sorted(list(CONFERENCES))
+
+    for i in range(len(conferences)):
+        conference = conferences[i]
+
+        print('--------------------------------------------------------------------------------')
+        print(' %s (%i/%s)' % (conference, i + 1, len(conferences)))
+        print('--------------------------------------------------------------------------------')
+
         load(conference)
         analyze()
+
+        print()
+        print()
 
 
 main()

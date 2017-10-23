@@ -5,5 +5,604 @@ Jens Vannitsen - 1334039
 Reinaert Van de Cruys - 1334947
 
 
+- Sommige clusters zijn nogal onnozel (summary, table of contents, ...).
+- We zien overlap tussen clusters. Dingen die sterk voorkomen in één clustered
+  (0.27 storage structure definition) kunnen nog zwak voorkomen in andere clusters
+  (0.02 storage).
 
-................................................................................
+Jaren '60:
+    storage structure - language definition
+Jaren '70:
+Jaren '80:
+Jaren '90:
+Jaren '00:
+Jaren '10:
+
+--------------------------------------------------------------------------------
+ Database systems
+--------------------------------------------------------------------------------
+From 1958 to 1971:
+    13.73% is clustered around:
+        0.26 pre discussion summary
+        0.24 discussion
+        0.23 pre
+        0.22 summary
+        0.05 validation pre discussion
+        0.05 data validation pre
+        0.05 data bases pre
+        0.05 bases pre discussion
+        0.05 translation inter pre
+        0.05 inter pre discussion
+        0.05 data validation
+        0.05 restructuring intra pre
+        0.05 intra pre discussion
+        0.04 data base administrator
+        0.04 base administrator pre
+        0.04 administrator pre discussion
+        0.04 data
+        0.04 intra
+        0.04 inter
+        0.04 trade offs pre
+        0.04 storage processing trade
+        0.04 processing trade offs
+        0.04 offs pre discussion
+        0.04 text
+        0.04 restructuring
+        0.04 storage processing
+        0.04 validation
+        0.03 text structures text
+        0.03 text processing pre
+        0.03 structures text processing
+        0.03 processing pre discussion
+        0.03 description text structures
+        0.03 data description text
+        0.03 trade offs
+        0.03 large data bases
+        0.03 translation
+        0.03 text processing
+        0.03 trade
+        0.03 large data
+        0.03 data bases
+        0.03 processing
+        0.03 bases
+        0.03 data description
+        0.03 description
+        0.02 data base
+        0.02 base
+        0.02 large
+        0.02 storage
+        0.02 structures
+    9.80% is clustered around:
+        0.27 storage structure definition
+        0.25 storage structure
+        0.21 definition
+        0.20 structure definition language
+        0.20 definition language
+        0.17 structure
+        0.16 storage
+        0.11 language
+        0.09 codasyl
+        0.08 introduction storage structure
+        0.07 definition language ssdl
+        0.07 task group
+        0.06 introduction
+        0.06 language pre discussion
+        0.06 definition language pre
+        0.05 informal definitions development
+        0.05 development storage structure
+        0.05 definitions development storage
+        0.05 task
+        0.05 informal
+        0.05 group
+        0.05 pre discussion summary
+        0.05 definitions
+        0.04 discussion
+        0.04 task group codasyl
+        0.04 group codasyl committee
+        0.04 committee storage structure
+        0.04 codasyl task group
+        0.04 codasyl committee storage
+        0.04 pre
+        0.04 summary
+        0.04 development
+        0.03 committee
+        0.03 task group design
+        0.03 objectives storage structure
+        0.03 language task group
+        0.03 group design objectives
+        0.03 design objectives storage
+        0.03 definition language task
+        0.03 codasyl storage structure
+        0.03 objectives
+    5.88% is clustered around:
+        0.18 1971
+        0.17 acm sigfidet workshop
+        0.13 1971 acm sigfidet
+        0.12 acm
+        0.11 workshop
+        0.10 sigfidet workshop data
+        0.09 access
+        0.09 1970
+        0.09 workshop data description
+        0.09 november
+        0.09 data description access
+        0.08 workshop data
+        0.08 data description
+        0.08 overview 1971 acm
+        0.08 methods brief overview
+        0.08 brief overview 1971
+        0.08 access methods brief
+        0.08 brief overview
+        0.08 description
+        0.08 brief
+        0.06 access methods
+        0.06 overview
+        0.06 proceedings 1971 acm
+        0.06 november 11 12
+        0.06 diego california november
+        0.06 control san diego
+        0.06 california november 11
+        0.06 access control san
+        0.06 11 12 1971
+        0.05 methods
+        0.05 description access control
+        0.05 san diego california
+        0.05 san diego
+        0.05 usa second edition
+        0.05 university houston texas
+        0.05 texas usa second
+        0.05 second edition appendix
+        0.05 rice university houston
+        0.05 record 1970 acm
+        0.05 november 15 16
+        0.05 description access november
+        0.05 access november 15
+        0.05 1970 rice university
+        0.05 1970 acm sigfidet
+        0.05 16 1970 rice
+        0.05 15 16 1970
+        0.05 11
+        0.05 university
+        0.05 houston texas usa
+        0.04 texas usa
+        0.04 15 16
+        0.04 12
+        0.04 san
+        0.04 california
+        0.04 texas
+        0.04 edition
+        0.04 second
+        0.04 access control
+        0.04 15
+        0.04 16
+        0.03 record
+        0.03 control
+        0.03 usa
+        0.03 proceedings
+        0.03 data
+    3.92% is clustered around:
+        0.35 data definition
+        0.28 definition
+        0.25 data definition standardization
+        0.22 standardization
+        0.15 problems building hybrid
+        0.15 hybrid data definition
+        0.15 building hybrid data
+        0.15 data definition facility
+        0.14 definition facility
+        0.14 hybrid data
+        0.12 facility
+        0.11 problems
+        0.10 data
+        0.10 hybrid
+        0.10 building
+    3.92% is clustered around:
+        0.34 data privacy integrity
+        0.29 data privacy
+        0.23 integrity
+        0.21 privacy integrity overview
+        0.18 privacy
+        0.15 overview
+        0.14 requirements online data
+        0.14 privacy integrity requirements
+        0.14 online data management
+        0.14 integrity requirements online
+        0.12 data
+        0.12 online data
+        0.10 data management systems
+        0.10 requirements
+        0.09 management systems
+        0.08 online
+        0.07 data management
+        0.06 management
+        0.06 systems
+    3.92% is clustered around:
+        0.28 model access control
+        0.26 model access
+        0.22 access
+        0.19 access control
+        0.15 control
+        0.14 evaluation access authorization
+        0.14 derived data sets
+        0.14 characteristics derived data
+        0.14 authorization characteristics derived
+        0.14 access authorization characteristics
+        0.13 model
+        0.13 evaluation access
+        0.13 access authorization
+        0.12 derived data
+        0.11 characteristics
+        0.11 derived
+        0.11 authorization
+        0.10 data sets
+        0.09 sets
+        0.07 evaluation
+        0.03 data
+    3.92% is clustered around:
+        0.27 table contents
+        0.26 title
+        0.25 contents
+        0.23 table
+        0.17 workshop committee table
+        0.16 committee table contents
+        0.16 title foreword sponsors
+        0.16 sponsors table contents
+        0.16 foreword sponsors table
+        0.16 title workshop committee
+        0.15 sponsors
+        0.14 foreword
+        0.13 committee
+        0.11 workshop
+    3.92% is clustered around:
+        0.27 relational data base
+        0.23 relational data
+        0.19 data base
+        0.19 schema describing relational
+        0.19 describing relational data
+        0.19 base
+        0.17 describing
+        0.16 unacceptable file operations
+        0.16 operations relational data
+        0.16 file operations relational
+        0.15 relational
+        0.11 operations
+        0.10 schema
+        0.10 file
+        0.09 data
+    3.92% is clustered around:
+        0.26 data base task
+        0.26 base task group
+        0.24 task group
+        0.20 task
+        0.18 group
+        0.15 data base
+        0.15 base
+        0.15 task group pre
+        0.15 group pre discussion
+        0.13 task group report
+        0.13 april 1971 data
+        0.13 analysis april 1971
+        0.13 1971 data base
+        0.12 pre discussion summary
+        0.12 1971
+        0.11 discussion
+        0.11 pre
+        0.10 summary
+        0.09 report
+        0.09 april
+        0.07 data
+        0.06 analysis
+    3.92% is clustered around:
+        0.22 file
+        0.19 procedural approach file
+        0.19 approach file translation
+        0.18 procedural
+        0.17 updating random file
+        0.17 efficient batch updating
+        0.17 batch updating random
+        0.16 efficient batch
+        0.13 translation
+        0.13 batch
+        0.12 updating
+        0.12 random
+        0.09 approach
+        0.07 efficient
+From 1968 to 1981:
+    13.79% is clustered around:
+        0.03 data
+    9.19% is clustered around:
+        0.11 database
+        0.05 distributed
+        0.05 distributed database
+        0.05 systems
+        0.05 database systems
+        0.02 distributed database management
+        0.02 distributed database systems
+    8.32% is clustered around:
+        0.17 data base
+        0.17 base
+        0.08 data
+        0.05 base systems
+        0.04 data base systems
+        0.03 systems
+    5.96% is clustered around:
+        0.09 model
+        0.08 access
+        0.04 data
+        0.04 data model
+        0.03 control
+        0.02 independent accessing model
+        0.02 data independent accessing
+        0.02 independent
+        0.02 accessing
+    4.97% is clustered around:
+        0.16 design
+        0.09 data base
+        0.09 data base design
+        0.09 base
+        0.05 data
+        0.04 database design
+        0.03 base design tools
+        0.03 design tools
+        0.03 tools
+        0.03 methodology
+        0.03 database
+        0.02 design methodology
+        0.02 approach
+        0.02 logical
+        0.02 physical
+    4.10% is clustered around:
+        0.08 relations
+        0.07 functional
+        0.07 dependencies
+        0.04 approach
+        0.03 unified
+        0.03 multivalued
+        0.03 functional dependencies
+        0.02 mutual dependencies
+        0.02 mutual
+        0.02 data
+        0.02 multivalued dependencies
+        0.02 database
+    3.98% is clustered around:
+        0.22 data base management
+        0.21 base management
+        0.18 data base
+        0.17 base
+        0.13 management
+        0.08 base management systems
+        0.08 data
+        0.06 management systems
+        0.05 systems
+        0.03 issues
+        0.03 issues distributed data
+        0.03 issues distributed
+        0.03 software engineering view
+        0.03 engineering view data
+        0.03 distributed data base
+        0.03 view data base
+        0.03 view data
+        0.03 software engineering
+        0.02 engineering
+        0.02 systems technical overview
+        0.02 management systems technical
+        0.02 distributed data
+        0.02 technical
+        0.02 software
+        0.02 base management design
+    3.73% is clustered around:
+        0.13 bases
+        0.13 data bases
+        0.07 associative
+        0.05 data
+        0.04 mass storage
+        0.04 mass
+        0.04 storage
+        0.03 design
+        0.02 relational associative
+    3.48% is clustered around:
+        0.09 information
+        0.05 large
+        0.05 retrieval
+        0.05 data bases
+        0.04 bases
+        0.04 information retrieval
+        0.03 large statistical
+        0.03 information modeling
+        0.03 exchange information
+        0.02 geographic
+        0.02 statistical
+        0.02 large statistical databases
+        0.02 data
+        0.02 geographic data bases
+        0.02 exchange
+        0.02 files
+    3.48% is clustered around:
+        0.09 machine
+        0.08 relational
+        0.07 relational database
+        0.06 database
+        0.06 database machine
+        0.04 databases
+        0.04 relational databases
+        0.03 database machine architecture
+        0.02 machine architecture
+        0.02 lisp machine
+        0.02 madman machine
+        0.02 lisp
+        0.02 supporting relational databases
+        0.02 machine supporting relational
+        0.02 database machine supporting
+        0.02 machine supporting
+From 1978 to 1991:
+    5.98% is clustered around:
+        0.10 database
+        0.04 conceptual
+        0.04 modelling
+    5.64% is clustered around:
+        0.09 database systems
+        0.08 concurrency
+        0.08 systems
+        0.08 concurrency control
+        0.07 control
+        0.07 database
+        0.05 distributed database
+        0.05 distributed database systems
+        0.04 distributed
+    5.26% is clustered around:
+        0.07 performance
+        0.04 join
+        0.03 algorithms
+        0.03 performance evaluation
+        0.03 evaluation
+        0.03 environment
+        0.02 multiprocessor
+        0.02 database
+        0.02 parallel
+    4.73% is clustered around:
+        0.09 data
+        0.05 abstract
+        0.04 data bases
+        0.03 types
+        0.03 bases
+        0.03 data types
+        0.02 data engineering
+    4.26% is clustered around:
+        0.12 databases
+        0.05 distributed databases
+        0.04 locking
+        0.04 distributed
+        0.02 time databases
+        0.02 deductive databases
+        0.02 deductive
+    3.54% is clustered around:
+        0.07 dbms
+        0.06 integrity
+        0.05 constraints
+        0.04 codasyl
+        0.02 checking
+        0.02 database
+    3.44% is clustered around:
+        0.09 optimization
+        0.08 query
+        0.07 query optimization
+        0.05 architecture
+        0.03 semantic query
+        0.02 semantic query optimization
+        0.02 queries
+    3.35% is clustered around:
+        0.11 processing
+        0.08 query processing
+        0.07 distributed
+        0.06 query
+        0.04 distributed query
+        0.03 distributed query processing
+    3.35% is clustered around:
+        0.08 databases
+        0.08 relational databases
+        0.06 statistical
+        0.06 relational
+        0.06 interface
+        0.05 statistical databases
+        0.03 historical
+    3.11% is clustered around:
+        0.15 model
+        0.13 data model
+        0.06 data
+        0.04 semantic data
+        0.04 semantic
+        0.03 semantic data model
+    3.06% is clustered around:
+        0.10 language
+        0.05 office
+        0.05 support
+        0.03 query language
+        0.03 programming
+        0.03 database
+        0.02 programming language
+        0.02 query
+From 1988 to 2001:
+    11.43% is clustered around:
+        0.09 data
+        0.02 data mining
+    5.92% is clustered around:
+        0.12 databases
+        0.03 deductive databases
+        0.02 deductive
+        0.02 relational databases
+    4.62% is clustered around:
+        0.10 database
+        0.02 languages
+        0.02 interoperability
+        0.02 multi
+    3.97% is clustered around:
+        0.08 optimization
+        0.08 database systems
+        0.07 systems
+        0.06 query optimization
+        0.06 database
+        0.04 query
+    3.82% is clustered around:
+        0.08 performance
+        0.05 high
+        0.04 indexing
+        0.03 high performance
+    3.46% is clustered around:
+        0.10 information
+        0.06 systems
+        0.03 information systems
+    3.29% is clustered around:
+        0.16 object oriented
+        0.15 oriented
+        0.15 object
+        0.10 object oriented database
+        0.10 oriented database
+        0.06 database
+        0.03 oriented database systems
+        0.02 database systems
+        0.02 systems
+From 1998 to 2011:
+    8.03% is clustered around:
+        0.08 data
+        0.03 management
+        0.02 data management
+    5.14% is clustered around:
+        0.15 xml
+        0.03 xml data
+    5.04% is clustered around:
+        0.12 queries
+    4.24% is clustered around:
+        0.10 database
+        0.02 tuning
+    3.90% is clustered around:
+        0.14 web
+        0.04 services
+        0.03 web services
+    3.77% is clustered around:
+        0.11 databases
+        0.03 relational databases
+        0.03 relational
+        0.02 keyword
+        0.02 sql
+        0.02 sql server
+        0.02 search
+    3.26% is clustered around:
+        0.12 streams
+        0.10 data streams
+        0.05 data
+        0.05 time series
+        0.05 series
+        0.04 time
+From 2008 to 2021:
+    7.74% is clustered around:
+        0.08 data
+    4.99% is clustered around:
+        0.07 based
+        0.04 mapreduce
+        0.03 entity
+    4.86% is clustered around:
+        0.08 efficient
+        0.03 databases
+    3.28% is clustered around:
+        0.15 graph
+        0.03 graph databases

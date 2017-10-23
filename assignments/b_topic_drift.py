@@ -21,11 +21,26 @@ CONFERENCES = {
     'icde',
 }
 
+TOPICS = {
+    'Data mining': {
+        'kdd',
+        'pkdd',
+        'icdm',
+        'sdm',
+    },
+    'Database systems': {
+        'sigmod',
+        'vldb',
+        'edbt',
+        'icde',
+    }
+}
+
 DATA_DIR = 'b_topic_drift/data'
 
-NUM_CLUSTERS = 1
+NUM_CLUSTERS = 16
 
-FEATURE_THRESHOLD = 1/256
+FEATURE_THRESHOLD = 0.03
 
 MIN_RELATIVE_CLUSTER_SIZE = 0.05
 
@@ -33,8 +48,8 @@ NGRAM_RANGE = (1, 6)
 
 DRIFT_INTERVAL = 10
 DRIFT_REFERENCE = 0
-DRIFT_FORWARD_OVERLAP = 0
-DRIFT_BACKWARD_OVERLAP = 0
+DRIFT_FORWARD_OVERLAP = 2
+DRIFT_BACKWARD_OVERLAP = 2
 
 
 def conference_to_file_path(conference: str, snap: bool) -> str:
@@ -117,22 +132,23 @@ def get_year_ranges(year):
     return sorted(year_ranges)
 
 
-def load(conference: str, snap: bool=False) -> None:
+def load(conferences: [], snap: bool=False) -> None:
     global all_titles, titles_per_year_range
 
-    with open(conference_to_file_path(conference, snap=snap)) as data_file:
-        for entry in data_file:
-            year, title = entry.split(' ', 1)
-            year = int(year)
-            year_ranges = get_year_ranges(year)
+    for conference in conferences:
+        with open(conference_to_file_path(conference, snap=snap)) as data_file:
+            for entry in data_file:
+                year, title = entry.split(' ', 1)
+                year = int(year)
+                year_ranges = get_year_ranges(year)
 
-            all_titles.append(title)
+                all_titles.append(title)
 
-            for year_range in year_ranges:
-                if year_range not in titles_per_year_range:
-                    titles_per_year_range[year_range] = []
+                for year_range in year_ranges:
+                    if year_range not in titles_per_year_range:
+                        titles_per_year_range[year_range] = []
 
-                titles_per_year_range[year_range].append(title)
+                    titles_per_year_range[year_range].append(title)
 
     all_titles = sorted(all_titles)
 
@@ -191,23 +207,23 @@ def analyze() -> None:
                 for j in range(len(features)):
                     existing_feature = features[j]
 
-                    if ' ' + name in ' ' + existing_feature[1] and value <= existing_feature[0]:
+                    if ' ' + name in ' ' + existing_feature[1] and value == existing_feature[0]:
                         found = True
                         break
-                    elif ' ' + existing_feature[1] in ' ' + name and value >= existing_feature[0]:
+                    elif ' ' + existing_feature[1] in ' ' + name and value == existing_feature[0]:
                         features[j] = feature
                         found = True
                         break
-                
+
                 if not found:
                     features.append(feature)
 
             if len(features) == 0:
-                break
-            
+                continue
+
             print('    %04.2f%% is clustered around:' %
                   (relative_cluster_size * 100))
-            
+
             for feature in sorted(features, reverse=True):
                 print('        %.2f %s' % (feature[0], feature[1]))
 
@@ -216,16 +232,12 @@ def main():
     if not os.path.exists(DATA_DIR):
         Parser().parse(silent=False)
 
-    conferences = sorted(list(CONFERENCES))
-
-    for i in range(len(conferences)):
-        conference = conferences[i]
-
+    for topic in ['Database systems']:#TOPICS:
         print('--------------------------------------------------------------------------------')
-        print(' %s (%i/%s)' % (conference, i + 1, len(conferences)))
+        print(' ' + topic)
         print('--------------------------------------------------------------------------------')
 
-        load(conference)
+        load(sorted(list(TOPICS[topic])))
         analyze()
 
         print()

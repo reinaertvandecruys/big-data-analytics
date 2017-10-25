@@ -1,120 +1,120 @@
-1 Abraham Silberschatz
-0 Alex Thomo
-0 Alexander Borgida
-0 Alexander Markowetz
-0 Allen Van Gelder
-0 Alon Y. Levy
-0 Amr El Abbadi
-0 Andrew Tomkins
-0 Arvind Arasu
-0 Banu Özden
-0 Bennet Vance
-0 Bernhard Seeger
-0 Brian Babcock
-0 C. Mohan
-0 Carlo Zaniolo
-0 Charles Elkan
-0 Charu C. Aggarwal
-0 Christine T. Cheng
-0 Christos H. Papadimitriou
-0 Chung-Min Chen
-0 D. Sivakumar
-0 Daniel P. Miranker
-0 David Harel
-0 David Maier
-1 Dennis Shasha
-1 Dimitrios Gunopulos
-0 Ding-An Chiang
-0 Divyakant Agrawal
-0 Domenico Saccà
-1 Don S. Batory
-0 Donald S. Fussell
-0 Donghui Zhang
-0 Doron Rotem
-0 Edward P. F. Chan
-0 Eli Upfal
-0 Eljas Soisalon-Soininen
-0 Emmanuel Waller
-0 Gabriel M. Kuper
-0 Gaston H. Gonnet
-0 Georg Gottlob
-0 Georg Lausen
-0 Gottfried Vossen
-0 Gultekin Özsoyoglu
-1 Gösta Grahne
-0 Hannu Toivonen
-0 Heikki Mannila
-0 Håkan Jakobsson
-0 Héctor J. Hernández
-0 Inderpal Singh Mumick
-0 James P. Delgrande
-1 Jan Chomicki
-0 Jeffrey D. Ullman
-0 Jennifer Widom
-0 John T. Robinson
-0 Jon McAlister
-0 Judith Klavans
-0 Jürgen Seib
-0 Kari-Jouko Räihä
-0 Kenneth A. Ross
-0 Kien A. Hua
-0 Kim S. Larsen
-1 Leonid Libkin
-0 Leopoldo E. Bertossi
-1 Li-Yan Yuan
-0 Luc Segoufin
-1 Marc H. Graham
-0 Marc Spielmann
-0 Marcelo Arenas
-1 Michael Benedikt
-0 Mihalis Yannakakis
-0 Minos N. Garofalakis
-2 Moshe Y. Vardi
-1 Nathan Goodman
-0 Nicole Bidoit
-0 Oded Shmueli
-2 Paris C. Kanellakis
-0 Patrick Lincoln
-0 Peter Buneman
-0 Pierangela Samarati
-0 Prabhakar Raghavan
-0 Rajan Suri
-0 Ravi Kumar
-0 Rodney W. Topor
-0 Roni Khardon
-0 Russell Greiner
-0 Sabrina De Capitani di Vimercati
-0 Sanjeev Khanna
-0 Seppo Sippu
-2 Serge Abiteboul
-0 Shaibal Roy
-0 Sheau-Dong Lang
-0 Shinichi Morishita
-0 Shivnath Babu
-0 Sridhar Rajagopalan
-0 Stavros S. Cosmadakis
-0 Steven Dawson
-0 Stéphane Grumbach
-0 Surajit Chaudhuri
-0 Thanasis Hadzilacos
-0 Theodore Johnson
-0 Thomas Eiter
-0 Tomasz Imielinski
-0 Tova Milo
-0 Udi Manber
-0 Udo Kelter
-0 Vasilis Samoladas
-0 Vassilis J. Tsotras
-0 Victor Matos
-1 Victor Vianu
-0 Volkert Brosda
-0 Wang Chiew Tan
-0 Wen K. Lee
-0 Witold Lipski Jr.
-0 Y. C. Tay
-0 Yannis E. Ioannidis
-0 Yaron Kanza
-0 Yatin P. Saraiya
-1 Yehoshua Sagiv
-0 Yoav Raz
-0 Z. Meral Özsoyoglu
+2 Abraham Silberschatz
+1 Alex Thomo
+1 Alexander Borgida
+1 Alexander Markowetz
+1 Allen Van Gelder
+1 Alon Y. Levy
+1 Amr El Abbadi
+1 Andrew Tomkins
+1 Arvind Arasu
+1 Banu Özden
+1 Bennet Vance
+1 Bernhard Seeger
+1 Brian Babcock
+1 C. Mohan
+1 Carlo Zaniolo
+1 Charles Elkan
+1 Charu C. Aggarwal
+1 Christine T. Cheng
+1 Christos H. Papadimitriou
+1 Chung-Min Chen
+1 D. Sivakumar
+1 Daniel P. Miranker
+1 David Harel
+1 David Maier
+2 Dennis Shasha
+2 Dimitrios Gunopulos
+1 Ding-An Chiang
+1 Divyakant Agrawal
+1 Domenico Saccà
+2 Don S. Batory
+1 Donald S. Fussell
+1 Donghui Zhang
+1 Doron Rotem
+1 Edward P. F. Chan
+1 Eli Upfal
+1 Eljas Soisalon-Soininen
+1 Emmanuel Waller
+1 Gabriel M. Kuper
+1 Gaston H. Gonnet
+1 Georg Gottlob
+1 Georg Lausen
+1 Gottfried Vossen
+1 Gultekin Özsoyoglu
+2 Gösta Grahne
+1 Hannu Toivonen
+1 Heikki Mannila
+1 Håkan Jakobsson
+1 Héctor J. Hernández
+1 Inderpal Singh Mumick
+1 James P. Delgrande
+2 Jan Chomicki
+1 Jeffrey D. Ullman
+1 Jennifer Widom
+1 John T. Robinson
+1 Jon McAlister
+1 Judith Klavans
+1 Jürgen Seib
+1 Kari-Jouko Räihä
+1 Kenneth A. Ross
+1 Kien A. Hua
+1 Kim S. Larsen
+2 Leonid Libkin
+1 Leopoldo E. Bertossi
+2 Li-Yan Yuan
+1 Luc Segoufin
+2 Marc H. Graham
+1 Marc Spielmann
+1 Marcelo Arenas
+2 Michael Benedikt
+1 Mihalis Yannakakis
+1 Minos N. Garofalakis
+3 Moshe Y. Vardi
+2 Nathan Goodman
+1 Nicole Bidoit
+1 Oded Shmueli
+3 Paris C. Kanellakis
+1 Patrick Lincoln
+1 Peter Buneman
+1 Pierangela Samarati
+1 Prabhakar Raghavan
+1 Rajan Suri
+1 Ravi Kumar
+1 Rodney W. Topor
+1 Roni Khardon
+1 Russell Greiner
+1 Sabrina De Capitani di Vimercati
+1 Sanjeev Khanna
+1 Seppo Sippu
+3 Serge Abiteboul
+1 Shaibal Roy
+1 Sheau-Dong Lang
+1 Shinichi Morishita
+1 Shivnath Babu
+1 Sridhar Rajagopalan
+1 Stavros S. Cosmadakis
+1 Steven Dawson
+1 Stéphane Grumbach
+1 Surajit Chaudhuri
+1 Thanasis Hadzilacos
+1 Theodore Johnson
+1 Thomas Eiter
+1 Tomasz Imielinski
+1 Tova Milo
+1 Udi Manber
+1 Udo Kelter
+1 Vasilis Samoladas
+1 Vassilis J. Tsotras
+1 Victor Matos
+2 Victor Vianu
+1 Volkert Brosda
+1 Wang Chiew Tan
+1 Wen K. Lee
+1 Witold Lipski Jr.
+1 Y. C. Tay
+1 Yannis E. Ioannidis
+1 Yaron Kanza
+1 Yatin P. Saraiya
+2 Yehoshua Sagiv
+1 Yoav Raz
+1 Z. Meral Özsoyoglu

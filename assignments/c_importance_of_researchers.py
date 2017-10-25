@@ -33,7 +33,7 @@ class Parser:
                     if author in authors:
                         authors[author] += 1
                     else:
-                        authors[author] = 0
+                        authors[author] = 1
 
             
 

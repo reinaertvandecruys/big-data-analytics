@@ -1,0 +1,1196 @@
+0 A. Mecchia
+0 A. Michael
+0 A. Pavan
+0 Aaron Bohannon
+0 Aaron Watters
+0 Abhay Kumar Jha
+0 Abhinandan Nath
+11 Abraham Silberschatz
+0 Ada Wai-Chee Fu
+0 Adam Kirsch
+0 Adam Meyerson
+0 Adam Sealfon
+0 Adrian Onet
+0 Adrian Segall
+0 Akshay Goel
+2 Alan Fekete
+0 Alan J. Demers
+4 Alan Nash
+0 Alban Galland
+0 Albert Atserias
+1 Alberto Marchetti-Spaccamela
+13 Alberto O. Mendelzon
+0 Aleksandar Nikolov
+2 Alessandro D'Atri
+0 Alessandro Panconesi
+0 Alessandro Tiberi
+0 Alessio Orlandi
+0 Alex Thomo
+0 Alexander Borgida
+2 Alexander Brodsky
+0 Alexander Markowetz
+0 Alexander Serebrenik
+1 Alexander Tuzhilin
+1 Alexandre V. Evfimievski
+0 Alexandros Biliris
+0 Alexandru Berlea
+1 Alexei P. Stolboushkin
+0 Alfred V. Aho
+0 Alfred Z. Spector
+0 Ali Moallemi
+0 Ali Saman Tosun
+0 Ali Vakilian
+5 Alin Deutsch
+0 Alin Dobra
+0 Allan Borodin
+6 Allen Van Gelder
+0 Almira Karabeg
+0 Alon Efrat
+2 Alon Y. Halevy
+8 Alon Y. Levy
+0 Amir M. Zarkesh
+2 Amit Kumar 0001
+0 Amnon Lotem
+1 Amol Deshpande
+7 Amr El Abbadi
+0 Amélie Gheerbrant
+0 An Zhu
+3 Anand Rajaraman
+0 Anand Ranganathan
+0 Anand Srinivasan
+0 Anant Jhingran
+1 Anca Muscholl
+1 Andrea Calì
+0 Andrea Pietracaprina
+0 Andreas Behrend
+4 Andreas Pieris
+0 Andreas Reuter 0001
+1 Andrei Voronkov
+7 Andrew McGregor 0001
+3 Andrew Tomkins
+0 András Z. Salamon
+3 André Hernich
+0 Andrés Letelier
+0 Angela Bonifati
+0 Anil Nerode
+0 Anil Nigam
+0 Anirban Dasgupta 0001
+0 Anirban Majumder
+0 Ankur Gupta 0003
+0 Anna C. Gilbert
+0 Anna Pagh
+0 Anne Condon
+0 Anthony C. Klug
+3 Anthony J. Bonner
+1 Antoine Amarilli
+0 Antonella Pelaggi
+1 Antonella Poggi
+0 Antonio Badia
+0 Antonio L. Furtado
+0 Anuj Dawar
+0 Aravind Ramachandran
+0 Arie Shoshani
+0 Ariel Fuxman
+0 Aris Anagnostopoulos
+1 Aris M. Ouksel
+1 Armin Fessler
+0 Arnab Bhattacharyya
+0 Arnaldo V. Moura
+0 Arnaud Durand 0001
+0 Arthur J. Bernstein
+0 Arthur M. Keller
+0 Artur Bykowski
+0 Arturs Backurs
+1 Arun N. Swami
+1 Arvind Arasu
+0 Arvola Chan
+0 Ashish Goel
+2 Ashish Gupta 0001
+0 Ashish Kumar Gupta
+1 Ashok K. Chandra
+1 Ashwin Machanavajjhala
+0 Assaf Schuster
+0 Athena Roussou
+0 Atish Das Sarma
+3 Atri Rudra
+0 Atsushi Ohori
+0 Aurélien Lemay
+0 Avi Silberschatz
+0 Avrim Blum
+0 Azza Abouzied
+0 B. Srivathsan
+0 Babak Bagheri Hariri
+0 Baldeo K. Taneja
+5 Balder ten Cate
+1 Banu Özden
+0 Barbara Catania
+0 Barbara Smith-Thomas
+0 Bart Kuijpers
+0 Bart Samwel
+2 Bas Ketsman
+0 Bassem Sayrafi
+1 Batya Kenig
+0 Behzad Golshan
+0 Beng Chin Ooi
+1 Benjamin C. Pierce
+0 Bennet Vance
+18 Benny Kimelfeld
+2 Benoît Groz
+2 Bernd-Uwe Pagel
+1 Bernhard Seeger
+1 Bertram Ludäscher
+0 Bertrand Simon
+0 Bill Howe
+0 Bing-Chao Huang
+0 Bing-Rong Lin
+0 Bo Pang
+0 Boaz Barak
+0 Bogdan Alexe
+0 Bogdan Cautis
+0 Bogdan Marinoiu
+0 Bogdan Warinschi
+0 Boris Aronov
+0 Boris Motik
+0 Bozidar Radunovic
+1 Bradley C. Kuszmaul
+0 Bradley S. Fordham
+2 Brian Babcock
+0 Bruno Marnette
+0 C. Aiswarya
+0 C. Mohan 0001
+0 C. P. Wang
+0 C. R. Ramakrishnan
+1 Carla Schlatter Ellis
+7 Carlo Zaniolo
+2 Carlos A. Hurtado
+0 Carmem S. Hara
+1 Carsten Lund
+2 Carsten Lutz
+0 Casper Kejlberg-Rasmussen
+0 Catherine Lassez
+12 Catriel Beeri
+0 Chandra Chekuri
+0 Chandra M. R. Kintala
+0 Chao Li 0003
+1 Charles Elkan
+0 Charles Paperman
+3 Charu C. Aggarwal
+0 Chee-Keng Yap
+1 Chen Li 0001
+3 Cheng Sheng 0001
+0 Ching-Tien Ho
+0 Chinmay Hegde
+0 Chinya V. Ravishankar
+0 Christian Böhm
+0 Christian Sohler
+0 Christine T. Cheng
+0 Christof Hasse
+0 Christof Löding
+0 Christoph Berkholz
+9 Christoph Koch 0001
+0 Christophe Lécluse
+0 Christophe Rigotti
+6 Christopher Ré
+0 Christopher Unkel
+3 Christos Faloutsos
+19 Christos H. Papadimitriou
+0 Chung-Min Chen
+0 Chung-Sheng Li
+0 Cinda Heeren
+1 Claire David
+0 Claudio Bettini
+0 Claudio Gutiérrez
+0 Clemens Kupke
+0 Clément L. Canonne
+0 Colin Bell
+0 Colin Hirsch
+0 Cristian Bucila
+1 Cristian Riveros
+0 Cristina Civili
+2 Cristina Sirangelo
+0 Csaba D. Tóth
+0 Cui Yu
+1 Cynthia A. Phillips
+1 Cynthia Dwork
+0 Cyrus Shahabi
+3 D. Sivakumar
+1 Dakshi Agrawal
+3 Dale Skeen
+0 Damian Niwinski
+0 Damien Sereni
+0 Dan E. Willard
+0 Dan Olteanu
+27 Dan Suciu
+0 Dana Angluin
+0 Daniel A. Keim
+0 Daniel A. Menascé
+4 Daniel Deutch
+1 Daniel J. Rosenkrantz
+0 Daniel Keren
+2 Daniel Kifer
+0 Daniel Lupei
+0 Daniel M. Kane
+0 Daniel P. Miranker
+0 Daniel R. Ries
+0 Daniel Zinn
+0 Daniela Florescu
+0 Danny Dolev
+0 Darakhshan J. Mir
+0 Daren B. H. Cline
+0 Darren Erik Vengroff
+0 David Cheng
+0 David D. Wright
+0 David DeHaan
+0 David Eppstein
+0 David Felber
+0 David G. Kirkpatrick
+0 David Gross
+0 David Gross-Amblard
+2 David Harel
+0 David J. DeWitt
+0 David L. Martin 0001
+6 David Maier
+10 David P. Woodruff
+0 David S. Johnson
+1 David Scot Taylor
+1 David Scott Warren
+0 David Tench
+0 David Toman
+1 David W. Stemple
+0 David Zage
+0 Dayou Zhou
+0 Dean Jacobs
+0 Debmalya Panigrahi
+5 Dennis E. Shasha
+1 Derick Wood
+0 Detlev Ruland
+0 Di Wang
+0 Di Xiao
+8 Diego Calvanese
+2 Diego Figueira
+0 Dietmar Seipel
+0 Dilys Thomas
+3 Dimitrios Gunopulos
+0 Dimitris Achlioptas
+0 Dimitris N. Metaxas
+0 Dimitris Papadias
+0 Dina Q. Goldin
+0 Ding-An Chiang
+0 Dino Karabeg
+0 Dirk Leinders
+18 Dirk Van Gucht
+9 Divesh Srivastava
+6 Divyakant Agrawal
+0 Dmitri Loguinov
+1 Domagoj Vrgoc
+1 Domenico Lembo
+4 Domenico Saccà
+1 Don S. Batory
+0 Donald B. Johnson
+0 Donald S. Fussell
+0 Donatello Santoro
+1 Donghui Zhang
+5 Doron Rotem
+0 Douglas Stott Parker Jr.
+0 Dung T. Nguyen
+0 Dzintars Avots
+4 Edith Cohen
+0 Edo Liberty
+0 Edward D. Lazowska
+1 Edward L. Robertson
+5 Edward P. F. Chan
+1 Edward Sciore
+1 Efthymia Tsamoura
+0 Egor V. Kostylev
+0 Ekow J. Otoo
+0 Elarbi Choukhmane
+2 Eli Upfal
+1 Elias Koutsoupias
+0 Elisa Bertino
+0 Elizabeth A. M. Shriver
+6 Eljas Soisalon-Soininen
+0 Ely Porat
+1 Emanuel Sallinger
+0 Emmanuel Filiot
+3 Emmanuel Waller
+0 Enrico Franconi
+0 Eric Gribkoff
+0 Eric Simon
+0 Erich Grädel
+2 Erik Vee
+0 Esko Ukkonen
+0 Ester Livshits
+0 Eugene Pinsky
+0 Evgeny Dantsin
+0 Evgeny Sherkhonov
+0 F. Manfredi
+0 Fabio Papacchini
+0 Fabio Vandin
+0 Fabrizio Angiulli
+2 Fang Wei 0001
+0 Fenia Zioga
+0 Fernando Suárez
+2 Filip Murlak
+1 Flavio Chierichetti
+0 Flaviu Cristian
+2 Flip Korn
+10 Floris Geerts
+6 Foto N. Afrati
+0 Francesco M. Donini
+1 Francesco M. Malvestuto
+5 Francesco Scarcello
+1 Francesco Silvestri 0001
+1 Francis C. Chu
+0 Francis Y. L. Chin
+0 Frank M. Pittelli
+1 Frank McSherry
+16 Frank Neven
+0 Frank Olken
+0 Frank Thomson Leighton
+0 Frank Wm. Tompa
+1 Frank Wolter
+5 François Bancilhon
+0 François Bry
+0 Freddy Dumortier
+1 Frederick Reiss
+0 Froduald Kabanza
+7 Gabriel M. Kuper
+0 Gabriel Matsliach
+0 Gabriele Puppis
+0 Gael N. Buckley
+0 Gaetano Geck
+0 Gagan Aggarwal
+0 Ganesh Ramesh
+0 Gareth Smith
+2 Gaston H. Gonnet
+27 Georg Gottlob
+3 Georg Lausen
+1 George A. Mihaila
+0 George H. L. Fletcher
+0 George Kollios
+0 George Konstantinidis
+0 George Papageorgiou
+0 Geppino Pucci
+0 Gerald J. Popek
+1 Gerd G. Hillebrand
+0 Gereon Frahling
+0 Gerhard Jaeschke
+5 Gerhard Weikum
+2 Gerome Miklau
+3 Gianluigi Greco
+0 Gianmaria Silvello
+2 Giansalvatore Mecca
+0 Giorgio Ausiello
+0 Giovambattista Ianni
+8 Giuseppe De Giacomo
+0 Giuseppe Ottaviano
+0 Gjergji Kasneci
+0 Gomer Thomas
+4 Gottfried Vossen
+8 Graham Cormode
+0 Grant Wang
+0 Gregory Karvounarakis
+0 Gregory Valiant
+0 Guido Moerkotte
+0 Guido Nerjes
+0 Guillaume Bagan
+1 Guizhen Yang
+1 Gultekin Özsoyoglu
+3 Guozhu Dong
+0 Gurmeet Singh Manku
+3 Gustavo Alonso
+0 Guy Pardon
+0 Guy Van den Broeck
+0 Gábor Tardos
+6 Gösta Grahne
+0 H. F. Ting
+4 H. V. Jagadish
+0 Hai-Yann Hwang
+2 Haim Kaplan
+0 Haiquan Li
+0 Haixun Wang
+0 Haiyan Ye
+0 Hakan Ferhatosmanoglu
+0 Halina Przymusinska
+1 Hamid Pirahesh
+0 Hanan Samet
+0 Hannu Toivonen
+0 Hans Hermann Brüggemann
+4 Hans-Jörg Schek
+0 Hans-Peter Kriegel
+2 Hans-Werner Six
+0 Hanson Zhou
+0 Hao Yang
+1 Haodong Hu
+0 Haoyue Ping
+0 Harry G. Mairson
+0 Harry R. Lewis
+0 Haruo Yokota
+1 Hasan Davulcu
+2 Hector Garcia-Molina
+5 Heikki Mannila
+1 Heiko Schuldt
+0 Heinrich Toben
+0 Helen Xu
+1 Helmut Seidl
+0 Hendrik Jan Hoogeboom
+5 Henry F. Korth
+0 Henry Tirri
+0 Hirohisa Seki
+0 Hisao Tamaki
+0 Hoa T. Vu
+0 Hoda Mokhtar
+0 Hongxia Jin
+0 Hossein Jowhari
+0 Howard J. Karloff
+1 Hubie Chen
+5 Hung Q. Ngo 0001
+0 Huy Vu
+0 Hyun Chul Lee
+1 Håkan Jakobsson
+2 Héctor J. Hernández
+1 I. V. Ramakrishnan
+0 Ibrahim Kamel
+0 Idit Keidar
+0 Ilias Diakonikolas
+0 Ilya P. Razenshteyn
+6 Inderpal Singh Mumick
+0 Irit Dinur
+0 Irène Guessarian
+0 Isolde Adler
+0 Iyer N. Subramanian
+0 Izchak Sharfman
+0 J. D. Tygar
+1 J. Ian Munro
+0 J. Nathan Foster
+0 Jack A. Orenstein
+0 Jack Kent
+0 Jack Minker
+0 Jacob Stein
+0 Jae Chung
+0 Jafar Adibi
+0 Jaideep Srivastava
+0 James Bailey
+0 James Cheney
+0 James F. Lynch
+0 James P. Delgrande
+0 James Wu
+6 Jan Chomicki
+1 Jan Hidders
+9 Jan Paredaens
+17 Jan Van den Bussche
+0 Jan Vondrák
+0 Jasmine Novak
+0 Jason Tsong-Li Wang
+0 Jay H. Vaishnav
+0 Jayadev Acharya
+0 Jayant R. Haritsa
+1 Jean-Louis Lassez
+0 Jean-Marc Pugin
+0 Jean-Marc Stévenne
+0 Jean-Marc Talbot
+3 Jef Wijsen
+1 Jeff Erickson
+1 Jeff M. Phillips
+0 Jeffrey A. Vaughan
+0 Jeffrey B. Remmel
+15 Jeffrey D. Ullman
+9 Jeffrey F. Naughton
+7 Jeffrey Scott Vitter
+0 Jehoshua Bruck
+2 Jelani Nelson
+5 Jennifer Widom
+0 Jens Keppeler
+2 Jens Lechtenbörger
+0 Jens-Peter Dittrich
+0 Jeonghun Yoon
+0 Jeremy T. Fineman
+0 Jerry Zheng Li
+1 Jerzy Marcinkowski
+0 Jerzy Tyszkiewicz
+0 Jia-Huai You
+0 Jian Li
+10 Jianwen Su
+0 Jie-Bing Yu
+0 Jim Calhoun
+0 Jimmy P. Strickland
+0 Jin-yi Cai
+0 Jingjing Wang
+0 Jinyan Li
+0 Joachim Biskup
+1 Joachim Niehren
+6 Johannes Gehrke
+0 John B. Kam
+0 John C. Mitchell
+1 John Hershberger
+0 John L. Bruno
+0 John R. Smith
+1 John S. Schlipf
+1 John T. Robinson
+0 John Turek
+0 John Whaley
+1 Jon M. Kleinberg
+0 Jon McAlister
+0 Jonathan Goldstein
+0 Jonathan Panttaja
+1 Jonathan Ullman
+0 Jonathan W. Berry
+0 Joost Engelfriet
+4 Jorge Pérez 0001
+0 Jorma Rissanen
+0 Joseph Albert
+2 Joseph M. Hellerstein
+2 Joseph Y. Halpern
+5 Juan L. Reutter
+0 Judith Klavans
+0 Julia Stoyanovich
+0 Jun (Jim) Xu
+0 Jun Sese
+0 Justin Thaler
+0 Jyrki Kivinen
+0 Jérôme Siméon
+0 Jürgen Seib
+0 K. V. M. Naidu
+1 K. V. S. Ramarao
+0 Kamalika Chaudhuri
+4 Kamesh Munagala
+4 Kari-Jouko Räihä
+0 Karl Denninghoff
+1 Karl Schnaitter
+0 Katherine A. Morris
+0 Katja Losemann
+1 Ke Wang
+10 Ke Yi
+0 Kee S. Ong
+0 Keishi Tajima
+0 Kelvin Kam Wing Chu
+0 Ken Q. Pu
+8 Kenneth A. Ross
+0 Kenneth Salem
+0 Kevin J. Compton
+0 Khaled A. S. Abdel-Ghaffar
+0 Kian-Lee Tan
+0 Kien A. Hua
+0 Kim Marriott
+0 Kim S. Larsen
+1 Kirack Sohn
+0 Klaus U. Schulz
+4 Kobbi Nissim
+0 Konstantinos Tsakalidis
+0 Kook Jin Ahn
+0 Kostas Tsichlas
+0 Kostoula Papakonstantinou
+0 Kotagiri Ramamohanarao
+0 Kousha Etessami
+0 Kowtha Murthy
+1 Krishnaram Kenthapadi
+0 Krzysztof Choromanski
+0 Krzysztof Onak
+0 Krzysztof R. Apt
+1 Kumar V. Vadaparty
+0 Kunal Talwar
+0 Kunio Murakami
+0 Kyle Fox
+0 L. Schnetgöke
+1 Laks V. S. Lakshmanan
+0 Lap-Kei Lee
+0 Larry Raab
+3 Lars Arge
+0 Latanya Sweeney
+0 Latha S. Colby
+0 Laurent Herr
+0 Lauri Malmi
+0 Lawrence V. Saxton
+0 Leonard Pitt
+1 Leonardo Tininini
+33 Leonid Libkin
+0 Leopoldo E. Bertossi
+4 Li-Yan Yuan
+0 Liadan O'Callaghan
+5 Limsoon Wong
+0 Lin F. Yang
+1 Lin Yu
+0 Linfeng Zhang
+0 Ling Tony Chen
+0 Lisa Hellerstein
+0 Lise Getoor
+1 Liying Sui
+0 Luc Boasson
+12 Luc Segoufin
+1 Luc Vandeurzen
+0 Luca Cabibbo
+4 Lucian Popa
+0 Luciana S. Buriol
+0 Ludwig Schmidt
+0 Luigi Palopoli
+0 Luiz Tucherman
+0 M. Kramer
+0 M. Muralikrishna
+0 M. Praveen
+0 M. S. Krishnamoorthy
+0 M. Spyratos
+0 M. V. Ramakrishna
+1 Maarten Marx
+0 Madhukar N. Thakur
+0 Magdalena Balazinska
+0 Mahesh Datt Yemmanuru
+3 Mahmoud Abo Khamis
+0 Makoto Murata
+3 Man Hon Wong
+0 Manas R. Joglekar
+0 Mangesh Gupte
+0 Manish Patil
+0 Mantas Simkus
+0 Manuel R. Torres
+0 Marc Andries
+0 Marc Friedman
+7 Marc Gyssens
+5 Marc H. Graham
+0 Marc Niézette
+1 Marc Spielmann
+12 Marcelo Arenas
+0 Marcin Przybylko
+4 Marco A. Casanova
+1 Marco Cadoli
+0 Marco Calautti
+0 Marco Manna
+2 Marco Montali
+0 Marco Patella
+1 Marco Schaerf
+1 Marcus Fontoura
+0 Marcus Herzog
+0 Maria Cristina De Bernardis
+0 Marianne Baudinet
+1 Marianne Winslett
+1 Mariano P. Consens
+0 Marie-Christine Rousset
+3 Marina Moscarini
+1 Mario Alviano
+0 Mario Szegedy
+0 Mario Winter
+0 Mark H. Nodine
+0 Mark J. Post
+0 Mark J. Wheelhouse
+0 Mark Sandler
+0 Markus Krötzsch
+0 Martha Escobar-Molano
+2 Martin Farach-Colton
+3 Martin Grohe
+0 Martin J. Strauss
+0 Martin Odersky
+1 Martin Strauss
+0 Martin Theobald
+0 Martín Abadi
+0 Martín Ugarte
+1 Masatoshi Yoshikawa
+0 Mathieu Verbaere
+2 Matthias Niewerth
+0 Matti Nykänen
+0 Maurice Herlihy
+8 Maurizio Lenzerini
+1 Maurizio Rafanelli
+1 Mauro Sozio
+0 Max J. Egenhofer
+1 Mayur Datar
+2 Meghyn Bienvenu
+0 Mehmet M. Dalkilic
+2 Meichun Hsu
+0 Mengling Feng
+0 Mert Saglam
+2 Miao Qiao
+5 Michael A. Bender
+0 Michael A. Langston
+1 Michael A. Taitslin
+14 Michael Benedikt
+0 Michael C. Martin
+0 Michael Carbin
+0 Michael Gelfond
+0 Michael Greenwald
+1 Michael Hay
+0 Michael I. Jordan
+2 Michael J. Carey
+1 Michael J. Fischer
+0 Michael J. Franklin
+1 Michael J. Maher
+0 Michael Kapralov
+5 Michael Kifer
+0 Michael Meier 0002
+0 Michael Merritt
+2 Michael Mitzenmacher
+0 Michael Morak
+1 Michael R. Genesereth
+0 Michael Rabinovich
+0 Michael Schmidt 0002
+1 Michael T. Goodrich
+0 Michael W. Mahoney
+0 Michael Zakharyaschev
+0 Michal Pilipczuk
+1 Michel de Rougemont
+2 Miguel Romero 0001
+9 Mihalis Yannakakis
+0 Mikaël Monet
+0 Mike Paterson
+1 Mikhail J. Atallah
+1 Mikkel Thorup
+4 Mikolaj Bojanczyk
+0 Milan Vojnovic
+0 Milena Mihail
+3 Minos N. Garofalakis
+0 Mirek Riedewald
+1 Miron Livny
+0 Mitsunori Ogihara
+0 Mohamed Faouzi Atig
+0 Mohamed G. Gouda
+1 Mohammad Mahdian
+0 Mohammed Javeed Zaki
+0 Moni Naor
+0 Monica S. Lam
+0 Monika Rauch Henzinger
+0 Moritz Müller
+0 Morten Stöckel
+0 Morteza Monemizadeh
+0 Moses Charikar
+29 Moshe Y. Vardi
+0 Mukesh K. Mohania
+0 Mukund Sundararajan
+0 Nabil H. Mustafa
+0 Nadime Francis
+4 Nancy A. Lynch
+0 Nancy D. Griffeth
+0 Nandit Soparkar
+0 Narayanan Krishnakumar
+8 Nathan Goodman
+1 Neil Immerman
+0 Neoklis Polyzotis
+1 Nick G. Duffield
+3 Nick Koudas
+3 Nicola Leone
+4 Nicolas Spyratos
+1 Nicole Bidoit
+5 Nicole Schweikardt
+0 Nikita Ivkin
+0 Nikos Mamoulis
+4 Nilesh N. Dalvi
+1 Nina Mishra
+0 Ning Wu
+0 Nirman Kumar
+0 Nisheeth Shrivastava
+0 Nobuyoshi Miyazaki
+0 Nofar Carmeli
+2 Noga Alon
+9 Oded Shmueli
+0 Oege de Moor
+0 Olga Kapitskaia
+1 Oliver M. Duschka
+1 Omar Benjelloun
+1 Oscar H. Ibarra
+0 Othmane Rezine
+1 Otto Nurmi
+3 Ouri Wolfson
+0 P. Mukhopadhyay
+7 Pablo Barceló
+1 Pablo Barceló Baeza
+0 Palash Dey
+0 Pan Xu
+0 Panayiotis Tsaparas
+8 Pankaj K. Agarwal
+0 Panos K. Chrysanthis
+0 Paolino Di Felice
+5 Paolo Atzeni
+0 Paolo Ciaccia
+1 Paolo Ferragina
+0 Paolo Giulio Franciosa
+0 Paolo Guagliardo
+0 Paolo Liberatore
+0 Paolo Papotti
+4 Paraschos Koutris
+11 Paris C. Kanellakis
+0 Parosh Aziz Abdulla
+0 Patricia G. Selinger
+0 Patricio V. Poblete
+1 Patrick C. Fischer
+0 Patrick Cégielski
+0 Patrick Lincoln
+2 Paul Beame
+0 Paul G. Spirakis
+0 Paula Ta-Shma
+0 Paulo A. S. Veloso
+0 Pavel Avgustinov
+0 Pavel Zezula
+3 Pawel Parys
+0 Per-Åke Larson
+0 Peter Brössler
+7 Peter Buneman
+3 Peter J. Haas
+0 Peter J. Stuckey
+1 Peter Muth
+0 Peter Scheuermann
+1 Peter T. Wood
+2 Peter Widmayer
+2 Peter Z. Revesz
+0 Philip A. Bernstein
+0 Philip Bohannon
+0 Philip S. Yu
+0 Philippa Gardner
+0 Philippe Picouet
+0 Philippe Richard
+0 Phillip B. Gibbons
+24 Phokion G. Kolaitis
+1 Pierangela Samarati
+0 Piero A. Bonatti
+2 Pierre Bourhis
+4 Pierre Senellart
+1 Pierre Wolper
+2 Ping Lu
+5 Piotr Indyk
+3 Prabhakar Raghavan
+0 Pranjal Awasthi
+0 Prasan Roy
+0 Prasang Upadhyaya
+0 Prasenjit Mitra
+0 Pratul Dublish
+0 Praveen Seshadri
+0 Priya Govindan
+0 Qi Zhao
+4 Qin Zhang 0001
+0 R. J. Peterson
+0 Rachel Ben-Eliyahu-Zohary
+0 Rachid Guerraoui
+2 Rada Chirkova
+0 Radu Berinde
+1 Rafail Ostrovsky
+1 Raghav Kaushik
+14 Raghu Ramakrishnan
+1 Rahul Shah
+0 Rainer Gemulla
+1 Rajan Suri
+0 Rajeev Alur
+4 Rajeev Motwani
+5 Rajeev Rastogi
+2 Rakesh Agrawal
+0 Ramakrishnan Srikant
+0 Ramanathan V. Guha
+0 Ramsey W. Haddad
+0 Randy H. Katz
+5 Rasmus Pagh
+0 Ravi Kannan
+3 Ravi Krishnamurthy
+6 Ravi Kumar 0001
+0 Ray Ford
+0 Raymond Reiter
+1 Raymond T. Ng
+1 Rebecca N. Wright
+7 Reinhard Pichler
+0 Renée J. Miller
+1 Reut Levi
+0 Reza Sadri
+3 Riccardo Rosati
+0 Riccardo Torlone
+0 Richard E. Ladner
+0 Richard Helm
+12 Richard Hull
+0 Richard J. Lipton
+0 Richard Jeffers
+0 Richard T. Snodgrass
+0 Rina Dechter
+2 Rina Panigrahy
+1 Rob Johnson
+0 Robert Baumgartner
+0 Robert C. Steinke
+0 Robert Fink
+1 Roberto Grossi
+0 Rodney W. Topor
+0 Rohan Puttagunta
+0 Rolfe R. Schmidt
+0 Roman Kontchakov
+0 Ron van der Meyden
+0 Rona Machlin
+21 Ronald Fagin
+0 Rong Sun
+0 Roni Khardon
+1 Ronitt Rubinfeld
+0 Rosalba Giugno
+0 Rossano Venturini
+0 Russell Greiner
+2 Ryan Williams 0001
+12 S. Muthukrishnan
+0 S. N. Maheshwari
+0 S. Sathiya Keerthi
+1 S. Seshadri
+3 S. Sudarshan 0001
+0 Sabrina De Capitani di Vimercati
+0 Sachin More
+0 Sai Surya Kiran Evani
+0 Sairam Subramanian
+1 Saladi Rahul
+0 Salil P. Vadhan
+0 Sam Toueg
+0 Sambuddha Roy
+1 Samir Khuller
+0 Samuel McCauley
+0 Sandeep Gupta
+0 Sanjay Krishnamurthi
+0 Sanjay Manchanda
+3 Sanjeev Khanna
+1 Santosh Vempala
+7 Sara Cohen
+0 Sara Shurin
+1 Sariel Har-Peled
+0 Satyen Kale
+1 Scott Weinstein
+1 Sebastian Link
+2 Sebastian Maneth
+1 Sebastian Rudolph
+2 Sebastian Skritek
+0 Sepehr Assadi
+1 Sepideh Mahabadi
+1 Seppo Sippu
+27 Serge Abiteboul
+0 Sergei G. Vorobyov
+0 Sergei Vassilvitskii
+0 Sergey Melnik
+0 Sergio Flesca
+1 Sergio Greco
+0 Sergio Tessaris
+0 Seth Gilbert
+0 Setrag Khoshafian
+1 Seymour Ginsburg
+0 Shaibal Roy
+2 Shalom Tsur
+3 Shamim A. Naqvi
+1 Sharad Mehrotra
+0 Shari Roseman
+0 Sharma V. Thankachan
+0 Sharon C. Salveter
+0 Sharon McCure Kuck
+1 Shashi K. Gadia
+0 Sheau-Dong Lang
+0 Sheldon J. Finkelstein
+0 Sheng Zhong
+0 Shigeki Shibayama
+0 Shikha Singh 0002
+3 Shinichi Morishita
+0 Shiva Prasad Kasiviswanathan
+1 Shivakumar Vaithyanathan
+1 Shivnath Babu
+0 Shun'ichi Amano
+0 Siddharth Barman
+0 Simon Mauras
+0 Simona Rabinovici-Cohen
+0 Simone Bova
+0 Siu-Wing Cheng
+0 Slawek Staworko
+0 Slawomir Pilarski
+0 Sofya Vorotnikova
+0 Solmaz Kolahi
+0 Sophie Cluet
+0 Sophie Tison
+0 Sourav Chatterji
+2 Sreenivas Gollapudi
+0 Sridhar Rajagopalan
+1 Sridhar Ramaswamy
+3 Srikanta Tirthapura
+0 Srinivas R. Kashyap
+0 Srinivasa Rao Satti
+0 Srinivasan Parthasarathy 0002
+1 Sriram Raghavan
+0 Srujana Merugu
+0 Stanislav Kikot
+0 Stavros Christodoulakis
+7 Stavros S. Cosmadakis
+0 Stavros Sintos
+0 Stefan Berchtold
+0 Stefan Haar
+0 Stefan Mengel
+0 Stefan Szeider
+0 Stefano Leonardi
+0 Stephan Kreutzer
+0 Stephanie Tien Lee
+0 Stephen Blott
+0 Stephen Fox
+3 Stephen J. Hegner
+1 Stephen R. Chestnut
+0 Steven Dawson
+0 Steven P. Reiss
+0 Stijn Dekeyser
+5 Stijn Vansummeren
+0 Stuart E. Madnick
+0 Stéphane Bressan
+6 Stéphane Grumbach
+2 Subhash Suri
+0 Sudeepa Roy
+5 Sudipto Guha
+0 Sukhamay Kundu
+5 Sumit Ganguly
+0 Sumit K. Sanghai
+0 Sundeep Prakash
+0 Sunil Prabhakar
+0 Supratim Deb
+8 Surajit Chaudhuri
+4 Susan B. Davidson
+1 Sushant Patnaik
+1 Sushil Jajodia
+0 Susumu Kunifuji
+1 Sven Hartmann
+0 Swaminathan Sankararaman
+0 Swastik Kopparty
+0 Szymon Torunczyk
+0 Sándor P. Fekete
+0 T. H. Merrett
+2 T. S. Jayram
+0 Takeo Kakuta
+0 Takeshi Fukuda
+0 Takeshi Tokuyama
+0 Tal Malkin
+0 Tarun Kathuria
+0 Tatuo Nakanishi
+1 Teodor C. Przymusinski
+3 Thanasis Hadzilacos
+0 Thane E. Plambeck
+1 Theodore Johnson
+0 Thomas Dybdahl Ahle
+2 Thomas Eiter
+1 Thomas Lukasiewicz
+0 Thomas M. Kroeger
+0 Thomas Neumann 0001
+0 Thomas Perst
+10 Thomas Schwentick
+0 Thomas W. Page Jr.
+0 Thomas Wilke
+0 Ti-Pin Chang
+1 Tiko Kameda
+0 Tim Connors
+0 Tim Sheard
+0 Timos Antonopoulos
+0 Timos K. Sellis
+0 Timothy Griffin
+1 Ting Deng
+0 Tirza Hirst
+0 Todd D. Millstein
+3 Todd J. Green
+3 Tom J. Ameloot
+1 Tomasz Gogacz
+0 Tomasz Idziaszek
+6 Tomasz Imielinski
+0 Tomás Feder
+0 Toni Mancini
+1 Toon Calders
+0 Tore Dalenius
+22 Tova Milo
+0 Trevor Jim
+0 Tyler Mayer
+1 Udi Manber
+0 Udo Kelter
+4 Umeshwar Dayal
+0 Uri Shaft
+0 Uri Stemmer
+0 Uri Zarfaty
+2 Utkarsh Srivastava
+0 V. Benjamin Livshits
+0 V. S. Lakshmanan
+0 V. S. Subrahmanian
+0 Va-On Tam
+0 Vadim Savenkov
+0 Vahab S. Mirrokni
+7 Val Tannen
+1 Vanja Josifovski
+0 Vashudha Krishnaswamy
+1 Vasilis Samoladas
+0 Vassilis Christophides
+2 Vassilis J. Tsotras
+4 Vassos Hadzilacos
+2 Venkatesan T. Chakaravarthy
+0 Venkatesh Ganti
+2 Vibhor Rastogi
+0 Victor Matos
+0 Victor O. K. Li
+27 Victor Vianu
+0 Vijayshankar Raman
+1 Vinay K. Chaudhri
+0 Vinayaka Pandit
+0 Vittorio Castelli
+0 Vivek R. Narasayya
+2 Vladimir Braverman
+0 Vladimir Lanin
+0 Vladimir V. Podolskii
+0 Vladislav Ryzhikov
+0 Volkert Brosda
+0 Vânia Maria Ponte Vidal
+0 Véronique Royer
+0 Walid G. Aref
+1 Walker M. White
+1 Walter A. Burkhard
+8 Wang Chiew Tan
+1 Wang-Chiew Tan
+0 Waqar Hasan
+0 Wei-hsing Wang
+1 Weidong Chen 0005
+0 Wen K. Lee
+0 Wen-Chi Hou
+16 Wenfei Fan
+0 Wenjie Zhang
+3 Werner Nutt
+3 William E. Weihl
+0 William Maniatty
+7 Wim Martens
+2 Witold Lipski Jr.
+1 Wojciech Czerwinski
+0 Wojciech Kazana
+0 Wolfgang Lehner
+0 Wolfgang May
+0 Wolfgang Scheufele
+0 Won Kim
+1 Wouter Gelade
+1 Wuzhou Zhang
+1 Xiao Hu
+2 Xiaocheng Hu
+1 Xiaoyang Sean Wang
+0 Xuemin Lin
+4 Y. C. Tay
+0 Yaacov Y. Weiss
+1 Yael Amsterdamer
+2 Yakov Nekrich
+1 Yang Cao
+1 Yannis E. Ioannidis
+0 Yannis Katsis
+0 Yannis Kotidis
+1 Yannis Papakonstantinou
+1 Yannis Theodoridis
+0 Yap-Peng Tan
+2 Yaron Kanza
+0 Yasuhiko Morimoto
+0 Yasushi Sakurai
+1 Yatin P. Saraiya
+30 Yehoshua Sagiv
+0 Yelena Yesha
+0 Yeye He
+0 Yi Cui
+0 Ying Xu 0002
+0 Ying Zhang 0001
+0 Yinian Qi
+0 Yoav Raz
+0 Yong Guan
+0 Yoo Ah Kim
+0 Yossi Matias
+0 Yousef J. Al-Houmaily
+13 Yufei Tao
+0 Yuli Ye
+0 Yuliang Li
+0 Yung-Chun (Justin) Wan
+1 Yunyao Li
+2 Yuri Breitbart
+1 Yuri Gurevich
+0 Yuri V. Matiyasevich
+3 Z. Meral Özsoyoglu
+2 Zengfeng Huang
+0 Zhen Liu
+0 Zhengyu Wang
+0 Zhenming Liu
+2 Zhewei Wei
+0 Zhiqiang Yang
+0 Zhiyuan Chen
+1 Ziv Bar-Yossef
+0 Zoltán Miklós
+0 Zoë Abrams
+0 Zvi M. Kedem
+0 Émilien Antoine

@@ -1,0 +1,120 @@
+1 Abraham Silberschatz
+0 Alex Thomo
+0 Alexander Borgida
+0 Alexander Markowetz
+0 Allen Van Gelder
+0 Alon Y. Levy
+0 Amr El Abbadi
+0 Andrew Tomkins
+0 Arvind Arasu
+0 Banu Özden
+0 Bennet Vance
+0 Bernhard Seeger
+0 Brian Babcock
+0 C. Mohan
+0 Carlo Zaniolo
+0 Charles Elkan
+0 Charu C. Aggarwal
+0 Christine T. Cheng
+0 Christos H. Papadimitriou
+0 Chung-Min Chen
+0 D. Sivakumar
+0 Daniel P. Miranker
+0 David Harel
+0 David Maier
+1 Dennis Shasha
+1 Dimitrios Gunopulos
+0 Ding-An Chiang
+0 Divyakant Agrawal
+0 Domenico Saccà
+1 Don S. Batory
+0 Donald S. Fussell
+0 Donghui Zhang
+0 Doron Rotem
+0 Edward P. F. Chan
+0 Eli Upfal
+0 Eljas Soisalon-Soininen
+0 Emmanuel Waller
+0 Gabriel M. Kuper
+0 Gaston H. Gonnet
+0 Georg Gottlob
+0 Georg Lausen
+0 Gottfried Vossen
+0 Gultekin Özsoyoglu
+1 Gösta Grahne
+0 Hannu Toivonen
+0 Heikki Mannila
+0 Håkan Jakobsson
+0 Héctor J. Hernández
+0 Inderpal Singh Mumick
+0 James P. Delgrande
+1 Jan Chomicki
+0 Jeffrey D. Ullman
+0 Jennifer Widom
+0 John T. Robinson
+0 Jon McAlister
+0 Judith Klavans
+0 Jürgen Seib
+0 Kari-Jouko Räihä
+0 Kenneth A. Ross
+0 Kien A. Hua
+0 Kim S. Larsen
+1 Leonid Libkin
+0 Leopoldo E. Bertossi
+1 Li-Yan Yuan
+0 Luc Segoufin
+1 Marc H. Graham
+0 Marc Spielmann
+0 Marcelo Arenas
+1 Michael Benedikt
+0 Mihalis Yannakakis
+0 Minos N. Garofalakis
+2 Moshe Y. Vardi
+1 Nathan Goodman
+0 Nicole Bidoit
+0 Oded Shmueli
+2 Paris C. Kanellakis
+0 Patrick Lincoln
+0 Peter Buneman
+0 Pierangela Samarati
+0 Prabhakar Raghavan
+0 Rajan Suri
+0 Ravi Kumar
+0 Rodney W. Topor
+0 Roni Khardon
+0 Russell Greiner
+0 Sabrina De Capitani di Vimercati
+0 Sanjeev Khanna
+0 Seppo Sippu
+2 Serge Abiteboul
+0 Shaibal Roy
+0 Sheau-Dong Lang
+0 Shinichi Morishita
+0 Shivnath Babu
+0 Sridhar Rajagopalan
+0 Stavros S. Cosmadakis
+0 Steven Dawson
+0 Stéphane Grumbach
+0 Surajit Chaudhuri
+0 Thanasis Hadzilacos
+0 Theodore Johnson
+0 Thomas Eiter
+0 Tomasz Imielinski
+0 Tova Milo
+0 Udi Manber
+0 Udo Kelter
+0 Vasilis Samoladas
+0 Vassilis J. Tsotras
+0 Victor Matos
+1 Victor Vianu
+0 Volkert Brosda
+0 Wang Chiew Tan
+0 Wen K. Lee
+0 Witold Lipski Jr.
+0 Y. C. Tay
+0 Yannis E. Ioannidis
+0 Yaron Kanza
+0 Yatin P. Saraiya
+1 Yehoshua Sagiv
+0 Yoav Raz
+0 Z. Meral Özsoyoglu

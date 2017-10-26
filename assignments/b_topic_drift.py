@@ -38,7 +38,7 @@ TOPICS = {
 
 DATA_DIR = 'b_topic_drift/data'
 
-NUM_CLUSTERS = 32
+NUM_CLUSTERS = 8
 
 FEATURE_THRESHOLD = 0.02
 

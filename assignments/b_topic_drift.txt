@@ -5,18 +5,88 @@ Jens Vannitsen - 1334039
 Reinaert Van de Cruys - 1334947
 
 
-- Sommige clusters zijn nogal onnozel (summary, table of contents, ...).
-- We zien overlap tussen clusters. Dingen die sterk voorkomen in één clustered
-  (0.27 storage structure definition) kunnen nog zwak voorkomen in andere clusters
-  (0.02 storage).
+Instellingen:
+
+Bij de uitvoer van ons programma hebben voor volgende instellingen gekozen:
+NUM_CLUSTERS = 32
+FEATURE_THRESHOLD = 0.02
+MIN_RELATIVE_CLUSTER_SIZE = 0.03
+NGRAM_RANGE = (1, 3)
+DRIFT_INTERVAL = 10
+DRIFT_REFERENCE = 0
+DRIFT_FORWARD_OVERLAP = 2
+DRIFT_BACKWARD_OVERLAP = 2
+
+NUM_CLUSTERS: We hebben gekozen voor 32 clusters omdat wanneer we het aantal clusters gaan verhogen, we maar 3 clusters krijgen die voldoen aan de threshold. Van deze 3 clusters zijn is er maar 1 betekenisvol waardoor een groot aantal topics niet wordt getoond. Bij het verlagen van de clusters waren er redelijke grote clusters die bijvoorbeeld 66% van de papers bevatte, waarbij we dachten dat we een aantal topics gingen missen. Dit bleek niet zo te zijn voor de eerste tijdsperiode, maar voor de periodes nadien kregen we wel betekenisloze clusters. We hebben dus uiteindelijk gekozen voor 32 clusters omdat we een goede verdelingen en veel betekenisvolle clusters kregen.
+ 
+FEATURE_THRESHOLD & MIN_RELATIVE_CLUSTER_SIZE: Deze variabele geven aan hoeveel papers een bepaalde feature moeten bevatten om uitgeprint te worden en hoeveel papers de cluster moet bevatten om uitgeprint te worden. We hebben ervoor gekozen dat een feature minstens in 2% van de papers binnen een cluster moeten voorkomen omdat we vooral in latere tijdperiodes zien dat features redelijk verspreid zijn (weinig hoge waardes) en dat deze features met kleine waardes nog belangrijke onderwerpen tonen i.v.m. de vaak voorkomende features. Voor het aantal papers dat bij een cluster moet behoren hebben we gekozen voor 3% omdat er clusters zijn een grote van 3 tot 4% met belangrijke onderwerpen. Wanneer we threshold 0.04 hadden genomen hadden we deze dus niet opgemerkt.
+
+DRIFT_INTERVAL & DRIFT_REFERENCE: Deze variabele geven aan hoe groot de tijdsperiodes zijn en wanneer deze beginnen. Hierbij hebben we gekozen voor 10 jaar omdat dit vermeld wordt in de opgave en we laten deze starten vanaf een rond jaartal 1960, 1970, 1980, …
+
+DRIFT_FORWARD_OVERLAP & DRIFT_BACKWARD_OVERLAP: Deze variabele geven aan hoeveel jaar overlap we vandoor en vanachter nemen. We hebben hierbij voor beide 2 jaar genomen omdat 2 jaar ons een goede periode leek om een bepaald topic te introduceren en terug te laten verdwijnen.
+
+
+Resultaten:
+
+In deze sectie worden per periode de belangrijkste topics opgesomd. Voor enkele clusters hebben de meest voorkomende woorden weinig betekenis zoals (summary, table of contents, ...) deze worden dus niet vermeld als belangrijke topics. We hebben gekozen om de dataset database systems te bespreken omdat deze het meeste informatie bevatte.
 
 Jaren '60:
-    storage structure - language definition
+   Cluster 1: data validation
+   Cluster 2: storage structure - definition language
+   Cluster 3: deze cluster bevat vooral papers over een workshop maar er is geen specifiek topic
+   Cluster 4: data definition - standardization
+   Cluster 5: data privacy integrity - online data
+   Cluster 6: model access control - authorization
+   Cluster 7: geen specifiek topic.
+   Cluster 8: relational data
+   Cluster 9: geen specifiek topic.
+   Cluster 10: file translation - batch updating
 Jaren '70:
+   Cluster 1: geen betekenisvol topic
+   Cluster 2: distributed database
+   Cluster 3: performance
+   Cluster 4: access data model
+   Cluster 5: database design
+   Cluster 6: relations - functional dependancies
+   Cluster 7: database management
+   Cluster 8: mass storage - associative
+   Cluster 9: information retrieval  
+   Cluster 10: relational database
 Jaren '80:
+   Cluster 1: conceptual - modeling
+   Cluster 2: concurrency control - distributed database
+   Cluster 3: performance
+   Cluster 4: abstract
+   Cluster 5: distributed databases
+   Cluster 6: dbms - integrity - constraints
+   Cluster 7: query optimization
+   Cluster 8: query processing
+   Cluster 9: relational databases
+   Cluster 10: data model
+   Cluster 11: query/program language
 Jaren '90:
+   Cluster 1: data mining
+   Cluster 2: deductive databases
+   Cluster 3: interoperability - languages
+   Cluster 4: query optimization
+   Cluster 5: performance
+   Cluster 6: information systems
+   Cluster 7: object oriented
 Jaren '00:
+   Cluster 1: data management
+   Cluster 2: xml
+   Cluster 3: queries 
+   Cluster 4: databese tuning
+   Cluster 5: web services
+   Cluster 6: relational database - sql
+   Cluster 7: data stream
 Jaren '10:
+   Cluster 1: data (geen specifiek topic)
+   Cluster 2: mapreduce
+   Cluster 3: efficient database
+   Cluster 4: graph database
+
+Tijdens het analyseren van de resultaten viel het ons op dat verschillende clusters een kleine overlap hebben, een voorbeeld hiervan is de eerste en tweede cluster in de periode 1958 to 1971. In de eerste cluster komen de topics “storage” en “structure” voor in 2% van de papers en in de tweede clusteren zien we dat 25% van de papers de woorden “storage structure” bevatten. In de jaren 60,70 en 80 zijn de onderwerpen zeer gespreid en vanaf de jaren 90 worden deze beperkter. In de jaren 60 heeft men allemaal topics die later niet meer terug komen. Vanaf de jaren 70 kan je zien dat topics over meerdere periodes terug komen. In de jaren 70 en 80 komen topics terug als  distributed databases, relational database, performance, data model. In de jaren 80 - 90 komen performance en queries voor en in de jaren 90-00 zien we queries terug komen. Het onderwerp relationele database heeft zijn introductie gedaan in de jaren 70 en 80, is dan in de jaren 90 niet meer actief geweest om in de jaren 00 terug een actueel topic te worden. We zien ook enkele topics die periode gebonden zijn zoals jaren 60 validation, standarization ; jaren 70 mass storage ; jaren 80 concurrency control ;  jaren 90 object oriented ;  jaren 00 xml, web services ; jaren 10 map reduce, graph database.
 
 --------------------------------------------------------------------------------
  Database systems

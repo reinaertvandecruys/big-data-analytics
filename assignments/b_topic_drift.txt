@@ -5,6 +5,20 @@ Jens Vannitsen - 1334039
 Reinaert Van de Cruys - 1334947
 
 
+Implementatie:
+
+Eerst hebben we een parser geschreven die per conferentie het jaar en de titel
+van iedere relevante publicatie wegschrijft naar een apart bestand. Deze
+bestanden maakten dat het inlezen van data minder dan één seconde in beslag
+neemt, in tegenstelling tot de meer dan vijf minuten op de volledige dataset.
+
+Voor onze analyse voeren we voor iedere tijdsperiode volgende stappen uit. Als
+eerste gebruiken we een Scikit-Learn TfidfVectorizer om de titels te
+vectorizeren, en vervolgens gebruiken we de KMeans module om de titels op te
+delen in clusters. Tenslotte kijken we naar de belangrijkste features van iedere
+cluster en proberen hier thema's in te herkennen.
+
+
 Instellingen:
 
 Bij de uitvoer van ons programma hebben voor volgende instellingen gekozen:

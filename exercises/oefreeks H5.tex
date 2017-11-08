@@ -122,10 +122,27 @@ $ r = \begin{bmatrix}
 Na T iteraties $r * M$ te berekenen krijgen we $\lambda = \begin{bmatrix}
        \frac{3}{13} \\ \frac{4}{13} \\   \frac{6}{13}
      \end{bmatrix}$
-\\
+ \\
+ of\\
+ 
+$ \begin{bmatrix}
+       \frac{1}{x} \\
+       \frac{1}{y}\\
+       \frac{1}{z}      
+     \end{bmatrix} = M * \begin{bmatrix}
+       \frac{1}{x} \\
+       \frac{1}{y}\\
+       \frac{1}{z}      
+     \end{bmatrix} $    \\\\
+     
+     $x = 1/3x + 1/2y $\\
+     $y = 1/3x + 1/2z $\\
+     $z = 1/3 + 1/2y + 1/2Z$\\
+     $x + y + z = 1$
+
 \question \textbf{Exercise 5.1.2:} Compute the PageRank of each page in Fig. 5.7, assuming
 $\beta = 0.8$.\\
-
+opmerking: Deze methode is de uitwerking uitgelegd in de slides, in het boek wordt een andere methode uitgelegd.\\
 $A = \beta * M + (1 - \beta) * \begin{bmatrix}\frac{1}{N}\end{bmatrix}_{NxN}$
 
 $A = 0.8 *  \begin{bmatrix}1/3 & 1/2 & 0\\ 
@@ -133,6 +150,12 @@ $A = 0.8 *  \begin{bmatrix}1/3 & 1/2 & 0\\
  1/3 & 1/2 & 1/2 \end{bmatrix} + 0.2 *  \begin{bmatrix}1/3 & 1/3 & 1/3\\ 
 1/3 & 1/3 & 1/3\\ 
 1/3 & 1/3 & 1/3 \end{bmatrix}$\\
+
+$ r = \begin{bmatrix}
+       \frac{1}{3} \\
+       \frac{1}{3}\\
+       \frac{1}{3}      
+     \end{bmatrix}$\\
 We voeren vervolgens T keer r * A uit en krijgen  $\lambda = \begin{bmatrix}
        \frac{7}{27} \\ \frac{25}{81} \\   \frac{35}{81}
      \end{bmatrix}$\\
@@ -141,15 +164,33 @@ We voeren vervolgens T keer r * A uit en krijgen  $\lambda = \begin{bmatrix}
      
 Voor iedere node geldt dat deze een connectie heeft naar de andere nodes met een waarde van $\frac{1}{N}$ behalve de successor node, deze heeft in de matrix een kolom die enkel uit nullen bestaat.
 voor bijvoorbeeld n = 4 zoals figuur 5.8 krijgen we:\\\\
-$ \beta * \begin{bmatrix}0 & 1/4 & 1/4 & 1/4 & 0\\ 
-1/4 & 0 & 1/4 & 1/4 & 0\\ 
-1/4 & 1/4 & 0& 1/4 & 0\\ 
-1/4 & 1/4 & 1/4 & 0& 0\\ 
-1/4 & 1/4 & 1/4 & 1/4 & 0 \end{bmatrix} + (1 - \beta) * \begin{bmatrix}1/5 & 1/5 & 1/5 & 1/5 & 1/5\\ 
-1/5 & 1/5 & 1/5 & 1/5 &  1/5\\ 
-1/5 & 1/5 & 1/5 & 1/5 &  1/5\\ 
-1/5 & 1/5 & 1/5 & 1/5 &  1/5\\ 
-1/5 & 1/5 & 1/5 & 1/5 &  1/5 \end{bmatrix}$
+$ M = \begin{bmatrix}0 & 1/n & 1/n & 1/n & 0\\ 
+1/n & 0 & 1/n & 1/n & 0\\ 
+1/n & 1/n & 0 & 1/n & 0\\ 
+1/n & 1/n & 1/n & 0& 0\\ 
+1/n & 1/n & 1/n & 1/n & 0 \end{bmatrix}$\\
+
+$\begin{bmatrix}
+       \frac{1}{x_{1}} \\
+       \frac{1}{x_{2}}\\
+       \frac{1}{x_{3}}\\
+        \frac{1}{x_{4}}\\     
+     \end{bmatrix}  = \beta * M * \begin{bmatrix}
+       \frac{1}{x_{1}} \\
+       \frac{1}{x_{2}}\\
+       \frac{1}{x_{3}}\\
+        \frac{1}{x_{4}}\\     
+     \end{bmatrix} + (1 - \beta) * \begin{bmatrix}
+       \frac{1}{1/n+1} \\
+       \frac{1}{1/n+1}\\
+       \frac{1}{1/n+1}\\
+        \frac{1}{1/n+1}\\     
+     \end{bmatrix}$ \\
+     
+     $x_{1} = \dots \\
+     x_{2} = \dots \\
+     x_{3} = \dots \\
+     x_{1} + x_{2} + x_{3} + x_{4} = 1$
 
 
 \question \textbf{Exercise 5.2.2 (a):} Using the method of Section 5.2.1, represent the transition matrices of the following graphs: (a) Figure 5.4.  \\ 
@@ -197,11 +238,14 @@ start T iteraties beginnende van $\begin{bmatrix} 1/2 \\
 
 
 \question \textbf{Exercise 5.4.1 :} In Section 5.4.2 we analyzed the spam farm of Fig. 5.16, where every supporting page links back to the target page. Repeat the analysis for a spam farm in which:\\\\
+opmerking: moet opgeschreven worden zoals de analyse uit het boek.\\
 (a) Each supporting page links to itself instead of to the target page. \\\\
+pagerank van de target node gaat fel zakken omdat deze niet wordt terug gestuurd.
 
 (b) Each supporting page links nowhere.\\\\
 
 (c) Each supporting page links both to itself and to the target page.\\\\
+pagerank wordt verdeeld tussen de supporting pages en de target page.
 
 \question \textbf{Exercise 5.4.2 :} For the original Web graph of Fig. 5.1, assuming only B is a trusted page:\\\\
 (a) Compute the TrustRank of each page.\\\\
@@ -244,6 +288,8 @@ spam mass formule = $\frac{pagerank - trustrank}{pagerank}$
 
 
 \question \textbf{Exercise 5.5.1 :} Compute the hubbiness and authority of each of the nodes in our original Web graph of Fig. 5.1.
+
+opmerking: L en $L^T$ moeten we omdraaien, L stelt de getransponeerde matrix voor dus $L^T$ geeft de normale matrix.\\
 
 $L = \begin{bmatrix}0 & 1 & 1 & 0 \\ 
 1 & 0 & 0 & 1 \\ 

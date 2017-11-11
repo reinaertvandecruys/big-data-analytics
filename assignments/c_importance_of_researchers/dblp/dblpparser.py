@@ -4,6 +4,9 @@ import sys
 import xml.sax
 
 
+__author__ = "Reinaert Van de Cruys"
+
+
 MONITOR_INTERVAL = 1.0
 
 

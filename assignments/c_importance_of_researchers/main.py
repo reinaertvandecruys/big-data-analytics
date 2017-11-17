@@ -131,6 +131,7 @@ def load(use_snap, silent):
     authors(-snap).txt file. If this file does not exist yet, create it first by
     parsing the actual dblp(-snap) dataset.
     """
+    
     file_path = '%s%s.txt' % ('authors', ('-snap' if use_snap else ''))
 
     if not os.path.exists(file_path):
@@ -203,6 +204,9 @@ def analyze(authors, key, file):
 
 def main():
     """Main function, dictates what data is analyzed and how."""
+
+    if not os.path.isdir('results'):
+        os.makedirs('results')
 
     # Run on both the snap file and the full dataset. remove a value from the
     # array to run on only one.

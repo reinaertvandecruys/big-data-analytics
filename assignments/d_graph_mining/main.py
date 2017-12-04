@@ -99,7 +99,7 @@ def betweenness_centrality(publications: List[Tuple[int, Set[int]]], directory: 
 
 
 def communities(publications: List[Tuple[int, Set[int]]]) -> None:
-    graph = get_collaboration_graph(publications)
+    graph = get_collaboration_graph(publications, 2006, 2016)
 
     partition = community_louvain.best_partition(graph)
     values = [partition.get(node) for node in graph.nodes()]

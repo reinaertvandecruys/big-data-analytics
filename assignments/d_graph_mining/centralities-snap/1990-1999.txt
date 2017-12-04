@@ -1,0 +1,41 @@
+0.000000 Bennet Vance
+0.000000 David Maier
+0.000000 Kien A. Hua
+0.000000 Sheau-Dong Lang
+0.000000 Wen K. Lee
+0.000000 Amr El Abbadi
+0.000000 Divyakant Agrawal
+0.000000 Stéphane Grumbach
+0.000000 Tova Milo
+0.000000 Daniel P. Miranker
+0.000000 Vasilis Samoladas
+0.000000 Jan Chomicki
+0.000000 Leopoldo E. Bertossi
+0.000000 Marcelo Arenas
+0.000000 Alon Y. Levy
+0.000000 Inderpal Singh Mumick
+0.000000 Oded Shmueli
+0.000000 Yehoshua Sagiv
+0.000000 Emmanuel Waller
+0.000000 Paris C. Kanellakis
+0.000000 Serge Abiteboul
+0.000000 Georg Gottlob
+0.000000 Thomas Eiter
+0.000000 Georg Lausen
+0.000000 Jürgen Seib
+0.000000 Patrick Lincoln
+0.000000 Pierangela Samarati
+0.000000 Sabrina De Capitani di Vimercati
+0.000000 Steven Dawson
+0.000000 Luc Segoufin
+0.000000 Victor Vianu
+0.000000 Abraham Silberschatz
+0.000000 Banu Özden
+0.000000 Minos N. Garofalakis
+0.000000 Yannis E. Ioannidis
+0.000000 Leonid Libkin
+0.000000 Michael Benedikt
+0.000000 Dimitrios Gunopulos
+0.000000 Hannu Toivonen
+0.000000 Heikki Mannila
+0.000000 Roni Khardon

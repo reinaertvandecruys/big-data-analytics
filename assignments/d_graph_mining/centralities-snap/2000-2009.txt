@@ -1,0 +1,25 @@
+0.000000 Peter Buneman
+0.000000 Sanjeev Khanna
+0.000000 Wang Chiew Tan
+0.000000 Alexander Markowetz
+0.000000 Bernhard Seeger
+0.000000 Dimitrios Gunopulos
+0.000000 Donghui Zhang
+0.000000 Vassilis J. Tsotras
+0.000000 Alex Thomo
+0.000000 Gösta Grahne
+0.000000 Christine T. Cheng
+0.000000 Chung-Min Chen
+0.000000 Arvind Arasu
+0.000000 Brian Babcock
+0.000000 Jennifer Widom
+0.000000 Jon McAlister
+0.000000 Shivnath Babu
+0.000000 Andrew Tomkins
+0.000000 D. Sivakumar
+0.000000 Eli Upfal
+0.000000 Prabhakar Raghavan
+0.000000 Ravi Kumar
+0.000000 Sridhar Rajagopalan
+0.000000 Yaron Kanza
+0.000000 Yehoshua Sagiv

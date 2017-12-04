@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
+from community import community_louvain
 import itertools
+import matplotlib.pyplot
 import networkx
 import os
 from typing import Dict, List, Optional, Set, Tuple
-
 
 # This module contains the actual DBLP parser.
 from dblp import dblpparser
@@ -81,37 +82,42 @@ def load(use_snap: bool, silent: bool) -> List[Tuple[int, Set[int]]]:
     return publications
 
 
+def betweenness_centrality(publications: List[Tuple[int, Set[int]]], directory: str) -> None:
+    if not os.path.isdir(directory):
+        os.mkdir(directory)
+
+    for begin_year in range(1980, 2019, 10):
+        end_year = begin_year + 9
+
+        graph = get_collaboration_graph(publications, begin_year, end_year)
+
+        centralities = networkx.betweenness_centrality(graph)
+
+        with open(directory + '/' + str(begin_year) + '-' + str(end_year) + '.txt', 'w') as f:
+            for name, centrality in sorted(centralities.items(), key=lambda x:x[1], reverse=True):
+                f.write('%1.6f %s\n' % (centrality, name))
+
+
+def communities(publications: List[Tuple[int, Set[int]]]) -> None:
+    graph = get_collaboration_graph(publications)
+
+    partition = community_louvain.best_partition(graph)
+    values = [partition.get(node) for node in graph.nodes()]
+    
+    networkx.draw_spring(graph, cmap=matplotlib.pyplot.get_cmap('tab20'), node_size=30, node_color=values)
+
+    matplotlib.pyplot.show()
+
+
 def main() -> None:
     if not os.path.isdir('results'):
         os.mkdir('results')
 
-    for use_snap in [False]:
+    for use_snap in [True, False]:
         publications = load(use_snap=use_snap, silent=False)
-
-        header_line = '  |  '
-
-        for begin_year in range(1980, 2010, 10):
-            end_year = begin_year + 10
-            
-            header_line += '%s%i - %i%s  |  ' % (' ' * 23, begin_year, end_year, ' ' * 23)
-
-            graph = get_collaboration_graph(publications, begin_year, end_year)
-
-            centralities = networkx.betweenness_centrality(graph)
         
-        header_line += '\n%s\n' % ('-' * len(header_line))
-        
-        with open('results/betweenness%s.txt' % ('-snap' if use_snap else ''), 'w') as f:
-            f.write(header_line)
-
-        generator = networkx.algorithms.community.centrality.girvan_newman(graph)
-
-        top_level_communities = next(generator)
-
-        next_level_communities = next(generator)
-
-        for community in next_level_communities:
-            print(community)
+        #betweenness_centrality(publications, 'centralities' + ('-snap' if use_snap else ''))
+        communities(publications)
 
 
 main()

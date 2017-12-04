@@ -1,0 +1,36 @@
+0.006723 Nathan Goodman
+0.005042 Dennis Shasha
+0.003361 Moshe Y. Vardi
+0.001681 Paris C. Kanellakis
+0.001681 Li-Yan Yuan
+0.000000 Christos H. Papadimitriou
+0.000000 Marc H. Graham
+0.000000 Gösta Grahne
+0.000000 Kari-Jouko Räihä
+0.000000 Gultekin Özsoyoglu
+0.000000 Victor Matos
+0.000000 Edward P. F. Chan
+0.000000 Héctor J. Hernández
+0.000000 Gabriel M. Kuper
+0.000000 Jeffrey D. Ullman
+0.000000 Gottfried Vossen
+0.000000 Volkert Brosda
+0.000000 Abraham Silberschatz
+0.000000 C. Mohan
+0.000000 Donald S. Fussell
+0.000000 Nicole Bidoit
+0.000000 Serge Abiteboul
+0.000000 Carlo Zaniolo
+0.000000 Domenico Saccà
+0.000000 Ding-An Chiang
+0.000000 Z. Meral Özsoyoglu
+0.000000 Stavros S. Cosmadakis
+0.000000 Rajan Suri
+0.000000 Y. C. Tay
+0.000000 Theodore Johnson
+0.000000 Allen Van Gelder
+0.000000 Rodney W. Topor
+0.000000 Tomasz Imielinski
+0.000000 Witold Lipski Jr.
+0.000000 Eljas Soisalon-Soininen
+0.000000 Seppo Sippu

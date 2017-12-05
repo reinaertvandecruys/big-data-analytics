@@ -104,7 +104,7 @@ def communities(publications: List[Tuple[int, Set[int]]]) -> None:
     partition = community_louvain.best_partition(graph)
     values = [partition.get(node) for node in graph.nodes()]
     
-    networkx.draw_spring(graph, cmap=matplotlib.pyplot.get_cmap('tab20'), node_size=30, node_color=values)
+    networkx.draw_spring(graph, cmap=matplotlib.pyplot.get_cmap('tab20'), node_size=60, node_color=values, font_size=8, with_labels=True)
 
     matplotlib.pyplot.show()
 
@@ -113,7 +113,7 @@ def main() -> None:
     if not os.path.isdir('results'):
         os.mkdir('results')
 
-    for use_snap in [True, False]:
+    for use_snap in [False]:
         publications = load(use_snap=use_snap, silent=False)
         
         #betweenness_centrality(publications, 'centralities' + ('-snap' if use_snap else ''))

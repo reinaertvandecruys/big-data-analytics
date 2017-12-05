@@ -1,0 +1,223 @@
+0.071522 Phokion G. Kolaitis
+0.056052 Michael Benedikt
+0.053218 Benny Kimelfeld
+0.050501 Juan L. Reutter
+0.041825 Georg Gottlob
+0.038074 Dirk Van Gucht
+0.037028 Christopher Ré
+0.032184 Reinhard Pichler
+0.031436 Leonid Libkin
+0.031124 Jorge Pérez 0001
+0.028393 Marcelo Arenas
+0.025804 Tova Milo
+0.022726 Dan Suciu
+0.022258 Balder ten Cate
+0.013208 Meghyn Bienvenu
+0.010354 Rasmus Pagh
+0.010110 David P. Woodruff
+0.009423 Pablo Barceló
+0.006543 Ronald Fagin
+0.006494 Ke Yi
+0.006441 Andrew McGregor 0001
+0.003424 S. Muthukrishnan
+0.003424 Serge Abiteboul
+0.003424 Sebastian Rudolph
+0.003363 Floris Geerts
+0.003363 Wenfei Fan
+0.002582 Miguel Romero 0001
+0.001848 Qin Zhang 0001
+0.001682 Pankaj K. Agarwal
+0.001559 Zhewei Wei
+0.001508 Frank Neven
+0.001223 Wim Martens
+0.001223 Srikanta Tirthapura
+0.000999 Moshe Y. Vardi
+0.000723 Wuzhou Zhang
+0.000571 Yufei Tao
+0.000448 Luc Segoufin
+0.000417 Graham Cormode
+0.000326 Sebastian Maneth
+0.000326 Benoît Groz
+0.000326 Michael A. Bender
+0.000285 Tom J. Ameloot
+0.000245 Piotr Indyk
+0.000204 Mikolaj Bojanczyk
+0.000163 Jan Van den Bussche
+0.000122 Jeff M. Phillips
+0.000061 Paraschos Koutris
+0.000041 Daniel Deutch
+0.000041 Daniel Kifer
+0.000037 Zengfeng Huang
+0.000014 Atri Rudra
+0.000014 Hung Q. Ngo 0001
+0.000000 Dan Olteanu
+0.000000 Robert Fink
+0.000000 Karl Schnaitter
+0.000000 Nilesh N. Dalvi
+0.000000 Di Wang
+0.000000 Jeffrey F. Naughton
+0.000000 Siddharth Barman
+0.000000 Yeye He
+0.000000 Aurélien Lemay
+0.000000 Joachim Niehren
+0.000000 Pierre Senellart
+0.000000 Cheng Sheng 0001
+0.000000 Debmalya Panigrahi
+0.000000 Sanjeev Khanna
+0.000000 Sudeepa Roy
+0.000000 Susan B. Davidson
+0.000000 Wojciech Kazana
+0.000000 Jan Vondrák
+0.000000 Ryan Williams 0001
+0.000000 Aleksandar Nikolov
+0.000000 Darakhshan J. Mir
+0.000000 Rebecca N. Wright
+0.000000 Avi Silberschatz
+0.000000 Azza Abouzied
+0.000000 Christos H. Papadimitriou
+0.000000 Dana Angluin
+0.000000 Joseph M. Hellerstein
+0.000000 Victor Vianu
+0.000000 Dung T. Nguyen
+0.000000 Sebastian Link
+0.000000 Sven Hartmann
+0.000000 Shivakumar Vaithyanathan
+0.000000 Sriram Raghavan
+0.000000 Yunyao Li
+0.000000 Francesco Scarcello
+0.000000 Gianluigi Greco
+0.000000 Casper Kejlberg-Rasmussen
+0.000000 Jeonghun Yoon
+0.000000 Konstantinos Tsakalidis
+0.000000 Kostas Tsichlas
+0.000000 Miao Qiao
+0.000000 Xiaocheng Hu
+0.000000 Gabriele Puppis
+0.000000 Huy Vu
+0.000000 Efthymia Tsamoura
+0.000000 Ashwin Machanavajjhala
+0.000000 Diego Calvanese
+0.000000 Giuseppe De Giacomo
+0.000000 Marco Montali
+0.000000 Christoph Koch 0001
+0.000000 Chao Li 0003
+0.000000 Gerome Miklau
+0.000000 Michael Hay
+0.000000 Vibhor Rastogi
+0.000000 André Hernich
+0.000000 Clemens Kupke
+0.000000 Thomas Lukasiewicz
+0.000000 Alon Efrat
+0.000000 Swaminathan Sankararaman
+0.000000 Jerzy Marcinkowski
+0.000000 Tomasz Gogacz
+0.000000 Andreas Pieris
+0.000000 Alban Galland
+0.000000 Émilien Antoine
+0.000000 Hubie Chen
+0.000000 Moritz Müller
+0.000000 Alessio Orlandi
+0.000000 Rossano Venturini
+0.000000 Claire David
+0.000000 Filip Murlak
+0.000000 Bogdan Alexe
+0.000000 Wang Chiew Tan
+0.000000 Frederick Reiss
+0.000000 Stijn Vansummeren
+0.000000 Bozidar Radunovic
+0.000000 Milan Vojnovic
+0.000000 Zhenming Liu
+0.000000 Reut Levi
+0.000000 Ronitt Rubinfeld
+0.000000 Val Tannen
+0.000000 Yael Amsterdamer
+0.000000 Tomasz Idziaszek
+0.000000 Wouter Gelade
+0.000000 Boris Aronov
+0.000000 Sariel Har-Peled
+0.000000 Sebastian Skritek
+0.000000 Domagoj Vrgoc
+0.000000 Diego Figueira
+0.000000 Mangesh Gupte
+0.000000 Mukund Sundararajan
+0.000000 Jef Wijsen
+0.000000 Carsten Lutz
+0.000000 Frank Wolter
+0.000000 Slawek Staworko
+0.000000 Bas Ketsman
+0.000000 Daniel Zinn
+0.000000 Andrés Letelier
+0.000000 Kook Jin Ahn
+0.000000 Sudipto Guha
+0.000000 Jianwen Su
+0.000000 Ting Deng
+0.000000 Pan Xu
+0.000000 Carlos A. Hurtado
+0.000000 Peter T. Wood
+0.000000 Emanuel Sallinger
+0.000000 Vadim Savenkov
+0.000000 Matthias Niewerth
+0.000000 Thomas Schwentick
+0.000000 Giuseppe Ottaviano
+0.000000 Roberto Grossi
+0.000000 Daniel M. Kane
+0.000000 Jelani Nelson
+0.000000 Emmanuel Waller
+0.000000 Timos Antonopoulos
+0.000000 Fang Wei 0001
+0.000000 Georg Lausen
+0.000000 Michael Meier 0002
+0.000000 Michael Schmidt 0002
+0.000000 Markus Krötzsch
+0.000000 Gábor Tardos
+0.000000 Hossein Jowhari
+0.000000 Mert Saglam
+0.000000 Bing-Rong Lin
+0.000000 Arnaud Durand 0001
+0.000000 Nicole Schweikardt
+0.000000 Jeremy T. Fineman
+0.000000 Martin Farach-Colton
+0.000000 Seth Gilbert
+0.000000 Sándor P. Fekete
+0.000000 Yehoshua Sagiv
+0.000000 Cristian Riveros
+0.000000 Edith Cohen
+0.000000 Haim Kaplan
+0.000000 Bradley C. Kuszmaul
+0.000000 Haodong Hu
+0.000000 Gerhard Weikum
+0.000000 Martin Theobald
+0.000000 Mohammad Mahdian
+0.000000 Sepideh Mahabadi
+0.000000 Vahab S. Mirrokni
+0.000000 Pablo Barceló Baeza
+0.000000 András Z. Salamon
+0.000000 Egor V. Kostylev
+0.000000 Katja Losemann
+0.000000 Paul Beame
+0.000000 Angela Bonifati
+0.000000 Guillaume Bagan
+0.000000 Szymon Torunczyk
+0.000000 Ely Porat
+0.000000 Mantas Simkus
+0.000000 Jeffrey Scott Vitter
+0.000000 Manish Patil
+0.000000 Rahul Shah
+0.000000 Sharma V. Thankachan
+0.000000 Yakov Nekrich
+0.000000 Bill Howe
+0.000000 Magdalena Balazinska
+0.000000 Prasang Upadhyaya
+0.000000 Francesco Silvestri 0001
+0.000000 Allan Borodin
+0.000000 Hyun Chul Lee
+0.000000 Yuli Ye
+0.000000 Amélie Gheerbrant
+0.000000 Cristina Sirangelo
+0.000000 Richard Hull
+0.000000 Morten Stöckel
+0.000000 A. Pavan
+0.000000 Krzysztof Choromanski
+0.000000 Tal Malkin
+0.000000 Alin Deutsch
+0.000000 Babak Bagheri Hariri

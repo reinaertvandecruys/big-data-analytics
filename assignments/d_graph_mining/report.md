@@ -6,7 +6,7 @@
 
 ## Implementatie
 
-...
+Om de betweenness centralities te berekenen, gebruiken we de networkx.betweenness_centrality() functie. Voor iedere periode van 5 of 10 jaar bouwen we een NetworkX collaboration graph op, die we vervolgens een voor een meegeven aan de functie om de bijhorende centralities te krijgen. Om de communities te berekenen, gebruiken we community_louvain, waarna we een map opbouwen met behulp van pyplot en die tekenen via networkx.draws_pring().
 
 
 ## Resultaten
